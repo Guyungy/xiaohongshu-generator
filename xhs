@@ -1,0 +1,53 @@
+#!/bin/bash
+# 小红书内容提取 - 快速启动脚本
+
+SCRIPT_DIR="$HOME/.claude/skills/xiaohongshu-content-generator/tools"
+DATA_DIR="$HOME/.claude/skills/xiaohongshu-content-generator/data"
+
+# 颜色输出
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+echo -e "${GREEN}🚀 小红书内容提取工具${NC}\n"
+
+# 检查是否提供了URL
+if [ -z "$1" ]; then
+    echo -e "${RED}❌ 请提供小红书链接${NC}"
+    echo ""
+    echo "用法:"
+    echo "  $0 <小红书链接>"
+    echo ""
+    echo "示例:"
+    echo "  $0 http://xhslink.com/o/2DIltcAJA2e"
+    exit 1
+fi
+
+URL="$1"
+
+echo -e "🔗 链接: ${YELLOW}$URL${NC}\n"
+
+# 运行Python脚本
+python3 "$SCRIPT_DIR/fetch_xhs_auto.py" "$URL"
+
+# 检查是否成功
+if [ $? -eq 0 ]; then
+    echo ""
+    echo -e "${GREEN}✅ 提取成功！${NC}"
+    echo ""
+    echo "📄 提取的内容保存在:"
+    echo "   $DATA_DIR/last_extracted.txt"
+    echo ""
+    echo "💡 下一步:"
+    echo "   1. 查看内容: cat $DATA_DIR/last_extracted.txt"
+    echo "   2. 在Claude中说: '读取该文件并生成小红书内容'"
+else
+    echo ""
+    echo -e "${RED}❌ 提取失败${NC}"
+    echo ""
+    echo "💡 故障排除:"
+    echo "   1. 检查网络连接"
+    echo "   2. 确认已登录小红书"
+    echo "   3. 查看上方的错误信息"
+fi
