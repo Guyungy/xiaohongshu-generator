@@ -12,8 +12,13 @@ import sys
 from pathlib import Path
 from playwright.async_api import async_playwright
 
-# 配置
-STORAGE_FILE = Path.home() / ".claude/skills/xiaohongshu-content-generator/data/xhs_auth.json"
+# --- 修正路径问题 ---
+# 获取脚本所在的目录 -> "tools"
+# 获取项目根目录 -> "tools"的父目录
+PROJECT_ROOT = Path(__file__).parent.parent 
+STORAGE_FILE = PROJECT_ROOT / "data/xhs_auth.json"
+# --- 修正结束 ---
+
 STORAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 async def first_time_login(url):
@@ -217,7 +222,7 @@ async def extract_content(page):
         print(result)
 
         # 保存到文件
-        output_file = Path.home() / ".claude/skills/xiaohongshu-content-generator/data/last_extracted.txt"
+        output_file = PROJECT_ROOT / "data/last_extracted.txt"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(result)
         print(f"\n💾 内容已保存到：{output_file}")
