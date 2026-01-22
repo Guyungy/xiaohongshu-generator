@@ -127,7 +127,7 @@ async def extract_content(page):
 
     try:
         # 等待主要内容加载
-        await page.wait_for_selector('body', timeout=10000)
+        await page.wait_for_selector('body', timeout=30000)
 
         # 尝试多种选择器提取内容
         content_data = {
