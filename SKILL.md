@@ -5,7 +5,7 @@ description: 专业的小红书内容生成器，保持固定博主人设和风�
 
 # 小红书内容生成器 (XiaoHongShu Content Generator)
 
-基于参考内容，自动生成符合博主人设的小红书笔记内容。支持 **普通文本笔记** 和 **Mr Wong 风格 SVG 卡片**。
+基于参考内容，自动生成符合博主人设的小红书笔记内容。
 
 ## 智能路由 (Smart Router)
 当用户输入包含以下关键词时，自动切换到对应模式：
@@ -89,6 +89,7 @@ https://react.dev/blog/performance-tips
 ## 人设配置系统
 
 ### 当前人设：专业严谨型
+**输出格式**：可以直接复制的 SVG 代码
 
 **人设特征：**
 - 身份定位：科技/知识领域专业博主
@@ -119,7 +120,6 @@ https://react.dev/blog/performance-tips
 
 
 详见 `references/persona-library.md`
-
 
 
 ### 特殊人设：Mr Wong (温情码农)
