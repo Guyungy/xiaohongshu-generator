@@ -29,5 +29,5 @@
 
 ## 5. 交付物
 对于每个请求，必须生成：
-1.  **SVG 卡片**: `output/[topic]/[topic].svg` (4页连体，单张超宽SVG).
+1.  **SVG 卡片**: `output/[topic]/[topic].svg` (4页连单张SVG).
 2.  **发布元数据**: `output/[topic]/post.md` (正文 + 标签).
