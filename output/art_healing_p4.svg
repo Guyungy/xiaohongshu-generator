@@ -1,0 +1,48 @@
+<svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .main-text { font-family: 'PingFang SC', sans-serif; fill: #111111; }
+            .accent-text { font-family: 'PingFang SC', sans-serif; fill: #20C997; } /* Updated accent color */
+            .eng-text { font-family: 'Arial', sans-serif; fill: #111111; }
+            .bg-white { fill: #FFFFFF; }
+            .line-stroke { stroke: #111111; stroke-width: 2; }
+            .placeholder-rect { fill: none; stroke: #AAAAAA; stroke-width: 1; stroke-dasharray: 4 2; }
+            .placeholder-text { font-family: 'PingFang SC', sans-serif; font-size: 18; fill: #AAAAAA; }
+        </style>
+    </defs>
+
+    <rect width="600" height="800" class="bg-white"/>
+
+    <!-- Column Header -->
+    <text x="300" y="40" text-anchor="middle" font-size="20" class="eng-text">RESIDENT ARTIST LOG</text>
+    <line x1="150" y1="50" x2="450" y2="50" class="line-stroke"/>
+
+    <!-- P4 Title -->
+    <text x="300" y="100" text-anchor="middle" font-size="28" font-weight="bold" class="main-text">无墙的艺术教室：耀中耀华的疗愈密码</text>
+
+    <!-- Content Text -->
+    <g class="main-text" font-size="22">
+        <text x="50" y="160">作为驻校艺术家，我观察到在 <tspan font-weight="bold" fill="#20C997">【上海耀中/耀华】</tspan> 的艺术</text> <!-- Accent color applied -->
+        <text x="50" y="190">课堂里，孩子们不是被限定在某种画法或风格，而是被</text>
+        <text x="50" y="220">鼓励去探索、去表达。这里的艺术教育，更像是一场</text>
+        <text x="50" y="250">“无墙教室”里的心灵漫游。</text>
+        
+        <text x="50" y="300">我曾看到一个孩子，在画布上涂满了灰色，然后默默地</text>
+        <text x="50" y="330">用手指在上面画着心形，最终又用亮黄色覆盖。老师并</text>
+        <text x="50" y="360">未干预，只是在旁陪伴和引导。</text>
+
+        <text x="50" y="410">这种<tspan fill="#20C997">“全人教育”</tspan>的理念，让艺术成为孩子表达情绪、探索</text> <!-- Accent color applied -->
+        <text x="50" y="440">自我、实现“心轮连接”的出口。它不追求完美的技法,</text>
+        <text x="50" y="470">而是看重每一次创作背后，孩子内心的流动与成长。</text>
+
+        <text x="50" y="520">通过艺术融入学科，孩子们在动手创作中培养了同理心、</text>
+        <text x="50" y="550">学会了团队协作，真正实现了艺术与生活的<tspan fill="#20C997">“整合”</tspan>。</text> <!-- Accent color applied -->
+    </g>
+
+    <!-- Image Placeholder -->
+    <rect x="100" y="600" width="400" height="150" class="placeholder-rect"/>
+    <text x="300" y="675" text-anchor="middle" class="placeholder-text">📷 建议放：上海耀中/耀华学生在艺术课上自由创作，脸上洋溢着快乐和专注。</text>
+    
+    <!-- Footer -->
+    <text x="550" y="770" text-anchor="end" font-size="18" class="main-text">04 / 05</text>
+</svg>

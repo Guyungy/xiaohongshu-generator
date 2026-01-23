@@ -1,0 +1,47 @@
+<svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .main-text { font-family: 'PingFang SC', sans-serif; fill: #111111; }
+            .accent-text { font-family: 'PingFang SC', sans-serif; fill: #20C997; } /* Updated accent color */
+            .eng-text { font-family: 'Arial', sans-serif; fill: #111111; }
+            .bg-white { fill: #FFFFFF; }
+            .line-stroke { stroke: #111111; stroke-width: 2; }
+            .placeholder-rect { fill: none; stroke: #AAAAAA; stroke-width: 1; stroke-dasharray: 4 2; }
+            .placeholder-text { font-family: 'PingFang SC', sans-serif; font-size: 18; fill: #AAAAAA; }
+        </style>
+    </defs>
+
+    <rect width="600" height="800" class="bg-white"/>
+
+    <!-- Column Header -->
+    <text x="300" y="40" text-anchor="middle" font-size="20" class="eng-text">RESIDENT ARTIST LOG</text>
+    <line x1="150" y1="50" x2="450" y2="50" class="line-stroke"/>
+
+    <!-- P5 Title -->
+    <text x="300" y="100" text-anchor="middle" font-size="28" font-weight="bold" class="main-text">艺术不是技能，是生命流动的语言</text>
+
+    <!-- Content Text -->
+    <g class="main-text" font-size="22">
+        <text x="50" y="160">给家长的建议：</text>
+        <text x="50" y="200">不要只问孩子“你画得像不像？”，</text>
+        <text x="50" y="230">多问一句<tspan fill="#20C997">“你画的是什么感受？今天想表达什么？”</tspan></text> <!-- Accent color applied -->
+        <text x="50" y="260">让艺术成为孩子情感的出口。</text>
+
+        <text x="50" y="320">记住，艺术不是僵化的技能，它是帮助我们理解、连接</text>
+        <text x="50" y="350">和表达内心世界，进行<tspan fill="#20C997">“自我整合”</tspan>的生命语言。</text> <!-- Accent color applied -->
+        
+        <text x="50" y="400">它如同一个避难所，让孩子在其中自由释放情绪，找到</text>
+        <text x="50" y="430">内在的平静，感受<tspan fill="#20C997">“爱与被爱”</tspan>的力量。</text> <!-- Accent color applied -->
+    </g>
+
+    <!-- Image Placeholder -->
+    <rect x="100" y="480" width="400" height="150" class="placeholder-rect"/>
+    <text x="300" y="555" text-anchor="middle" class="placeholder-text">📷 建议放：孩子与父母一起创作艺术品，或是家长在温柔地看着孩子画画。</text>
+    
+    <!-- Fixed Sign-off -->
+    <text x="300" y="700" text-anchor="middle" font-size="20" class="main-text">驻校艺术家手记 @ 上海耀中耀华</text>
+    <text x="300" y="730" text-anchor="middle" font-size="18" class="main-text">2026/01/23</text>
+
+    <!-- Footer -->
+    <text x="550" y="770" text-anchor="end" font-size="18" class="main-text">05 / 05</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1600" fill="#F8FAFC"/>
+
+<!-- Header -->
+<g id="Header">
+    <rect x="40" y="40" width="1120" height="80" rx="24" fill="#FFFFFF"/>
+    <circle cx="80" cy="80" r="20" fill="#000000"/>
+    <text x="112" y="92" font-family="monospace" font-size="24" fill="#0C0A09">
+        Mr Wong是码农
+    </text>
+    <text x="1000" y="92" font-family="monospace" font-size="24" fill="#64748B">
+        // Solution
+    </text>
+</g>
+
+<!-- Main Title -->
+<text x="60" y="240" font-family="sans-serif" font-size="80" font-weight="bold" fill="#0C0A09">
+    把一次性交易，<tspan x="60" dy="1.2em">重构成“敏捷”交付</tspan>
+</text>
+
+<!-- Bento Box Grid -->
+<g id="BentoGrid">
+    <!-- Box 1: Agile Delivery -->
+    <rect x="60" y="400" width="1080" height="500" rx="24" fill="#FFFFFF"/>
+    <text x="100" y="480" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0C0A09">1. 核心思路：化整为零</text>
+
+    <g id="AgileIllustration">
+        <rect x="150" y="600" width="300" height="200" fill="#FECACA" rx="12"/>
+        <text x="300" y="710" text-anchor="middle" font-family="monospace" font-size="24">整体合同</text>
+
+        <path d="M500 700 L 600 700" stroke="#9CA3AF" stroke-width="4" stroke-dasharray="8 8"/>
+
+        <rect x="650" y="550" width="120" height="80" fill="#DBEAFE" rx="8"/>
+        <text x="710" y="600" text-anchor="middle" font-size="20">阶段1</text>
+        <rect x="650" y="650" width="120" height="80" fill="#DBEAFE" rx="8"/>
+        <text x="710" y="700" text-anchor="middle" font-size="20">阶段2</text>
+        <rect x="650" y="750" width="120" height="80" fill="#DBEAFE" rx="8"/>
+        <text x="710" y="800" text-anchor="middle" font-size="20">阶段3</text>
+    </g>
+    <text x="100" y="850" font-family="monospace" font-size="24" fill="#475569">每个阶段都是一个“交付-验收-付款”的闭环</text>
+
+    <!-- Box 2: The "Soft" Ad -->
+    <rect x="60" y="940" width="1080" height="400" rx="24" fill="#E0F2FE"/>
+    <text x="100" y="1000" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0C0A09">2. 意外收获：激发“主人翁”精神</text>
+    <text x="100" y="1080" font-family="monospace" font-size="28" fill="#0891B2">
+        对方知道，如果这次做得不好，就没有下次了。
+    </text>
+    <text x="100" y="1140" font-family="monospace" font-size="28" fill="#0891B2">
+        这种模式，驱动双方都拿出最好的状态。
+    </text>
+
+    <!-- Subtle school promotion -->
+    <g id="SchoolAd">
+        <rect x="800" y="1050" width="280" height="220" rx="12" fill="#FFFFFF" transform="rotate(5 940 1160)"/>
+        <text x="940" y="1120" text-anchor="middle" font-family="cursive" font-size="24" fill="#3B82F6" transform="rotate(5 940 1160)">
+            我爱广州耀华!
+        </text>
+        <text x="940" y="1180" text-anchor="middle" font-size="50" transform="rotate(5 940 1160)">🏠</text>
+         <text x="850" y="1230" text-anchor="middle" font-family="cursive" font-size="20" fill="#3B82F6" transform="rotate(5 940 1160)">
+            - by 小明
+        </text>
+    </g>
+</g>
+
+<!-- Footer -->
+<g id="Footer">
+    <text x="60" y="1500" font-family="monospace" font-size="24" fill="#64748B">
+        好的制度，让好人更好
+    </text>
+    <text x="1100" y="1500" font-family="monospace" font-size="24" fill="#64748B">
+        2 / 3
+    </text>
+</g>
+</svg>
