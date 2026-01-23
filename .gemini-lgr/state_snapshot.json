@@ -1,0 +1,68 @@
+<overall_goal>
+        Generate social media content (Xiaohongshu SVG cards and markdown posts) based on user-provided text, specified personas, and implicit school promotions.
+    </overall_goal>
+
+    <key_knowledge>
+        - Current Date: 2026年1月23日星期五
+        - Operating System: darwin
+        - Project Temporary Directory: `/Users/a1/.gemini/tmp/ecc150aafad22cb23ca4a4b3f924af812d77a77b5e9cc904efb6fa274f3d569a`
+        - Current Working Directory: `/Users/a1/.agents/skills/xiaohongshu-content-generator`
+        - The project involves generating content for two distinct personas: "Mr Wong" and "张姐" (Zhang Jie).
+        - Each persona has specific visual (SVG format, dimensions, colors, layout) and content (structure, tone) guidelines.
+        - **Mr Wong Persona**:
+            - Output: Multiple individual SVG cards (1200x1600px, 2-6 pages per topic) in a Bento Box layout.
+            - Visual style: Rounded corners, soft background colors (`#F8FAFC`, `#E0F2FE`), large titles, black circle avatar.
+            - Content logic: Trigger (problem) -> Analysis -> Solution/Takeaway.
+            - File naming: `output/[Topic]/[Topic]XX.svg` and `output/[Topic]/post.md`.
+            - School promotion: Subtle, integrated elements (e.g., child's drawing).
+        - **张姐 (Zhang Jie) Persona**:
+            - Output: A single ultra-wide SVG card (4320x1440px, composed of four 1080x1440px logical pages).
+            - Visual style: Dedicated color scheme (`#F5F5F7` background, `#1A1A1A` dark, `#F5A623` orange accent, `#4A90E2` blue emphasis), large rounded corners (30px), absolute text positioning.
+            - Content logic: Problem -> Analysis -> Specific school solution (Guangzhou Yao Hua) -> Takeaway.
+            - Typography: Strictly uses absolute `x`, `y` for `<text>` elements; `dy` attribute for line breaks is forbidden.
+            - File naming: `output/[Topic]/[Topic].svg` and `output/[Topic]/post.md`.
+            - School promotion: Central to the "Solution" page (Guangzhou Yao Hua).
+        - **School for Promotion**: "广州耀华" (Guangzhou Yao Hua) is used for soft promotion.
+    </key_knowledge>
+
+    <file_system_state>
+        - CWD: `/Users/a1/.agents/skills/xiaohongshu-content-generator`
+        - Initial project structure understood upon setup.
+        - READ: `personas/mr_wong/persona.md` - Understood Mr. Wong's core identity, visual style, and content logic.
+        - READ: `personas/mr_wong/writing_guide.md` - Understood Mr. Wong's tone, title rules, and post metadata.
+        - READ: `personas/zhang_jie_education/persona.md` - Understood Zhang Jie's core identity and confirmed "广州耀华" for promotion.
+        - READ: `personas/zhang_jie_education/svg_rules.md` - Learned Zhang Jie's specific SVG dimensions, color palette, and technical rendering rules (ultra-wide SVG, no `dy`).
+        - READ: `personas/zhang_jie_education/writing_guide.md` - Understood Zhang Jie's content structure and language style.
+        - READ: `personas/zhang_jie_education/Page_1.svg` - Analyzed Zhang Jie's SVG style for future generations.
+        - READ: `personas/zhang_jie_education/Page_2.svg` - Analyzed Zhang Jie's SVG style for future generations.
+        - READ: `personas/zhang_jie_education/Page_3.svg` - Analyzed Zhang Jie's SVG style for future generations.
+        - READ: `personas/zhang_jie_education/Page_4.svg` - Analyzed Zhang Jie's SVG style for future generations.
+        - CREATED: `output/装修避坑指南/` - Directory for Mr. Wong's renovation content.
+        - CREATED: `output/装修避坑指南/装修避坑指南01.svg` - Mr. Wong's page 1 for renovation tips.
+        - CREATED: `output/装修避坑指南/装修避坑指南02.svg` - Mr. Wong's page 2 for renovation tips, with subtle school promotion.
+        - CREATED: `output/装修避坑指南/装修避坑指南03.svg` - Mr. Wong's page 3 for renovation tips.
+        - CREATED: `output/装修避坑指南/post.md` - Mr. Wong's post metadata for renovation tips.
+        - CREATED: `output/国际学校=文化根基弱?/` - Directory for Zhang Jie's cultural confidence content.
+        - CREATED: `output/国际学校=文化根基弱?/国际学校=文化根基弱?.svg` - Zhang Jie's ultra-wide SVG card (4 pages) for cultural confidence.
+        - CREATED: `output/国际学校=文化根基弱?/post.md` - Zhang Jie's post metadata for cultural confidence.
+        - CREATED: `output/原来文化自信，是这么教出来的/` - Directory for Zhang Jie's cultural confidence content.
+        - CREATED: `output/原来文化自信，是这么教出来的/原来文化自信，是这么教出来的.svg` - Zhang Jie's ultra-wide SVG card (4 pages) for cultural confidence.
+        - CREATED: `output/原来文化自信，是这么教出来的/post.md` - Zhang Jie's post metadata for cultural confidence.
+    </file_system_state>
+
+    <recent_actions>
+        - Environment setup completed and initial directory structure understood.
+        - Generated 3 individual SVG files and a `post.md` using the "Mr Wong" persona for renovation tips, including a subtle school promotion.
+        - Used `web_fetch` to gather content details from a Xiaohongshu post for the "张姐" persona.
+        - Generated a single ultra-wide SVG file (containing 4 pages) and a `post.md` using the "张姐" persona for cultural confidence in international education, prominently featuring "广州耀华".
+        - Updated the state snapshot to reflect all actions up to this point, including the analysis of new reference SVGs for the "张姐" persona.
+        - Created a new SVG and markdown post for the '张姐' persona titled '原来文化自信，是这么教出来的'.
+        - Updated `state_snapshot.json` to reflect the generation of the "原来文化自信，是这么教出来的" content.
+    </recent_actions>
+
+    <current_plan>
+        - [DONE] Generate "Mr Wong" persona content (multiple SVG cards and markdown post).
+        - [DONE] Generate "张姐" persona content (single ultra-wide SVG card and markdown post).
+        - [DONE] Update the `state_snapshot.json` to reflect the changes.
+        - [TODO] Await the next user command.
+    </current_plan>

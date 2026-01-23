@@ -1,0 +1,35 @@
+<svg width="4320" height="1440" viewBox="0 0 4320 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- This is a placeholder SVG. Complex visual design (colors, fonts, Bento Box layout) is beyond current capabilities. -->
+  <!-- Page 1: P1 破题 - Core viewpoint and background -->
+  <g transform="translate(0, 0)">
+    <rect width="1080" height="1440" fill="#F5F5F7"/>
+    <text x="540" y="720" font-family="sans-serif" font-size="48" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Page 1</text>
+    <text x="540" y="780" font-family="sans-serif" font-size="36" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">国际教育下，文化自信这样生长！</text>
+    <text x="540" y="830" font-family="sans-serif" font-size="24" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">核心观点与背景洞察</text>
+    <text x="540" y="1380" font-family="sans-serif" font-size="20" fill="#888888" text-anchor="middle">1 / 4</text>
+  </g>
+
+  <!-- Page 2: P2 拆解 - Deep analysis of cultural confidence's "natural growth" logic -->
+  <g transform="translate(1080, 0)">
+    <rect width="1080" height="1440" fill="#F5F5F7"/>
+    <text x="540" y="720" font-family="sans-serif" font-size="48" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Page 2</text>
+    <text x="540" y="780" font-family="sans-serif" font-size="36" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">深度分析：文化自信的“自然生长”逻辑</text>
+    <text x="540" y="1380" font-family="sans-serif" font-size="20" fill="#888888" text-anchor="middle">2 / 4</text>
+  </g>
+
+  <!-- Page 3: P3 测评/植入 - YaoHua case observation -->
+  <g transform="translate(2160, 0)">
+    <rect width="1080" height="1440" fill="#F5F5F7"/>
+    <text x="540" y="720" font-family="sans-serif" font-size="48" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Page 3</text>
+    <text x="540" y="780" font-family="sans-serif" font-size="36" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">耀华案例观察</text>
+    <text x="540" y="1380" font-family="sans-serif" font-size="20" fill="#888888" text-anchor="middle">3 / 4</text>
+  </g>
+
+  <!-- Page 4: P4 总结 - Advice for parents and concluding remarks -->
+  <g transform="translate(3240, 0)">
+    <rect width="1080" height="1440" fill="#F5F5F7"/>
+    <text x="540" y="720" font-family="sans-serif" font-size="48" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Page 4</text>
+    <text x="540" y="780" font-family="sans-serif" font-size="36" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">给家长的建议 &amp; 互动</text>
+    <text x="540" y="1380" font-family="sans-serif" font-size="20" fill="#888888" text-anchor="middle">4 / 4</text>
+  </g>
+</svg>
