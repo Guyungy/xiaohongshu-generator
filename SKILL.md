@@ -146,10 +146,23 @@ https://react.dev/blog/performance-tips
 
 
 
-## 文件输出规范 (Global Output Rules)
-所有生成的文件素材（尤其是SVG卡片），必须严格遵守以下目录结构：
+## 文件输出规范 (Global Output Rules) - 强制
 
-1.  **根目录**：`output/`
+本 skill 的所有内容生成请求，无论使用何种 persona，必须同时产出以下交付物：
+*   一个 post.md 文件
+*   2–6 个独立的单页 SVG 文件
+*   每个 SVG 文件尺寸固定为 1080 × 1440 px
+
+Persona 仅影响内容风格与表达视角，不得修改、覆盖或绕过上述输出结构规范。
+
+### 详细交付物说明 (Detailed Deliverables)
+
+对于每个内容生成请求，必须产出以下详细交付物：
+1.  **SVG 卡片**: `output/[topic]/[topic]NN.svg` (多张单页SVG，NN为序号，如01, 02。通常2-6页)。
+2.  **发布元数据**: `output/[topic]/post.md` (包含标题、正文和话题标签)。
+
+所有生成的文件素材，必须严格遵守以下目录结构：
+
 1.  **根目录**：`output/`
 2.  **子文件夹**：**直接使用笔记的第一页标题命名**。
     *   例如：`output/用一天“修复”人生？我是把生活当成系统来重构/`
