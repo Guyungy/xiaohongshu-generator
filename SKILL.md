@@ -81,7 +81,7 @@ https://react.dev/blog/performance-tips
 风格：专业艺术鉴赏
 ```
 
-详见：`references/fetch-xhs-content.md`
+详见：`references/小红书内容抓取.md`
 
 ### 处理流程
 
@@ -127,7 +127,7 @@ https://react.dev/blog/performance-tips
 
 
 
-详见 `references/persona-library.md`
+详见 `references/人设库.md`
 
 
 ### 特殊人设：Mr Wong (温情码农)
@@ -140,7 +140,7 @@ https://react.dev/blog/performance-tips
 
 *   **工作流优化**：**直接生成 (Direct Generation)**。无需生成中间的 `draft_content.md`，直接根据内容分析 输出 SVG。
 
-*   **风格定义**：详见 `personas/mr_wong/persona.md`
+风格定义：详见 `personas/Mr Wong是码农/persona.md`
 
 
 
@@ -150,7 +150,7 @@ https://react.dev/blog/performance-tips
 
 *   **风格**：冷静、精确、锋利，拆解底层逻辑。
 
-*   **人设定义**：`personas/zhang_jie_education/persona.md`
+人设定义：`personas/张姐说国际教育/persona.md`
 
 
 
@@ -223,7 +223,7 @@ https://react.dev/blog/performance-tips
 ✅ "完整分析见图文"
 ```
 
-详见 `references/content-safety.md`
+详见 `references/内容安全规范.md`
 
 ## 内容生成模板
 
@@ -396,7 +396,7 @@ WebFetch工具调用：
 
 ## 使用示例
 
-详见 `references/examples.md`
+详见 `references/使用示例.md`
 
 ## 配置说明
 
@@ -417,7 +417,7 @@ WebFetch工具调用：
 3. 语言风格
 4. 典型案例
 
-详见 `references/persona-customization.md`
+详见 `references/人设定制.md`
 
 ## 高级功能
 
