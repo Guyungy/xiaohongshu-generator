@@ -5,7 +5,7 @@
   <!-- Header -->
   <line x1="60" y1="120" x2="1020" y2="120" stroke="#B45B3E" stroke-width="2"/>
   <text x="60" y="100" fill="#B45B3E" font-family="PingFang SC, sans-serif" font-size="24" font-weight="bold" letter-spacing="2">FAMILY &amp; GROWTH</text>
-  <text x="1020" y="100" fill="#333333" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="end">01/04</text>
+  <text x="1020" y="100" fill="#333333" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="end">01/05</text>
   
   <!-- Main Title -->
   <text x="60" y="240" fill="#333333" font-family="PingFang SC, sans-serif" font-size="96" font-weight="bold" letter-spacing="-2">与青春期孩子的</text>

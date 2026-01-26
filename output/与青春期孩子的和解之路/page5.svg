@@ -1,0 +1,43 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#222222"/>
+  
+  <!-- Page Number -->
+  <text x="1020" y="100" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="end">05/05</text>
+
+  <!-- Large Decorative Quote Mark -->
+  <text x="60" y="250" fill="#B45B3E" font-family="Times New Roman, serif" font-size="200" font-weight="bold">“</text>
+
+  <!-- Main Title -->
+  <text x="60" y="450" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-size="80" font-weight="bold" letter-spacing="-2">
+    <tspan x="60" dy="0">教育，</tspan>
+    <tspan x="60" dy="110">是学会</tspan>
+    <tspan fill="#B45B3E">得体的退出。</tspan>
+  </text>
+  
+  <!-- Body Text -->
+  <text x="60" y="700" fill="#CCCCCC" font-family="PingFang SC, sans-serif" font-size="32" line-spacing="15">
+    <tspan x="60" dy="0">允许他成为自己，</tspan>
+    <tspan x="60" dy="60">哪怕不那么完美，</tspan>
+    <tspan x="60" dy="60">也是我们给孩子最好的成人礼。</tspan>
+    <tspan x="60" dy="90">这条和解之路，你走得如何？</tspan>
+  </text>
+  
+  <!-- Divider Line -->
+  <line x1="60" y1="900" x2="1020" y2="900" stroke="#444444" stroke-width="1"/>
+
+  <!-- CTA Card -->
+  <rect x="60" y="1000" width="960" height="300" rx="30" fill="white"/>
+  
+  <!-- CTA Content -->
+  <text x="540" y="1130" fill="#333333" font-family="PingFang SC, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
+      <tspan fill="#333333">去看看</tspan><tspan fill="#B45B3E"> @上海临港耀华 </tspan>
+  </text>
+  <text x="540" y="1190" fill="#666666" font-family="PingFang SC, sans-serif" font-size="28" text-anchor="middle">家庭教育工坊的智慧分享</text>
+
+  <!-- Footer Tags -->
+  <text x="540" y="1380" fill="#666666" font-family="PingFang SC, sans-serif" font-size="20" text-anchor="middle">
+      #青春期教育 #亲子关系 #父母智慧
+  </text>
+
+</svg>
