@@ -1,0 +1,39 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F7F3F0"/>
+  
+  <!-- Header -->
+  <line x1="60" y1="120" x2="1020" y2="120" stroke="#B45B3E" stroke-width="2"/>
+  <text x="60" y="100" fill="#B45B3E" font-family="PingFang SC, sans-serif" font-size="24" font-weight="bold" letter-spacing="2">EDUCATION &amp; TRAVEL</text>
+  <text x="1020" y="100" fill="#333333" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="end">01/04</text>
+  
+  <!-- Main Title -->
+  <text x="60" y="240" fill="#333333" font-family="PingFang SC, sans-serif" font-size="96" font-weight="bold" letter-spacing="-2">在临港耀华</text>
+  <text x="60" y="360" fill="#333333" font-family="PingFang SC, sans-serif" font-size="96" font-weight="bold" letter-spacing="-2">“中国教室”</text>
+  <text x="60" y="480" fill="#333333" font-family="PingFang SC, sans-serif" font-size="72" font-weight="bold" letter-spacing="-2">看见行走的课堂。</text>
+  
+  <!-- Collage Section -->
+  <!-- Large Image Left (Pottery throwing equivalent -> Maybe students observing/doing) -->
+  <rect x="60" y="600" width="620" height="740" fill="#E0DCD9"/>
+  <text x="370" y="950" fill="#999999" font-family="PingFang SC, sans-serif" font-size="32" text-anchor="middle">Image: Immersive Action</text>
+  
+  <!-- Sticker on Large Image -->
+  <g transform="rotate(-10, 150, 1100)">
+      <rect x="150" y="1050" width="220" height="70" rx="35" fill="#FFE14D" stroke="white" stroke-width="4"/>
+      <text x="260" y="1095" fill="#333333" font-family="PingFang SC, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">中国教室</text>
+  </g>
+
+  <!-- Small Image Top Right -->
+  <rect x="710" y="600" width="310" height="355" fill="#D6D2CF"/>
+  <text x="865" y="770" fill="#999999" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="middle">Image: Scenery/Detail</text>
+
+  <!-- Small Image Bottom Right -->
+  <rect x="710" y="985" width="310" height="355" fill="#CAC7C4"/>
+  <text x="865" y="1160" fill="#999999" font-family="PingFang SC, sans-serif" font-size="24" text-anchor="middle">Image: Studying/Writing</text>
+  
+  <!-- Bottom Text/Intro -->
+  <rect x="60" y="1230" width="5" height="100" fill="#B45B3E"/>
+  <text x="80" y="1260" fill="#666666" font-family="PingFang SC, sans-serif" font-size="28">拒绝走马观花，</text>
+  <text x="80" y="1300" fill="#666666" font-family="PingFang SC, sans-serif" font-size="28">带你看看真正扎根土地的游学。</text>
+
+</svg>
