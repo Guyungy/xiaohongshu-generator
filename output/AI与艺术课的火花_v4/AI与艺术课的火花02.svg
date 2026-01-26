@@ -1,0 +1,52 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="white"/>
+<rect x="50" y="50" width="980" height="1340" stroke="black" stroke-width="2"/>
+
+<!-- Header -->
+<text x="80" y="100" font-family="sans-serif" font-size="32" font-weight="bold" fill="black">算法之潮涌来，艺术之火何以不熄？</text>
+<line x1="80" y1="120" x2="1000" y2="120" stroke="#FF4500" stroke-width="2"/>
+
+<!-- VS -->
+<text x="540" y="200" font-family="serif" font-size="96" font-weight="bold" fill="#FF4500" text-anchor="middle">VS</text>
+
+<!-- AI Column -->
+<g id="ai-column">
+    <rect x="80" y="250" width="420" height="800" stroke="black" stroke-width="1" rx="10"/>
+    <text x="290" y="310" font-family="monospace" font-size="36" fill="black" text-anchor="middle">AI Art</text>
+    <line x1="100" y1="340" x2="480" y2="340" stroke="black" stroke-width="1"/>
+    
+    <text x="100" y="400" font-family="sans-serif" font-size="28" fill="black">“冰冷完美”</text>
+    <text x="100" y="440" font-family="sans-serif" font-size="20" fill="#555">Programmatic 'Perfection'</text>
+
+    <text x="100" y="520" font-family="sans-serif" font-size="28" fill="black">逻辑与效率</text>
+    <text x="100" y="560" font-family="sans-serif" font-size="20" fill="#555">Logic & Efficiency</text>
+
+    <text x="100" y="640" font-family="sans-serif" font-size="28" fill="black">数据流的笔触</text>
+    <text x="100" y="680" font-family="sans-serif" font-size="20" fill="#555">Brushstrokes of Data Flow</text>
+
+    <text x="100" y="760" font-family="sans-serif" font-size="28" fill="black">模仿与重构</text>
+    <text x="100" y="800" font-family="sans-serif" font-size="20" fill="#555">Imitation & Reconstruction</text>
+</g>
+
+<!-- Human Art Column -->
+<g id="human-column">
+    <rect x="580" y="250" width="420" height="800" stroke="black" stroke-width="1" rx="10"/>
+    <text x="790" y="310" font-family="monospace" font-size="36" fill="black" text-anchor="middle">Human Art</text>
+    <line x1="600" y1="340" x2="980" y2="340" stroke="black" stroke-width="1"/>
+
+    <text x="600" y="400" font-family="sans-serif" font-size="28" fill="black">“有温度的残缺”</text>
+    <text x="600" y="440" font-family="sans-serif" font-size="20" fill="#555">Warm Imperfection</text>
+
+    <text x="600" y="520" font-family="sans-serif" font-size="28" fill="black">情感与非线性</text>
+    <text x="600" y="560" font-family="sans-serif" font-size="20" fill="#555">Emotion & Non-linearity</text>
+
+    <text x="600" y="640" font-family="sans-serif" font-size="28" fill="black">“手的温度”</text>
+    <text x="600" y="680" font-family="sans-serif" font-size="20" fill="#555">The 'Warmth of the Hand'</text>
+
+    <text x="600" y="760" font-family="sans-serif" font-size="28" fill="black">传承与“慢”的价值</text>
+    <text x="600" y="800" font-family="sans-serif" font-size="20" fill="#555">Heritage & The Value of 'Slow'</text>
+</g>
+
+<!-- Footer -->
+<text x="540" y="1300" font-family="monospace" font-size="24" fill="black" text-anchor="middle">...</text>
+</svg>

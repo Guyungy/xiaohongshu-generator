@@ -1,0 +1,24 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="white"/>
+<rect x="50" y="50" width="980" height="1340" stroke="black" stroke-width="2"/>
+
+<!-- Main Quote -->
+<text x="540" y="400" font-family="serif" font-size="72" font-weight="bold" fill="black" text-anchor="middle">艺术的火种，</text>
+<text x="540" y="500" font-family="serif" font-size="72" font-weight="bold" fill="black" text-anchor="middle">在AI时代因</text>
+<text x="540" y="600" font-family="serif" font-size="96" font-weight="bold" fill="#FF4500" text-anchor="middle">“人”</text>
+<text x="540" y="680" font-family="serif" font-size="72" font-weight="bold" fill="black" text-anchor="middle">而燃。</text>
+
+<!-- Sub-quote -->
+<text x="540" y="850" font-family="sans-serif" font-size="28" fill="#333" text-anchor="middle">AI可以成为艺术的工具，</text>
+<text x="540" y="900" font-family="sans-serif" font-size="28" fill="#333" text-anchor="middle">却永远无法成为艺术的灵魂。</text>
+
+
+<!-- Signature -->
+<line x1="440" y1="1100" x2="640" y2="1100" stroke="black" stroke-width="1.5"/>
+<text x="540" y="1150" font-family="monospace" font-size="28" fill="black" text-anchor="middle">驻校艺术家</text>
+<text x="540" y="1180" font-family="monospace" font-size="24" fill="#555" text-anchor="middle">Artist in Residence</text>
+
+<!-- End Mark -->
+<rect x="535" y="1300" width="10" height="10" fill="black" />
+
+</svg>

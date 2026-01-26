@@ -1,0 +1,53 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="white"/>
+<rect x="50" y="50" width="980" height="1340" stroke="black" stroke-width="2"/>
+
+<!-- Header -->
+<text x="80" y="100" font-family="sans-serif" font-size="32" font-weight="bold" fill="black">AI时代，如何为孩子筑造艺术的“避难所”？</text>
+<text x="80" y="150" font-family="sans-serif" font-size="24" fill="#555">给家长的4点建议</text>
+<line x1="80" y1="170" x2="1000" y2="170" stroke="#FF4500" stroke-width="2"/>
+
+<!-- Suggestions List -->
+<g id="suggestions">
+    <!-- Item 1 -->
+    <g transform="translate(100, 250)">
+        <circle cx="30" cy="30" r="25" stroke="#FF4500" stroke-width="2" fill="none"/>
+        <text x="30" y="40" font-family="monospace" font-size="32" fill="#FF4500" text-anchor="middle">1</text>
+        <text x="80" y="20" font-family="sans-serif" font-size="28" font-weight="bold" fill="black">回归“人”的价值</text>
+        <text x="80" y="60" font-family="sans-serif" font-size="22" fill="#333">鼓励手作与亲身实践</text>
+    </g>
+    
+    <!-- Item 2 -->
+    <g transform="translate(100, 400)">
+        <circle cx="30" cy="30" r="25" stroke="#FF4500" stroke-width="2" fill="none"/>
+        <text x="30" y="40" font-family="monospace" font-size="32" fill="#FF4500" text-anchor="middle">2</text>
+        <text x="80" y="20" font-family="sans-serif" font-size="28" font-weight="bold" fill="black">培养批判性审美</text>
+        <text x="80" y="60" font-family="sans-serif" font-size="22" fill="#333">超越表象，洞察内核</text>
+    </g>
+
+    <!-- Item 3 -->
+    <g transform="translate(100, 550)">
+        <circle cx="30" cy="30" r="25" stroke="#FF4500" stroke-width="2" fill="none"/>
+        <text x="30" y="40" font-family="monospace" font-size="32" fill="#FF4500" text-anchor="middle">3</text>
+        <text x="80" y="20" font-family="sans-serif" font-size="28" font-weight="bold" fill="black">拥抱不完美</text>
+        <text x="80" y="60" font-family="sans-serif" font-size="22" fill="#333">珍视个体的独特性</text>
+    </g>
+
+    <!-- Item 4 -->
+    <g transform="translate(100, 700)">
+        <circle cx="30" cy="30" r="25" stroke="#FF4500" stroke-width="2" fill="none"/>
+        <text x="30" y="40" font-family="monospace" font-size="32" fill="#FF4500" text-anchor="middle">4</text>
+        <text x="80" y="20" font-family="sans-serif" font-size="28" font-weight="bold" fill="black">构建情感联结</text>
+        <text x="80" y="60" font-family="sans-serif" font-size="22" fill="#333">艺术是生命的载体</text>
+    </g>
+</g>
+
+<!-- Image Placeholder -->
+<rect x="100" y="850" width="880" height="350" stroke="gray" stroke-width="2" stroke-dasharray="10 5"/>
+<text x="540" y="1025" font-family="sans-serif" font-size="32" fill="gray" text-anchor="middle">艺术作品/手作过程</text>
+<text x="540" y="1065" font-family="sans-serif" font-size="32" fill="gray" text-anchor="middle">(Image Placeholder)</text>
+
+
+<!-- Footer -->
+<text x="540" y="1300" font-family="monospace" font-size="24" fill="black" text-anchor="middle">...</text>
+</svg>

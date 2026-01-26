@@ -1,0 +1,37 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="white"/>
+<rect x="50" y="50" width="980" height="1340" stroke="black" stroke-width="2"/>
+
+<!-- Header -->
+<text x="80" y="100" font-family="sans-serif" font-size="32" font-weight="bold" fill="black">古北耀华的“反效率课堂”</text>
+<text x="80" y="150" font-family="sans-serif" font-size="28" fill="#555">—— 艺术真实发生的地方</text>
+<line x1="80" y1="170" x2="1000" y2="170" stroke="black" stroke-width="1"/>
+
+<!-- Image Placeholder -->
+<rect x="80" y="220" width="920" height="400" stroke="gray" stroke-width="2" stroke-dasharray="10 5"/>
+<text x="540" y="420" font-family="sans-serif" font-size="32" fill="gray" text-anchor="middle">课堂现场 / David老师</text>
+<text x="540" y="460" font-family="sans-serif" font-size="32" fill="gray" text-anchor="middle">(Image Placeholder)</text>
+
+<!-- Quote Block -->
+<g id="quote">
+    <path d="M100 700 L140 700 L160 660 L100 660 Z" fill="#FF4500" />
+    <text x="100" y="750" font-family="serif" font-style="italic" font-size="32" fill="black">"我们不仅是技艺的传授者，"</text>
+    <text x="180" y="800" font-family="serif" font-style="italic" font-size="32" fill="black">"更是哲学思考的引导者。"</text>
+    <text x="750" y="850" font-family="sans-serif" font-size="24" fill="black">- David老师</text>
+    <text x="650" y="880" font-family="sans-serif" font-size="20" fill="#555">耀中耀华时尚设计总监</text>
+</g>
+
+<!-- Concepts -->
+<g id="concepts" transform="translate(0, 950)">
+    <rect x="100" y="50" width="420" height="150" stroke="black" stroke-width="1"/>
+    <text x="310" y="100" font-family="sans-serif" font-size="32" fill="#FF4500" text-anchor="middle">“无用之用”</text>
+    <text x="310" y="150" font-family="sans-serif" font-size="22" fill="black" text-anchor="middle">弥漫自由，让艺术的种子萌芽</text>
+
+    <rect x="560" y="50" width="420" height="150" stroke="black" stroke-width="1"/>
+    <text x="770" y="100" font-family="sans-serif" font-size="32" fill="#FF4500" text-anchor="middle">“无墙教室”</text>
+    <text x="770" y="150" font-family="sans-serif" font-size="22" fill="black" text-anchor="middle">打破边界，将学习融入生活</text>
+</g>
+
+<!-- Footer -->
+<text x="540" y="1300" font-family="monospace" font-size="24" fill="black" text-anchor="middle">...</text>
+</svg>

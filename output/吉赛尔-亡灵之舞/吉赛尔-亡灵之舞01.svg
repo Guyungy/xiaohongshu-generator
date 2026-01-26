@@ -1,0 +1,39 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="white"/>
+<rect x="50" y="50" width="980" height="1340" stroke="black" stroke-width="2"/>
+
+<!-- Header -->
+<text x="80" y="100" font-family="monospace" font-size="24" fill="black">驻校艺术家手记 / Giselle</text>
+<line x1="50" y1="120" x2="1030" y2="120" stroke="black" stroke-width="1" />
+
+<!-- Title -->
+<text x="80" y="180" font-family="serif" font-size="56" font-weight="bold" fill="black">看《吉赛尔》第二幕亡灵之舞，</text>
+<text x="80" y="245" font-family="serif" font-size="60" font-weight="bold" fill="black">眼泪直接掉下来</text>
+<line x1="80" y1="270" x2="900" y2="270" stroke="#FF4500" stroke-width="3"/>
+
+<!-- Main Text Block -->
+<text x="80" y="320" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">最近重刷浪漫芭蕾经典<tspan fill="black" font-weight="bold">《吉赛尔》</tspan>，第二幕的亡灵之舞直接把我击中。</text>
+<text x="80" y="360" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">那些披着轻薄白纱的<tspan fill="black" font-weight="bold">Wilis</tspan>，在月光笼罩的森林里缓缓起舞，像</text>
+<text x="80" y="390" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">从冰冷的枝干中飘出的幽灵……足尖轻点，身体微微前倾，仿佛每</text>
+<text x="80" y="420" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">一丝爱都在拼命挣脱死亡的僵硬。</text>
+<text x="80" y="460" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">那种<tspan fill="black" font-weight="bold">轻盈又渺茫的美</tspan>，带着被辜负的悲伤，却又那么温柔永恒。</text>
+<text x="80" y="500" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">看完只剩鸡皮疙瘩和眼泪。</text>
+
+<text x="80" y="560" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">在<tspan fill="black" font-weight="bold">上海耀华临港校区</tspan>驻校这些年，我最喜欢把这种跨界艺术</text>
+<text x="80" y="590" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">带给孩子们。<tspan fill="black" font-weight="bold">《吉赛尔》</tspan>的情感反差，超级适合用来和娃聊“爱到底</text>
+<text x="80" y="620" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">是什么”。</text>
+
+<!-- Child's Quote Block -->
+<rect x="80" y="670" width="920" height="150" fill="none" stroke="black" stroke-width="1" stroke-dasharray="5 2" />
+<text x="100" y="730" font-family="serif" font-style="italic" font-size="34" fill="#FF4500" xml:space="preserve">“妈妈，那些白裙姐姐为什么那么可怜又那么漂亮？”</text>
+<text x="800" y="790" font-family="sans-serif" font-size="24" fill="black">- My Kid</text>
+
+<text x="80" y="870" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">当孩子问出这个问题时，我知道，艺术教育真的在悄悄改变他们看世界</text>
+<text x="80" y="900" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">的方式。</text>
+
+<text x="80" y="960" font-family="sans-serif" font-size="28" fill="#333" xml:space="preserve">这部舞剧每次看都提醒我：爱有时很残酷，但它也能化作最美的力量。</text>
+
+
+<!-- Footer -->
+<text x="540" y="1320" font-family="monospace" font-size="24" fill="black" text-anchor="middle">滑动查看 >></text>
+</svg>
