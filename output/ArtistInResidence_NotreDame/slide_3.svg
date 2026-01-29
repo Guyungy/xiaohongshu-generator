@@ -1,0 +1,56 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Insight | 深度洞察</text>
+  
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="60" fill="black" font-weight="bold">Calibration (校准)</text>
+  <text x="600" y="250" font-family="Noto Sans SC, sans-serif" font-size="60" fill="#FF4500" font-weight="bold">vs Surrender (臣服)</text>
+  
+  <!-- Content -->
+  <text x="80" y="350" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">我们一直教孩子如何**“校准”**自己——</text>
+  <text x="80" y="390" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">符合标准、情绪稳定、像个“哪怕内心崩溃也要面带微笑”的大人。</text>
+  <text x="80" y="430" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" font-weight="bold">Frollo就是“校准”的极致产物。</text>
+
+  <!-- Diagram -->
+  <g transform="translate(100, 550)">
+    <!-- Box 1: The Trap of Humanity -->
+    <rect x="0" y="0" width="400" height="300" stroke="black" stroke-width="2" fill="none"/>
+    <text x="200" y="50" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="middle" font-weight="bold">"Standard Humanity"</text>
+    
+    <line x1="50" y1="100" x2="350" y2="100" stroke="black" stroke-width="1" stroke-dasharray="5 5"/>
+    <line x1="50" y1="200" x2="350" y2="200" stroke="black" stroke-width="1" stroke-dasharray="5 5"/>
+    
+    <text x="200" y="150" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#666666" text-anchor="middle">压抑 (Repression)</text>
+    <text x="200" y="250" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#666666" text-anchor="middle">伪善 (Hypocrisy)</text>
+    
+    <!-- Arrow -->
+    <path d="M420 150 L 460 150" stroke="black" stroke-width="2" marker-end="url(#arrow)"/> 
+    
+    <!-- Box 2: The Freedom of Love -->
+    <circle cx="680" cy="150" r="160" stroke="#FF4500" stroke-width="3" fill="none"/>
+    <text x="680" y="100" font-family="Arial, sans-serif" font-size="24" fill="#FF4500" text-anchor="middle" font-weight="bold">"The Monster's Heart"</text>
+    
+    <text x="680" y="160" font-family="Noto Sans SC, sans-serif" font-size="40" fill="black" text-anchor="middle" font-weight="bold">真实 (Authenticity)</text>
+    <text x="680" y="220" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#FF4500" text-anchor="middle">因为一无所有，所以给得起一切</text>
+  </g>
+  
+  <!-- Divider -->
+  <line x1="80" y1="950" x2="1000" y2="950" stroke="black" stroke-width="1"/>
+  
+  <!-- Reflection -->
+  <text x="80" y="1050" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" font-weight="bold">教育的反思</text>
+  <text x="80" y="1120" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">“丑陋”在这里不仅是外貌，它是一种隐喻。</text>
+  <text x="80" y="1170" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">它是指孩子身上那些**不被主流评价体系接纳的特质**：</text>
+  <text x="80" y="1220" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">笨拙、敏感、甚至怪异。</text>
+  
+  <rect x="80" y="1260" width="920" height="60" fill="black"/>
+  <text x="540" y="1300" font-family="Noto Sans SC, sans-serif" font-size="28" fill="white" font-weight="bold" text-anchor="middle">那是他灵魂里的“卡西莫多”，请保护好它。</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">3 / 6</text>
+</svg>

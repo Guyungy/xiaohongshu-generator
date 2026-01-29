@@ -1,0 +1,81 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.1"/>
+    </filter>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="url(#bg-gradient)"/>
+  
+  <!-- Header -->
+  <g transform="translate(60, 80)">
+    <circle cx="50" cy="50" r="40" fill="#3B82F6" opacity="0.1"/>
+    <text x="50" y="65" font-family="Noto Sans SC" font-size="40" font-weight="bold" fill="#3B82F6" text-anchor="middle">W</text>
+    <text x="110" y="65" font-family="Noto Sans SC" font-size="32" fill="#64748B">Mr Wong · 码农视界</text>
+    <text x="1000" y="65" font-family="Noto Sans SC" font-size="28" fill="#94A3B8">2026.01.29</text>
+  </g>
+
+  <!-- Main Title -->
+  <g transform="translate(60, 240)">
+    <text x="0" y="0" font-family="Noto Sans SC" font-size="80" font-weight="bold" fill="#1E293B">睡前刷手机 =</text>
+    <text x="0" y="110" font-family="Noto Sans SC" font-size="80" font-weight="bold" fill="#DC2626">给大脑喂垃圾？</text>
+    <text x="0" y="200" font-family="Noto Sans SC" font-size="40" fill="#64748B" font-style="italic">// Runtime Error: Garbage In, Garbage Out</text>
+  </g>
+
+  <!-- Card 1: The Metaphor -->
+  <g transform="translate(60, 520)" filter="url(#shadow)">
+    <rect width="1080" height="300" rx="24" fill="#FFFFFF"/>
+    <rect width="1080" height="8" rx="4" fill="#3B82F6"/> <!-- Top Bar -->
+    <text x="50" y="70" font-family="Noto Sans SC" font-size="36" font-weight="bold" fill="#334155">Wait... 大脑在做什么？</text>
+    <text x="50" y="140" font-family="Noto Sans SC" font-size="30" fill="#475569">
+      <tspan x="50" dy="0">想象大脑是夜间运行的服务器 (Server)。</tspan>
+      <tspan x="50" dy="50">睡眠不是关机，而是 Batch Processing (批处理)。</tspan>
+      <tspan x="50" dy="50">它在消化白天的 Input，生成明天的 State。</tspan>
+    </text>
+  </g>
+
+  <!-- Card 2: Bad Data -->
+  <g transform="translate(60, 860)" filter="url(#shadow)">
+    <rect width="520" height="360" rx="24" fill="#FEF2F2"/>
+    <text x="40" y="60" font-family="Noto Sans SC" font-size="32" font-weight="bold" fill="#991B1B">&lt;Input: 垃圾短视频&gt;</text>
+    <text x="40" y="120" font-family="Noto Sans SC" font-size="28" fill="#7F1D1D">
+      <tspan x="40" dy="0">结果：Dump 垃圾数据</tspan>
+      <tspan x="40" dy="50">虽然身体睡了，</tspan>
+      <tspan x="40" dy="50">但后台进程还在</tspan>
+      <tspan x="40" dy="50">处理焦虑和噪音。</tspan>
+      <tspan x="40" dy="60" font-weight="bold">Cpu 占用: 99% (Warning)</tspan>
+    </text>
+  </g>
+
+  <!-- Card 3: Good Data -->
+  <g transform="translate(620, 860)" filter="url(#shadow)">
+    <rect width="520" height="360" rx="24" fill="#F0FDF4"/>
+    <text x="40" y="60" font-family="Noto Sans SC" font-size="32" font-weight="bold" fill="#166534">&lt;Input: 深度阅读&gt;</text>
+    <text x="40" y="120" font-family="Noto Sans SC" font-size="28" fill="#14532D">
+      <tspan x="40" dy="0">结果：Model Optimization</tspan>
+      <tspan x="40" dy="50">高质量的语料投喂，</tspan>
+      <tspan x="40" dy="50">像给皮肤敷最好的面膜，</tspan>
+      <tspan x="40" dy="50">第二天系统流畅运行。</tspan>
+      <tspan x="40" dy="60" font-weight="bold">Performance: 120%</tspan>
+    </text>
+  </g>
+
+  <!-- Footer / Golden Sentence -->
+  <g transform="translate(60, 1300)">
+    <rect width="1080" height="200" rx="24" fill="#1E293B"/>
+    <text x="540" y="80" font-family="Noto Sans SC" font-size="36" fill="#E2E8F0" text-anchor="middle">
+      "你的大脑值得最好的食材 (Dataset)。"
+    </text>
+    <text x="540" y="140" font-family="Noto Sans SC" font-size="28" fill="#94A3B8" text-anchor="middle">
+      —— 像桐乡耀华那样，给孩子留出 High-Quality 时间
+    </text>
+  </g>
+  
+  <!-- Page Number -->
+  <text x="1100" y="1550" font-family="Noto Sans SC" font-size="24" fill="#CBD5E1">01 / 01</text>
+</svg>

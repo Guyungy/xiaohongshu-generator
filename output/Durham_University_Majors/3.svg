@@ -1,0 +1,72 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Section 3: Law -->
+  <g transform="translate(80, 200)">
+    <rect width="920" height="520" rx="20" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+    <path d="M0 20 L920 20 L920 80 L0 80 Z" fill="#0F1E3C"/>
+    <text x="40" y="60" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold">⚖️ 法学 Law</text>
+    <text x="580" y="60" fill="#D4AF37" font-family="Arial, sans-serif" font-size="32" font-weight="bold">Magic Circle Target</text>
+    
+    <!-- Data Grid -->
+    <g transform="translate(40, 120)">
+        <rect width="260" height="120" fill="#F3F4F6" rx="10"/>
+        <text x="130" y="45" fill="#991B1B" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">13%</text>
+        <text x="130" y="90" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">极低录取率</text>
+
+        <rect x="290" y="0" width="260" height="120" fill="#F3F4F6" rx="10"/>
+        <text x="420" y="45" fill="#0369A1" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">27+</text>
+        <text x="420" y="90" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">LNAT 建议分</text>
+        
+        <rect x="580" y="0" width="260" height="120" fill="#F3F4F6" rx="10"/>
+        <text x="710" y="45" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">TOP 5</text>
+        <text x="710" y="90" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">Employer Rep</text>
+    </g>
+
+    <text x="40" y="300" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="30" font-weight="bold">📌 教学特色：Tutorial (导师指导)</text>
+    <text x="40" y="340" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">小班辩论，魔鬼训练，高强度思辨。</text>
+    
+    <line x1="40" y1="380" x2="880" y2="380" stroke="#E5E7EB" stroke-width="2"/>
+    
+    <text x="40" y="440" fill="#92400E" font-family="'PingFang SC', sans-serif" font-size="30" font-weight="bold">👉 UGO 核心加持：</text>
+    <text x="40" y="480" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">1v1 模拟面试 (Mock Interview) + LNAT 专项突击。</text>
+  </g>
+
+  <!-- Section 4: Business -->
+  <g transform="translate(80, 760)">
+    <rect width="920" height="520" rx="20" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+    <path d="M0 20 L920 20 L920 80 L0 80 Z" fill="#0369A1"/>
+    <text x="40" y="60" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold">💼 商科 Business</text>
+    <text x="650" y="60" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="bold">Triple Crown</text>
+    
+    <g transform="translate(40, 120)">
+        <!-- Accreditations -->
+        <circle cx="60" cy="60" r="50" fill="#FEF3C7"/>
+        <text x="60" y="68" fill="#92400E" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold">AACSB</text>
+        
+        <circle cx="180" cy="60" r="50" fill="#FEF3C7"/>
+        <text x="180" y="68" fill="#92400E" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold">AMBA</text>
+        
+        <circle cx="300" cy="60" r="50" fill="#FEF3C7"/>
+        <text x="300" y="68" fill="#92400E" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold">EQUIS</text>
+        
+        <text x="400" y="55" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">全球前 1% 商学院</text>
+        <text x="400" y="95" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">不仅是头衔，更是就业通行证。</text>
+    </g>
+    
+    <rect x="40" y="260" width="840" height="220" fill="#F8FAFC" rx="10"/>
+    <text x="60" y="300" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">🚀 实战项目：Strategic Business Projects</text>
+    <text x="60" y="340" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">学生直接进入企业解决真实商业问题。</text>
+    <text x="60" y="380" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">🎓 CFA 合作伙伴</text>
+    <text x="60" y="420" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">MSc Finance 课程覆盖 70% CFA 一级考点。</text>
+  </g>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">03 / 05</text>
+</svg>

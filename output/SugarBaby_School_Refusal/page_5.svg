@@ -1,0 +1,50 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">✨ 内驱力觉醒</text>
+
+  <text x="540" y="300" font-family="Noto Sans SC" font-weight="900" font-size="64" fill="#333333" text-anchor="middle">把方向盘</text>
+  <text x="540" y="380" font-family="Noto Sans SC" font-weight="900" font-size="64" fill="#B85C38" text-anchor="middle">还给孩子</text>
+
+  <!-- Story Block -->
+  <rect x="120" y="450" width="840" height="650" rx="20" fill="#F8F8F8" stroke="#EEEEEE"/>
+  
+  <text x="160" y="520" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">📖 真实故事：从“要我学”到“我要学”</text>
+  
+  <text x="160" y="580" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">邻居家的小A，转来耀华前是典型的“刷题机器”，</tspan>
+    <tspan x="160" dy="45">但眼神是黯淡的。直到上次 Science Fair...</tspan>
+  </text>
+  
+  <line x1="160" y1="620" x2="900" y2="620" stroke="#DDDDDD" stroke-width="1"/>
+
+  <text x="160" y="680" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">他迷上了“水培植物”，要在学校建一个自动灌溉系统。</tspan>
+    <tspan x="160" dy="45">为了搞定电路，他**主动**去翻物理书（以前最恨物理）；</tspan>
+    <tspan x="160" dy="45">为了写全英文报告，他抱着词典啃到半夜。</tspan>
+  </text>
+
+  <rect x="160" y="780" width="760" height="120" rx="10" fill="#FFFFFF" stroke="#E6D5C3"/>
+  <text x="200" y="840" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#333333">妈妈问他：“不累吗？”</text>
+  <text x="200" y="880" font-family="Noto Sans SC" font-size="28" fill="#B85C38">他说：“累，但是这是**我的**项目。”</text>
+  
+  <text x="160" y="960" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">那一刻我明白了：**厌学的反面不是勤奋，**</tspan>
+    <tspan x="160" dy="45">**而是【掌控感 (Agency)】。**</tspan>
+    <tspan x="160" dy="45">当孩子觉得这事儿“与我有关”且“我能搞定”，</tspan>
+    <tspan x="160" dy="45">内驱力自然就回来了。</tspan>
+  </text>
+
+  <rect x="120" y="1150" width="840" height="120" rx="20" fill="#E6D5C3" fill-opacity="0.3"/>
+  <text x="540" y="1225" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">"这就是全人教育的魔法。"</text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 5 / 6</text>
+</svg>

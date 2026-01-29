@@ -1,0 +1,40 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">驻校艺术家手记</text>
+  <text x="880" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">Artist in Residence</text>
+
+  <!-- Title -->
+  <text x="80" y="300" font-family="Noto Sans SC, sans-serif" font-size="96" fill="black" font-weight="900" letter-spacing="-2">别让孩子</text>
+  <text x="80" y="420" font-family="Noto Sans SC, sans-serif" font-size="96" fill="black" font-weight="900" letter-spacing="-2">画了一堆画，</text>
+  <text x="80" y="540" font-family="Noto Sans SC, sans-serif" font-size="96" fill="#FF4500" font-weight="900" letter-spacing="-2">却弄丢了</text>
+  <text x="80" y="660" font-family="Noto Sans SC, sans-serif" font-size="96" fill="#FF4500" font-weight="900" letter-spacing="-2">那根“线”</text>
+
+  <!-- Subtitle -->
+  <text x="80" y="760" font-family="Noto Sans SC, sans-serif" font-size="36" fill="#666666">从Maria Lai把一座山“绑起来”的故事说起</text>
+
+  <!-- Visual: Abstract Mountain and Ribbon -->
+  <!-- Mountain Outline -->
+  <path d="M100 1200 L400 900 L600 1050 L900 800 L1080 1100 V1440 H0 V1200 Z" fill="none" stroke="black" stroke-width="3"/>
+  <path d="M200 1200 L350 1000" fill="none" stroke="black" stroke-width="1"/>
+  <path d="M500 1050 L650 1250" fill="none" stroke="black" stroke-width="1"/>
+  
+  <!-- The Orange Ribbon (The Line) -->
+  <path d="M-50 1300 C 200 1300, 300 1100, 400 900 C 500 700, 700 700, 900 800 C 1100 900, 1000 1200, 1150 1300" 
+        stroke="#FF4500" stroke-width="8" fill="none" stroke-dasharray="20 10"/>
+
+  <!-- Artistic Detail -->
+  <circle cx="400" cy="900" r="10" fill="black"/> <!-- Knot point -->
+  <circle cx="900" cy="800" r="10" fill="black"/> <!-- Knot point -->
+  
+  <text x="420" y="900" font-family="Arial, sans-serif" font-size="24" fill="black">Legarsi alla montagna</text>
+  <text x="920" y="800" font-family="Arial, sans-serif" font-size="24" fill="black">1981</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">上海耀中耀华国际教育</text>
+  <text x="1000" y="1390" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">YCYW</text>
+</svg>

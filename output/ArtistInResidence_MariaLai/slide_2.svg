@@ -1,0 +1,61 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Story | 1981</text>
+  <text x="1000" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">History of Art</text>
+  
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">那场全村参与的“疯事”</text>
+  
+  <!-- Content Block 1 - Increased Density -->
+  <rect x="80" y="320" width="920" height="350" stroke="black" stroke-width="1" fill="none"/>
+  <text x="120" y="380" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#FF4500" font-weight="bold">Ulassai, Sardinia</text>
+  <text x="120" y="440" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">在这个充满了古老恩怨、家族世仇，</text>
+  <text x="120" y="480" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">甚至邻里间几十年不说话的意大利小村庄，</text>
+  <text x="120" y="520" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">Maria Lai没有建立一座冰凉的纪念碑。</text>
+  <text x="120" y="580" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">而是拿出27公里的蓝布条——当地妇女最常用的材料，</text>
+  <text x="120" y="620" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">邀请全村人把房子连在一起，系在山上。</text>
+
+  <!-- Visual Diagram: Village Map -->
+  <g transform="translate(100, 720)">
+    <!-- House 1 -->
+    <rect x="50" y="50" width="100" height="100" stroke="black" stroke-width="2" fill="none"/>
+    <text x="100" y="100" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">House A</text>
+    
+    <!-- House 2 -->
+    <rect x="350" y="150" width="100" height="100" stroke="black" stroke-width="2" fill="none"/>
+    <text x="400" y="200" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">House B</text>
+    
+    <!-- House 3 -->
+    <rect x="650" y="50" width="100" height="100" stroke="black" stroke-width="2" fill="none"/>
+    <text x="700" y="100" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">House C</text>
+    
+    <!-- Ribbon Connection -->
+    <path d="M150 100 C 250 100, 250 200, 350 200" stroke="#FF4500" stroke-width="4" stroke-dasharray="10 5" fill="none"/>
+    <path d="M450 200 C 550 200, 550 100, 650 100" stroke="#FF4500" stroke-width="4" fill="none"/>
+    
+    <!-- Labels -->
+    <text x="250" y="80" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#FF4500" text-anchor="middle">连接 (Connection)</text>
+    <text x="550" y="80" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#FF4500" text-anchor="middle">纠葛 (Entanglement)</text>
+  </g>
+
+  <!-- Comparison Table -->
+  <line x1="80" y1="1080" x2="1000" y2="1080" stroke="black" stroke-width="1"/>
+  <line x1="540" y1="1080" x2="540" y2="1320" stroke="black" stroke-width="1"/>
+  
+  <text x="200" y="1130" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#666666" text-anchor="middle">传统观念</text>
+  <text x="740" y="1130" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#FF4500" text-anchor="middle">Maria Lai的观念</text>
+  
+  <text x="200" y="1190" font-family="Noto Sans SC, sans-serif" font-size="24" fill="#333333" text-anchor="middle">艺术是静止的物体 (Object)</text>
+  <text x="740" y="1190" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" text-anchor="middle" font-weight="bold">艺术是流动的关系 (Relationship)</text>
+  
+  <text x="200" y="1250" font-family="Noto Sans SC, sans-serif" font-size="24" fill="#333333" text-anchor="middle">我们在“看”艺术</text>
+  <text x="740" y="1250" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" text-anchor="middle" font-weight="bold">我们活在艺术之中</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">2 / 6</text>
+</svg>

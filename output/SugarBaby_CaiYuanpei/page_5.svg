@@ -1,0 +1,47 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">✨ 真实瞬间</text>
+
+  <text x="140" y="240" font-family="Noto Sans SC" font-weight="bold" font-size="64" fill="#333333">比100分更重要的</text>
+  <text x="140" y="320" font-family="Noto Sans SC" font-weight="bold" font-size="64" fill="#B85C38">是“输得起”</text>
+
+  <!-- Story Block -->
+  <rect x="120" y="400" width="840" height="650" rx="20" fill="#F8F8F8" stroke="#EEEEEE"/>
+  
+  <text x="160" y="480" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">📖 运动场上的一幕</text>
+  
+  <text x="160" y="540" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">上次耀华校运会，接力跑比赛。</tspan>
+    <tspan x="160" dy="45">儿子班级本来遥遥领先，最后一棒却掉了棒。</tspan>
+    <tspan x="160" dy="45">到手的金牌飞了。</tspan>
+    <tspan x="160" dy="60">我本以为会看到互相埋怨的场景。</tspan>
+    <tspan x="160" dy="45">结果，那个跑第一棒的孩子冲过去抱住了</tspan>
+    <tspan x="160" dy="45">还在哭的最后一棒：</tspan>
+  </text>
+  
+  <line x1="160" y1="750" x2="900" y2="750" stroke="#DDDDDD" stroke-width="1"/>
+
+  <text x="200" y="820" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#333333">"It's okay. We are a team."</text>
+  <text x="200" y="860" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#333333">"We win together, we lose together."</text>
+  
+  <text x="160" y="940" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">那一刻，我比他拿了第一名还要感动。</tspan>
+    <tspan x="160" dy="45">**完全人格，首在体育。**</tspan>
+    <tspan x="160" dy="45">懂得尊重对手、体谅队友、承担失败，</tspan>
+    <tspan x="160" dy="45">这比一张苍白的成绩单，珍贵一万倍。</tspan>
+  </text>
+
+  <rect x="120" y="1150" width="840" height="120" rx="20" fill="#E6D5C3" fill-opacity="0.3"/>
+  <text x="540" y="1225" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">"修养，是在无论输赢时体现的风度。"</text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 5 / 6</text>
+</svg>

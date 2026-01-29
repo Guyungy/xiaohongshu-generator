@@ -1,0 +1,48 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Context | 8秒时代</text>
+  
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">我们正在失去</text>
+  <text x="80" y="320" font-family="Noto Sans SC, sans-serif" font-size="64" fill="#FF4500" font-weight="bold">“坐得住”的能力</text>
+  
+  <!-- Comparison Block -->
+  <g transform="translate(80, 420)">
+    <!-- Column 1: Fast Life -->
+    <rect x="0" y="0" width="440" height="400" fill="#F5F5F5" stroke="none"/>
+    <text x="220" y="60" font-family="Noto Sans SC, sans-serif" font-size="36" fill="black" font-weight="bold" text-anchor="middle">倍速生活 (Fast)</text>
+    <line x1="50" y1="80" x2="390" y2="80" stroke="black" stroke-width="2"/>
+    
+    <text x="220" y="140" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">3秒钟刷一个短视频</text>
+    <text x="220" y="190" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">2倍速看完一节网课</text>
+    <text x="220" y="240" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">“太长不看” (TL;DR)</text>
+    
+    <text x="220" y="340" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#666666" text-anchor="middle" font-weight="bold">Result: 浮躁</text>
+    
+    <!-- Column 2: O'Keeffe's Way -->
+    <rect x="480" y="0" width="440" height="400" fill="#FFF0E6" stroke="none"/>
+    <text x="700" y="60" font-family="Noto Sans SC, sans-serif" font-size="36" fill="#FF4500" font-weight="bold" text-anchor="middle">深度凝视 (Slow)</text>
+    <line x1="530" y1="80" x2="870" y2="80" stroke="#FF4500" stroke-width="2"/>
+    
+    <text x="700" y="140" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">像交朋友一样看花</text>
+    <text x="700" y="190" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">忍受“无聊”</text>
+    <text x="700" y="240" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333" text-anchor="middle">穿透表象 (Insight)</text>
+    
+    <text x="700" y="340" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#FF4500" font-weight="bold" text-anchor="middle">Result: 沉浸</text>
+  </g>
+  
+  <!-- Narrative -->
+  <rect x="80" y="860" width="920" height="300" stroke="black" stroke-width="1" fill="none"/>
+  <text x="120" y="920" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">家长误区：以为“坐得住”不乱动就是专注。</text>
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">事实真相：真正的专注，是**愿意花时间**</text>
+  <text x="120" y="1040" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">去与一个事物建立深度连接。</text>
+  <text x="120" y="1100" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#FF4500" font-weight="bold">O'Keeffe画的不是花，是“抵抗时间的定力”。</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">2 / 6</text>
+</svg>

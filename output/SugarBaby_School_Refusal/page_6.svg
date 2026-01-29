@@ -1,0 +1,34 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="600" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <text x="540" y="320" font-family="Noto Sans SC" font-weight="900" font-size="48" fill="#333333" text-anchor="middle">如果此刻</text>
+  <text x="540" y="400" font-family="Noto Sans SC" font-weight="900" font-size="48" fill="#B85C38" text-anchor="middle">你的孩子正在经历风暴</text>
+  
+  <line x1="340" y1="460" x2="740" y2="460" stroke="#E6D5C3" stroke-width="2"/>
+
+  <text x="540" y="550" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">请先不要讲道理，</text>
+  <text x="540" y="620" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">先给他一个拥抱。</text>
+
+  <!-- Mom Advice Block -->
+  <rect x="140" y="820" width="800" height="400" rx="20" fill="#E6D5C3"/>
+  
+  <text x="540" y="880" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38" text-anchor="middle">💌 给妈妈们的建议</text>
+  
+  <text x="540" y="950" font-family="Noto Sans SC" font-size="28" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="540" dy="0">1. **停下来**：允许孩子休整，比逼他上学更重要。</tspan>
+    <tspan x="540" dy="50">2. **去看见**：看见他的痛苦，而不是评判他的行为。</tspan>
+    <tspan x="540" dy="50">3. **换环境**：有时候不是树苗有问题，是土壤太板结。</tspan>
+  </text>
+
+  <text x="540" y="1120" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#1A2B4C" text-anchor="middle">关注 【砂糖宝贝】</text>
+  <text x="540" y="1170" font-family="Noto Sans SC" font-size="28" fill="#FFFFFF" text-anchor="middle">分享上海耀华/耀中家长的教育观察</text>
+
+  <text x="540" y="1320" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">👇 评论区聊聊：你见过孩子“眼里有光”的样子吗？</text>
+</svg>

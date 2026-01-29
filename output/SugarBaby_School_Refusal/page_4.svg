@@ -1,0 +1,69 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">🏫 耀华答案</text>
+
+  <text x="140" y="240" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#333333">先有安全感，才有学习力</text>
+
+  <!-- Illustration Pillars updated layout -->
+  <g transform="translate(140, 320)">
+      <!-- 1 -->
+      <rect x="0" y="0" width="240" height="120" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="120" y="50" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">允许暂停</text>
+      <text x="120" y="90" font-family="Noto Sans SC" font-size="20" fill="#666666" text-anchor="middle">Pace is personal</text>
+
+      <!-- 2 -->
+      <rect x="280" y="0" width="240" height="120" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="400" y="50" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">多元评价</text>
+      <text x="400" y="90" font-family="Noto Sans SC" font-size="20" fill="#666666" text-anchor="middle">More than grades</text>
+
+      <!-- 3 -->
+      <rect x="560" y="0" width="240" height="120" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="680" y="50" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">看见天赋</text>
+      <text x="680" y="90" font-family="Noto Sans SC" font-size="20" fill="#666666" text-anchor="middle">Every child shines</text>
+  </g>
+
+  <!-- Detailed Story Logic -->
+  <rect x="120" y="500" width="840" height="740" rx="20" fill="#FFFBF5"/>
+  <text x="160" y="560" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38">为什么选择上海耀华？</text>
+  
+  <text x="160" y="620" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">在公立体系里，“掉队”是一件可怕的事。</tspan>
+    <tspan x="160" dy="45">但在耀华，每个人都有自己的时区。</tspan>
+  </text>
+  
+  <line x1="160" y1="670" x2="900" y2="670" stroke="#E6D5C3" stroke-dasharray="5,5"/>
+
+  <text x="160" y="720" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#333333">1. 容错率 (Tolerance)</text>
+  <text x="160" y="760" font-family="Noto Sans SC" font-size="26" fill="#666666">
+    <tspan x="160" dy="0">孩子一次考砸了？没关系。老师会说：</tspan>
+    <tspan x="160" dy="40">“看来这个知识点我们还没完全掌握，再试一次？”</tspan>
+    <tspan x="160" dy="40">**羞耻感被剥离了，只剩下问题解决本身。**</tspan>
+  </text>
+  
+  <text x="160" y="840" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#333333">2. 优势视角 (Strength-based)</text>
+  <text x="160" y="880" font-family="Noto Sans SC" font-size="26" fill="#666666">
+    <tspan x="160" dy="0">我见过数学不及格的孩子，在全校Assembly上</tspan>
+    <tspan x="160" dy="40">全英文演讲自己设计的环保方案，那一刻他</tspan>
+    <tspan x="160" dy="40">眼睛里的光，是任何分数都换不来的自信。</tspan>
+  </text>
+
+  <rect x="160" y="980" width="760" height="200" rx="10" fill="#E6D5C3" fill-opacity="0.2"/>
+  <text x="200" y="1040" font-family="Noto Serif SC" font-style="italic" font-weight="bold" font-size="30" fill="#B85C38">"Psychological Safety Zone"</text>
+  <text x="200" y="1090" font-family="Noto Sans SC" font-size="26" fill="#444444">
+    <tspan x="200" dy="0">建立心理安全区，是全人教育的第一步。</tspan>
+    <tspan x="200" dy="40">只有当孩子确认自己是安全的、被接纳的，</tspan>
+    <tspan x="200" dy="40">他的大脑皮层才会重新活跃，开始从“生存模式”</tspan>
+    <tspan x="200" dy="40">切换回“学习模式”。</tspan>
+  </text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 4 / 6</text>
+</svg>

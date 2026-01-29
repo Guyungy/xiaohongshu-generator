@@ -1,0 +1,58 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">驻校艺术家手记</text>
+  <text x="1000" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">Warning: Fast Pacing</text>
+
+  <!-- Title Section - Revised for Clarity -->
+  
+  <!-- "Stop forcing efficiency" -->
+  <text x="80" y="280" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">还在逼孩子</text>
+  
+  <!-- "EFFICIENT" with clean strikethrough -->
+  <g transform="translate(80, 320)">
+    <text x="0" y="100" font-family="Arial, sans-serif" font-size="140" fill="#CCCCCC" font-weight="900" letter-spacing="-2">EFFICIENT</text>
+    <text x="0" y="100" font-family="Noto Sans SC, sans-serif" font-size="140" fill="black" font-weight="900" letter-spacing="-2" opacity="0.1">EFFICIENT</text> <!-- Shadow for depth -->
+    
+    <text x="400" y="180" font-family="Noto Sans SC, sans-serif" font-size="48" fill="#FF4500" font-weight="bold">(高效)</text>
+    
+    <!-- Red Cross/Strikethrough -->
+    <line x1="-10" y1="70" x2="750" y2="70" stroke="#FF4500" stroke-width="6"/>
+    <line x1="-10" y1="20" x2="750" y2="120" stroke="#FF4500" stroke-width="4" opacity="0.5"/> <!-- Messy scribble effect -->
+  </g>
+
+  <!-- "You are destroying concentration" -->
+  <text x="80" y="580" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">你可能正在毁掉他的</text>
+  
+  <!-- Focus Box - High Contrast -->
+  <rect x="80" y="640" width="480" height="140" fill="#FF4500"/>
+  <text x="320" y="740" font-family="Noto Sans SC, sans-serif" font-size="100" fill="white" font-weight="900" text-anchor="middle">专注力</text>
+  <line x1="95" y1="655" x2="545" y2="655" stroke="white" stroke-width="2" opacity="0.5"/>
+  <line x1="95" y1="765" x2="545" y2="765" stroke="white" stroke-width="2" opacity="0.5"/>
+
+  <!-- Visual Elements -->
+  <!-- Separator Line -->
+  <line x1="80" y1="850" x2="1000" y2="850" stroke="black" stroke-width="1"/>
+
+  <!-- Subtitle Area -->
+  <text x="80" y="920" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" font-weight="bold">O'Keeffe的“慢像”：</text>
+  <text x="80" y="970" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#666666">给焦虑家长的解药</text>
+
+  <!-- Bottom Visual: O'Keeffe Flower (Simplified and Lower) -->
+  <g transform="translate(640, 1150) scale(1.4)">
+     <path d="M0 0 C -150 -250, 150 -250, 0 0" stroke="black" stroke-width="1.5" fill="none"/>
+     <path d="M0 0 C -250 -150, -300 150, 0 0" stroke="black" stroke-width="1.5" fill="none"/>
+     <path d="M0 0 C 250 -150, 300 150, 0 0" stroke="black" stroke-width="1.5" fill="none"/>
+     
+     <!-- Center pop -->
+     <circle cx="0" cy="0" r="20" fill="#FF4500"/>
+  </g>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">上海耀中耀华国际教育</text>
+  <text x="1000" y="1390" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">YCYW</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Implant | 校园现场</text>
+  <text x="1000" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">Deep Attention</text>
+
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">一堂特殊的“发呆课”</text>
+  <text x="80" y="320" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#666666">@ 我们的植物园</text>
+  
+  <!-- Visual Scene: Student observing flower -->
+  <g transform="translate(100, 420)">
+    <!-- Garden Background -->
+    <path d="M0 400 Q 200 350, 400 400 T 800 400" stroke="black" stroke-width="2" fill="none"/>
+    <path d="M100 400 V300 M 150 400 V250 M 700 400 V300" stroke="black" stroke-width="1"/> <!-- Grass -->
+    
+    <!-- Student (Abstract) -->
+    <circle cx="300" cy="250" r="40" stroke="black" stroke-width="3" fill="none"/>
+    <path d="M300 290 L 300 380 L 250 420" stroke="black" stroke-width="3" fill="none"/> <!-- Sitting -->
+    <path d="M300 320 L 350 350" stroke="black" stroke-width="3"/> <!-- Arm pointing -->
+    
+    <!-- Giant Flower (Perspective) -->
+    <path d="M500 400 L 500 200" stroke="black" stroke-width="3"/> <!-- Stem -->
+    <circle cx="500" cy="150" r="80" stroke="#FF4500" stroke-width="3" fill="white"/> <!-- Flower Head -->
+    <circle cx="500" cy="150" r="20" fill="#FF4500"/>
+    
+    <!-- Dialogue Bubble -->
+    <rect x="580" y="100" width="300" height="120" rx="20" stroke="#FF4500" stroke-width="2" fill="white"/>
+    <text x="600" y="140" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">Student Note:</text>
+    <text x="600" y="180" font-family="Noto Sans SC, sans-serif" font-size="22" fill="#333333">“老师，原来这朵花的背面</text>
+    <text x="600" y="210" font-family="Noto Sans SC, sans-serif" font-size="22" fill="#333333">竟然是毛茸茸的！”</text>
+    <path d="M580 160 L 550 180 L 580 190" stroke="#FF4500" stroke-width="2" fill="white"/>
+  </g>
+
+  <!-- Narrative Block -->
+  <rect x="80" y="880" width="920" height="300" stroke="black" stroke-width="1" fill="none"/>
+  
+  <text x="120" y="940" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">一开始，孩子们很焦躁：</text>
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">“老师，我看完了，能画了吗？”</text>
+  
+  <text x="120" y="1040" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">驻校艺术家说：“再看。直到你看见风吹过它的颤抖。”</text>
+  
+  <line x1="120" y1="1080" x2="800" y2="1080" stroke="#FF4500" stroke-width="2"/>
+  
+  <text x="120" y="1140" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" font-weight="bold">这就是O'Keeffe式的专注力训练。</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">4 / 6</text>
+</svg>

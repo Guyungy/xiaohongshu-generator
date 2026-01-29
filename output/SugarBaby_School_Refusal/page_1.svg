@@ -1,0 +1,49 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Warm Parchment -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <!-- Header Tag -->
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">💭 妈妈日记</text>
+
+  <!-- Title Section -->
+  <text x="540" y="300" font-family="Noto Sans SC" font-weight="900" font-size="80" fill="#333333" text-anchor="middle">真的不是</text>
+  <text x="540" y="400" font-family="Noto Sans SC" font-weight="900" font-size="80" fill="#B85C38" text-anchor="middle">“孩子变懒了”</text>
+  
+  <!-- Subtitle -->
+  <text x="540" y="500" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">那个把自己关在房间里的孩子，</text>
+  <text x="540" y="550" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">其实正在经历一场我们看不见的风暴。</text>
+
+  <!-- High Density Text Block: Preface -->
+  <rect x="120" y="620" width="840" height="500" rx="20" fill="#FFFBF5"/>
+  <text x="160" y="680" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38">📝 写在前面 (Preface)</text>
+  
+  <text x="160" y="740" font-family="Noto Sans SC" font-size="28" fill="#444444" width="760">
+    <tspan x="160" dy="0">昨晚家长群里，一位妈妈的哭诉让我彻夜难眠。</tspan>
+    <tspan x="160" dy="45">曾经那个乖巧懂事、成绩优异的女儿，突然拒绝去学校。</tspan>
+    <tspan x="160" dy="45">一开始是肚子痛、头痛，后来干脆锁门、不洗澡、</tspan>
+    <tspan x="160" dy="45">黑白颠倒。妈妈觉得孩子是“太脆弱”、“怕吃苦”，</tspan>
+    <tspan x="160" dy="45">甚至想用断网、停零花钱来逼她就范。</tspan>
+    <tspan x="160" dy="60">但上海耀华的心理辅导员告诉我：</tspan>
+    <tspan x="160" dy="45" font-weight="bold" fill="#B85C38">“在这个阶段，'逼迫'往往是压垮骆驼的最后一根稻草。”</tspan>
+    <tspan x="160" dy="45">厌学不是一种态度问题，而是一种 **【能量枯竭】**。</tspan>
+    <tspan x="160" dy="45">今天这篇笔记，我想从心理学和脑科学的角度，</tspan>
+    <tspan x="160" dy="45">聊聊如何“看见”孩子的求救信号。</tspan>
+  </text>
+  
+  <!-- Footer Text Block -->
+  <text x="540" y="1200" font-family="Noto Sans SC" font-size="32" fill="#333333" text-anchor="middle" font-weight="bold">厌学 ≠ 堕落</text>
+  <text x="540" y="1260" font-family="Noto Sans SC" font-size="32" fill="#333333" text-anchor="middle">它是痛苦超载时的【自我保护】</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 1 / 6</text>
+</svg>

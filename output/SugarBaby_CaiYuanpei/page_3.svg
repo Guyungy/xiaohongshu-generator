@@ -1,0 +1,51 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">💊 大师药方</text>
+
+  <text x="140" y="240" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#333333">完全人格，首在体育</text>
+
+  <!-- Illustration: The Pyramid of Personality -->
+  <g transform="translate(290, 320)">
+      <!-- Triangle -->
+      <polygon points="250,50 50,400 450,400" fill="#FFFBF5" stroke="#B85C38" stroke-width="3"/>
+      <!-- Layers -->
+      <line x1="100" y1="312" x2="400" y2="312" stroke="#B85C38" stroke-width="2"/>
+      <line x1="150" y1="225" x2="350" y2="225" stroke="#B85C38" stroke-width="2"/>
+      
+      <text x="250" y="370" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">体育 (Physical)</text>
+      <text x="250" y="280" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">智育 (Intellectual)</text>
+      <text x="250" y="190" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">德育 (Moral)</text>
+      <text x="250" y="100" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">美育 (Aesthetic)</text>
+  </g>
+
+  <!-- Detailed Interpretation -->
+  <rect x="120" y="780" width="840" height="420" rx="20" fill="#F8F8F8" stroke="#EEEEEE"/>
+  
+  <text x="160" y="840" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">💡 蔡元培的“五育并举”现代版：</text>
+  
+  <text x="160" y="900" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">1. **体育 (The Base)**：不是为了拿金牌，</tspan>
+    <tspan x="160" dy="40">而是“养成国民之体力”，学会规则与坚毅。</tspan>
+
+    <tspan x="160" dy="50">2. **智育 (The Tool)**：不是死记硬背，</tspan>
+    <tspan x="160" dy="40">而是“启发科学之精神”，拥有独立思考力。</tspan>
+
+    <tspan x="160" dy="50">3. **美育 (The Soul)**：这是蔡先生最强调的。</tspan>
+    <tspan x="160" dy="40">**“以美育代宗教”** —— 在艺术中陶冶情感，</tspan>
+    <tspan x="160" dy="40">让人超越功利，获得灵魂的自由。</tspan>
+  </text>
+
+  <rect x="120" y="1220" width="840" height="80" rx="10" fill="#E6D5C3" fill-opacity="0.3"/>
+  <text x="540" y="1270" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#333333" text-anchor="middle">这不就是今天国际教育提倡的 Holistic Education 吗？</text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 3 / 6</text>
+</svg>

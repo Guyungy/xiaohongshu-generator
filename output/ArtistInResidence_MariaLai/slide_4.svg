@@ -1,0 +1,63 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Implant | 校园现场</text>
+  <text x="1000" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">Site-Specific Art</text>
+
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">没有围墙的艺术教室</text>
+  <text x="80" y="320" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#666666">@ 我们的艺术工作室</text>
+  
+  <!-- Visual Scene: Trees wrapped in yarn -->
+  <g transform="translate(100, 400)">
+    <!-- Tree 1 -->
+    <path d="M100 600 L120 400 L80 300 L150 100 L220 300 L180 400 L200 600" stroke="black" stroke-width="3" fill="none"/>
+    <!-- Yarn wrapping Tree 1 -->
+    <path d="M110 550 H190 M110 530 H190 M110 510 H190 M115 450 H185" stroke="#FF4500" stroke-width="4"/>
+    
+    <!-- Tree 2 -->
+    <path d="M400 600 L420 400 L380 300 L450 100 L520 300 L480 400 L500 600" stroke="black" stroke-width="3" fill="none"/>
+    <!-- Yarn wrapping Tree 2 -->
+    <path d="M410 580 H490 M410 560 H490 M415 500 H485" stroke="#FF4500" stroke-width="4"/>
+    
+    <!-- Connection between trees -->
+    <path d="M190 530 Q 300 600, 410 560" stroke="#FF4500" stroke-width="3" stroke-dasharray="10 5" fill="none"/>
+    
+    <!-- Dialogue Bubbles -->
+    <rect x="550" y="200" width="300" height="120" rx="20" stroke="black" stroke-width="2" fill="white"/>
+    <text x="580" y="240" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#666666" font-weight="bold">Student A:</text>
+    <text x="580" y="270" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">把红线和黄线系在一起</text>
+    <text x="580" y="300" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">我们和好吧！</text>
+    <path d="M550 250 L500 280 L560 290" stroke="black" stroke-width="2" fill="white"/> <!-- Tail -->
+
+    <!-- Dialogue Bubble 2 -->
+    <rect x="0" y="150" width="320" height="100" rx="20" stroke="black" stroke-width="2" fill="white"/>
+    <text x="30" y="190" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#666666" font-weight="bold">Student B:</text>
+    <text x="30" y="220" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">这棵树是去食堂的必经之路。</text>
+    <path d="M160 250 L200 280 L180 250" stroke="black" stroke-width="2" fill="white"/> <!-- Tail -->
+  </g>
+
+  <!-- Narrative Block - Expanded Text for Density -->
+  <rect x="80" y="850" width="920" height="420" stroke="black" stroke-width="1" fill="none"/>
+  
+  <rect x="80" y="850" width="920" height="60" fill="black"/>
+  <text x="540" y="890" font-family="Noto Sans SC, sans-serif" font-size="28" fill="white" text-anchor="middle" font-weight="bold">Site-Specific Art (在地艺术实践)</text>
+  
+  <text x="120" y="960" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">在这里，艺术不是坐在教室里描摹石膏像。</text>
+  <text x="120" y="1000" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">孩子们拿着毛线走出教室，去触摸树皮的机理，</text>
+  <text x="120" y="1040" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">去测量风的形状。他们正在进行的，是一场微型的</text>
+  <text x="120" y="1080" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333" font-style="italic">Legarsi alla montagna (系山)。</text>
+  
+  <line x1="120" y1="1120" x2="920" y2="1120" stroke="#FF4500" stroke-width="2"/>
+  
+  <text x="120" y="1170" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">当他们用毛线把银杏树连起来时，</text>
+  <text x="120" y="1210" font-family="Noto Sans SC, sans-serif" font-size="26" fill="#333333">他们不仅在创作，更是在“编织”</text>
+  <text x="120" y="1250" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" font-weight="bold">自己与校园、与自然的亲密关系。</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">4 / 6</text>
+</svg>

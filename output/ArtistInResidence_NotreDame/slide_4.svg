@@ -1,0 +1,50 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Implant | 校园现场</text>
+  <text x="1000" y="100" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">Drama Education</text>
+
+  <!-- Title -->
+  <text x="80" y="250" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">除了成为主角</text>
+  <text x="80" y="330" font-family="Noto Sans SC, sans-serif" font-size="64" fill="black" font-weight="bold">孩子更需要“成为他人”</text>
+  
+  <!-- Scene Visual -->
+  <g transform="translate(80, 420)">
+    <!-- Stage Area -->
+    <rect x="0" y="0" width="920" height="400" fill="#F5F5F5" stroke="none"/>
+    <line x1="0" y1="400" x2="920" y2="400" stroke="black" stroke-width="4"/>
+    
+    <!-- Spotlight -->
+    <path d="M460 0 L 260 400 H 660 Z" fill="white" fill-opacity="0.5"/>
+    
+    <!-- Student Character (Abstract) -->
+    <circle cx="460" cy="250" r="40" stroke="black" stroke-width="3" fill="none"/>
+    <line x1="460" y1="290" x2="460" y2="350" stroke="black" stroke-width="3"/>
+    <line x1="460" y1="310" x2="420" y2="340" stroke="black" stroke-width="3"/> <!-- Arm asking -->
+    
+    <!-- Dialogue Bubble -->
+    <rect x="520" y="150" width="350" height="140" rx="20" stroke="#FF4500" stroke-width="2" fill="white"/>
+    <text x="540" y="190" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">Student Note:</text>
+    <text x="540" y="230" font-family="Noto Sans SC, sans-serif" font-size="22" fill="#333333">“我不装驼背。因为我知道那种</text>
+    <text x="540" y="260" font-family="Noto Sans SC, sans-serif" font-size="22" fill="#333333">想说话却没人听的感觉。”</text>
+    <path d="M520 220 L490 240 L520 250" stroke="#FF4500" stroke-width="2" fill="white"/>
+  </g>
+
+  <!-- Narrative Block -->
+  <rect x="80" y="880" width="920" height="300" stroke="black" stroke-width="1" fill="none"/>
+  
+  <text x="120" y="940" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">在我们学校的黑箱剧场（Black Box）选修课里，</text>
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">最受欢迎的角色往往不是光鲜亮丽的英雄。</text>
+  <text x="120" y="1040" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">我们不制造明星，我们寻找**共鸣**。</text>
+  
+  <text x="120" y="1100" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">当那个平时在班上默默无闻的男孩子，</text>
+  <text x="120" y="1140" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333333">站在舞台中央唱出卡西莫多的孤独时，</text>
+  <text x="120" y="1180" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#FF4500" font-weight="bold">戏剧教育的本质发生了。</text>
+
+  <!-- Footer -->
+  <line x1="80" y1="1340" x2="1000" y2="1340" stroke="black" stroke-width="2"/>
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">4 / 6</text>
+</svg>

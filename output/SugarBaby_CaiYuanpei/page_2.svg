@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">⚠️ 现象反思</text>
+
+  <text x="140" y="240" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#333333">为什么现在的孩子</text>
+  <text x="140" y="320" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#B85C38">容易得“空心病”？</text>
+
+  <!-- Visual: The Hollow Person -->
+  <g transform="translate(420, 380)">
+      <!-- Outline of a person -->
+      <path d="M 120 0 C 180 0 200 60 200 100 C 200 160 160 200 120 200 C 80 200 40 160 40 100 C 40 60 60 0 120 0 Z M 120 200 L 120 400 M 0 260 L 240 260 M 120 400 L 40 500 M 120 400 L 200 500" stroke="#333333" stroke-width="4" fill="none"/>
+      <!-- Hollow Heart -->
+      <path d="M 120 260 L 100 240 C 90 230 80 230 70 240 C 60 250 60 260 70 270 L 120 320 L 170 270 C 180 260 180 250 170 240 C 160 230 150 230 140 240 L 120 260 Z" stroke="#B85C38" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Analysis Box -->
+  <rect x="120" y="650" width="840" height="550" rx="20" fill="#FFFBF5"/>
+  <text x="160" y="710" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38">🚨 功利主义教育的代价</text>
+  
+  <text x="160" y="770" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="160" dy="0">蔡元培先生曾批评当时的教育是：</tspan>
+    <tspan x="160" dy="45">**“正如制革，但求其制成，不问其性质。”**</tspan>
+    <tspan x="160" dy="60">百年前的批评，今日依然适用：</tspan>
+    
+    <tspan x="160" dy="50">• **单向度发展**：只重智育，忽视德育、美育。</tspan>
+    <tspan x="160" dy="40">    结果：孩子沦为“各种知识的容器”。</tspan>
+
+    <tspan x="160" dy="50">• **情感的荒漠化**：没有时间去感受美，去同情他人。</tspan>
+    <tspan x="160" dy="40">    结果：虽有高智商，却冷漠无情。</tspan>
+
+    <tspan x="160" dy="50">• **意义的缺失**：不知道为什么而学，只知道“为了考试”。</tspan>
+    <tspan x="160" dy="40">    结果：一旦考试结束，人生就失去了方向。</tspan>
+  </text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 2 / 6</text>
+</svg>

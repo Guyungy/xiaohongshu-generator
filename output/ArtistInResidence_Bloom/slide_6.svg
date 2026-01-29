@@ -1,0 +1,40 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <line x1="80" y1="120" x2="1000" y2="120" stroke="black" stroke-width="2"/>
+  <text x="80" y="100" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black" font-weight="bold">The Conclusion | 结语</text>
+  
+  <!-- Big Quote Mark -->
+  <text x="80" y="300" font-family="Arial, sans-serif" font-size="200" fill="#FF4500" opacity="0.2">“</text>
+  
+  <!-- Quote Text -->
+  <text x="150" y="350" font-family="Noto Sans SC, sans-serif" font-size="56" fill="black" font-weight="bold">她不需要</text>
+  <text x="150" y="450" font-family="Noto Sans SC, sans-serif" font-size="56" fill="black" font-weight="bold">去讨好</text>
+  <text x="150" y="550" font-family="Noto Sans SC, sans-serif" font-size="56" fill="black" font-weight="bold">这个世界的速度。</text>
+  
+  <text x="600" y="650" font-family="Noto Sans SC, sans-serif" font-size="32" fill="#333333">— 关于 O'Keeffe</text>
+  
+  <!-- Visual: Abstract Bloom Opening -->
+  <g transform="translate(540, 950)">
+    <!-- Layer 1 -->
+    <path d="M0 0 C -100 -200, 100 -200, 0 0" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M0 0 C -200 0, -100 200, 0 0" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M0 0 C 200 0, 100 200, 0 0" stroke="black" stroke-width="1" fill="none"/>
+    
+    <!-- Layer 2 (Expanding) -->
+    <path d="M-150 -150 L 150 150" stroke="#FF4500" stroke-width="1" opacity="0.5"/>
+    <path d="M150 -150 L -150 150" stroke="#FF4500" stroke-width="1" opacity="0.5"/>
+    
+    <text x="0" y="250" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#FF4500" text-anchor="middle">Time to Bloom</text>
+  </g>
+
+  <!-- Final Call to Action -->
+  <text x="540" y="1250" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" text-anchor="middle">慢下来，当你开始真正“看见”一朵花，</text>
+  <text x="540" y="1300" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" text-anchor="middle" font-weight="bold">整个世界都会为你绽放。</text>
+
+  <!-- Footer -->
+  <text x="80" y="1390" font-family="Noto Sans SC, sans-serif" font-size="24" fill="black">驻校艺术家手记 @ 上海耀中耀华</text>
+  <text x="1000" y="1390" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="end">2026.03</text>
+</svg>

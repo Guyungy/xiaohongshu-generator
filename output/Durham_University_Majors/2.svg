@@ -1,0 +1,67 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Section 1: Archaeology -->
+  <g transform="translate(80, 200)">
+    <rect width="920" height="520" rx="20" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+    <rect width="920" height="80" rx="20" fill="#0F1E3C"/>
+    <text x="40" y="55" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold">🏛️ 考古学 Archaeology</text>
+    <text x="700" y="55" fill="#D4AF37" font-family="Arial, sans-serif" font-size="36" font-weight="bold">TOP 3 (CUG)</text>
+    
+    <!-- Density Content -->
+    <text x="40" y="140" fill="#991B1B" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">⚠️ 误区打破：不是“这也是科学”！</text>
+    
+    <g transform="translate(40, 180)">
+       <rect width="840" height="160" fill="#F3F4F6" rx="10"/>
+       <text x="20" y="40" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">硬核课程模块 (STEM 导向)</text>
+       <text x="20" y="80" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">· Bioarchaeology (生物考古)</text>
+       <text x="20" y="120" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">· Isotopic Analysis (同位素分析)</text>
+       <text x="420" y="80" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">· DNA Sequencing (DNA测序)</text>
+       <text x="420" y="120" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">· Applied Statistics (应用统计)</text>
+    </g>
+
+    <text x="40" y="400" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="30" font-weight="bold">👉 耀华方案 (Yew Wah Solution)</text>
+    <text x="40" y="450" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26" width="840">
+       <tspan x="40" dy="0">利用 IPQ 独立项目展现科研能力，而非仅凭“热爱”。</tspan>
+       <tspan x="40" dy="40">我们的科学组老师可以直接指导生物/化学相关的考古课题。</tspan>
+    </text>
+  </g>
+
+  <!-- Section 2: Geography -->
+  <g transform="translate(80, 760)">
+    <rect width="920" height="520" rx="20" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+    <rect width="920" height="80" rx="20" fill="#0369A1"/>
+    <text x="40" y="55" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold">🌍 地理学 Geography</text>
+    <text x="650" y="55" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="bold">QS TOP 15</text>
+    
+    <!-- Comparison Table Idea -->
+    <g transform="translate(40, 120)">
+      <rect width="400" height="200" fill="#F0F9FF" rx="10"/>
+      <text x="20" y="40" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">BA Human (人文)</text>
+      <text x="20" y="90" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Political (政治)</text>
+      <text x="20" y="130" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Development (发展)</text>
+      <text x="20" y="170" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Social Inequality</text>
+      
+      <rect x="440" y="0" width="400" height="200" fill="#ECFDF5" rx="10"/>
+      <text x="460" y="40" fill="#047857" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">BSc Physical (自然)</text>
+      <text x="460" y="90" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Climate Change</text>
+      <text x="460" y="130" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Glaciology (冰川)</text>
+      <text x="460" y="170" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="24">· Sea Level Rise</text>
+    </g>
+
+    <text x="40" y="400" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="30" font-weight="bold">🎒 耀中耀华“中国教室” (China Classroom)</text>
+    <text x="40" y="450" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26" width="840">
+       <tspan x="40" dy="0">每年的实地考察直接对标大学 Fieldwork 要求。</tspan>
+       <tspan x="40" dy="40">将真实的考察数据写入 PS，是申请地理系的“杀手锏”。</tspan>
+    </text>
+  </g>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">02 / 05</text>
+</svg>

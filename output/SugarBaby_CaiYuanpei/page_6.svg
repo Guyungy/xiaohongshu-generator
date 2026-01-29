@@ -1,0 +1,35 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="600" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <text x="540" y="320" font-family="Noto Sans SC" font-weight="900" font-size="48" fill="#333333" text-anchor="middle">教育是一场</text>
+  <text x="540" y="400" font-family="Noto Sans SC" font-weight="900" font-size="48" fill="#B85C38" text-anchor="middle">漫长的马拉松</text>
+  
+  <line x1="340" y1="460" x2="740" y2="460" stroke="#E6D5C3" stroke-width="2"/>
+
+  <text x="540" y="550" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">不要为了起跑线上的领先，</text>
+  <text x="540" y="620" font-family="Noto Sans SC" font-size="32" fill="#666666" text-anchor="middle">而透支了孩子跑完全程的力气。</text>
+
+  <!-- Mom Advice Block -->
+  <rect x="140" y="820" width="800" height="380" rx="20" fill="#E6D5C3"/>
+  
+  <text x="540" y="880" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38" text-anchor="middle">💌 砂糖心语</text>
+  
+  <text x="540" y="940" font-family="Noto Sans SC" font-size="28" fill="#FFFFFF" width="700">
+    <tspan x="540" dy="0" text-anchor="middle">愿我们的孩子，都能成长为蔡先生所言：</tspan>
+    <tspan x="540" dy="50" text-anchor="middle">"有健全之身体，有独立之精神，"</tspan>
+    <tspan x="540" dy="50" text-anchor="middle">"有高尚之情操。"</tspan>
+    <tspan x="540" dy="60" text-anchor="middle">这才是给他们最好的 **【传家宝】**。</tspan>
+  </text>
+
+  <text x="540" y="1120" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#1A2B4C" text-anchor="middle">关注 【砂糖宝贝】</text>
+  <text x="540" y="1170" font-family="Noto Sans SC" font-size="28" fill="#FFFFFF" text-anchor="middle">分享上海耀华/耀中家长的教育观察</text>
+
+  <text x="540" y="1320" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">👇 评论区聊聊：你最认同蔡元培先生的哪句话？</text>
+</svg>

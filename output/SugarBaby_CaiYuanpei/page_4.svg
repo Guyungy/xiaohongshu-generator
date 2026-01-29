@@ -1,0 +1,53 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <rect x="60" y="80" width="280" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="200" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">🏫 耀华实践</text>
+  
+  <text x="140" y="240" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#333333">我在耀华，</text>
+  <text x="140" y="320" font-family="Noto Sans SC" font-weight="bold" font-size="52" fill="#B85C38">看到了百年前的“理想国”</text>
+
+  <!-- Content Block -->
+  <text x="140" y="420" font-family="Noto Sans SC" font-size="30" fill="#444444" width="800">
+    <tspan x="140" dy="0">每次走在这所学校里，我都在想：</tspan>
+    <tspan x="140" dy="50">如果蔡元培先生还在世，他会喜欢这里吗？</tspan>
+    <tspan x="140" dy="50" font-weight="bold">我想，答案是肯定的。</tspan>
+  </text>
+
+  <!-- 3 Pillars of YW -->
+  <g transform="translate(140, 550)">
+      <!-- 1 -->
+      <rect x="0" y="0" width="800" height="140" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="30" y="50" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">1. 尚自然，展个性 (Individuality)</text>
+      <text x="30" y="100" font-family="Noto Sans SC" font-size="26" fill="#666666">
+          这里的EAL课程分层教学，不强迫鱼去爬树。
+      </text>
+
+      <!-- 2 -->
+      <rect x="0" y="160" width="800" height="140" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="30" y="210" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">2. 艺术不是点缀 (Art is Soul)</text>
+      <text x="30" y="260" font-family="Noto Sans SC" font-size="26" fill="#666666">
+          驻校艺术家项目 (AIR) 让孩子天天浸润在美中。
+      </text>
+
+      <!-- 3 -->
+      <rect x="0" y="320" width="800" height="140" rx="10" fill="#FFFBF5" stroke="#E6D5C3" stroke-width="2"/>
+      <text x="30" y="370" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38">3. 品格第一 (Character First)</text>
+      <text x="30" y="420" font-family="Noto Sans SC" font-size="26" fill="#666666">
+          全人教育的核心，正是培养【健全的人格】。
+      </text>
+  </g>
+
+  <rect x="120" y="1080" width="840" height="180" rx="20" fill="#B85C38" fill-opacity="0.1"/>
+  <text x="540" y="1150" font-family="Noto Serif SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">"Education is for life."</text>
+  <text x="540" y="1210" font-family="Noto Sans SC" font-size="28" fill="#444444" text-anchor="middle">耀华不制造流水线产品，只培养鲜活的生命。</text>
+
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 4 / 6</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Title -->
+  <text x="540" y="240" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="64" font-weight="bold" text-anchor="middle">终极对决：一图看懂</text>
+
+  <!-- Comparison Table -->
+  <g transform="translate(80, 300)">
+    <!-- Header Row -->
+    <rect x="0" y="0" width="300" height="100" fill="#E5E7EB" stroke="#0F1E3C" stroke-width="2"/>
+    <text x="150" y="60" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold" text-anchor="middle">维度</text>
+    
+    <rect x="300" y="0" width="310" height="100" fill="#0F1E3C" stroke="#0F1E3C" stroke-width="2"/>
+    <text x="455" y="60" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">UCL</text>
+    
+    <rect x="610" y="0" width="310" height="100" fill="#6B21A8" stroke="#0F1E3C" stroke-width="2"/>
+    <text x="765" y="60" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">Manchester</text>
+
+    <!-- Row 1: Cost -->
+    <rect x="0" y="100" width="300" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="150" y="170" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">综合成本</text>
+    
+    <rect x="300" y="100" width="310" height="120" fill="#FEE2E2" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="455" y="150" fill="#991B1B" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold" text-anchor="middle">极高</text>
+    <text x="455" y="190" fill="#991B1B" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">£60k-80k / year</text>
+
+    <rect x="610" y="100" width="310" height="120" fill="#ECFDF5" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="765" y="150" fill="#047857" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold" text-anchor="middle">中等</text>
+    <text x="765" y="190" fill="#047857" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">£40k-50k / year</text>
+
+    <!-- Row 2: A-Level -->
+    <rect x="0" y="220" width="300" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="150" y="290" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">A-Level要求</text>
+    
+    <rect x="300" y="220" width="310" height="120" fill="#FEE2E2" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="455" y="270" fill="#991B1B" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">A*A*A - A*AA</text>
+    
+    <rect x="610" y="220" width="310" height="120" fill="#ECFDF5" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="765" y="270" fill="#047857" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">AAA - ABB</text>
+
+    <!-- Row 3: Pressure -->
+    <rect x="0" y="340" width="300" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="150" y="410" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">学术压力</text>
+    
+    <rect x="300" y="340" width="310" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="455" y="410" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">⭐️⭐️⭐️⭐️⭐️</text>
+    
+    <rect x="610" y="340" width="310" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="765" y="410" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">⭐️⭐️⭐️</text>
+    
+    <!-- Row 4: Vibe -->
+    <rect x="0" y="460" width="300" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="150" y="530" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">生活体验</text>
+    
+    <rect x="300" y="460" width="310" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="455" y="510" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">忙碌、拥挤、</text>
+    <text x="455" y="550" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">资源顶级</text>
+    
+    <rect x="610" y="460" width="310" height="120" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="1"/>
+    <text x="765" y="510" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">便利、活跃、</text>
+    <text x="765" y="550" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">强归属感</text>
+  </g>
+  
+  <text x="540" y="1000" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold" text-anchor="middle">💡 每日一校 建议：</text>
+  <text x="540" y="1050" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">"不要只看排名，要看你的钱包厚度和抗压指数。"</text>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">04 / 05</text>
+</svg>

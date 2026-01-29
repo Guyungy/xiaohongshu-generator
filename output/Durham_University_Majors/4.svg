@@ -1,0 +1,62 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Title -->
+  <text x="540" y="240" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="64" font-weight="bold" text-anchor="middle">独特的“学院制”</text>
+  <text x="540" y="300" fill="#555555" font-family="Georgia, serif" font-size="32" text-anchor="middle" font-style="italic">The Collegiate System</text>
+
+  <!-- Explanation Box -->
+  <g transform="translate(100, 360)">
+    <rect width="880" height="180" fill="#FFFFFF" stroke="#D4AF37" stroke-width="2" rx="10"/>
+    <text x="40" y="50" fill="#991B1B" font-family="'PingFang SC', sans-serif" font-size="28" font-weight="bold">⚠️ 99% 的人分不清：</text>
+    <text x="40" y="100" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">Department (系) vs College (学院)</text>
+    <text x="40" y="140" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">Department 管学习上课，College 管吃喝拉撒+社交。</text>
+  </g>
+
+  <!-- College Examples -->
+  <text x="100" y="620" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold">🔥 热门学院 (需提前占位)</text>
+  
+  <g transform="translate(100, 660)">
+     <!-- Castle -->
+     <rect width="280" height="200" fill="#0F1E3C" rx="10"/>
+     <text x="140" y="50" fill="#D4AF37" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">Castle</text>
+     <text x="140" y="100" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">住在城堡里</text>
+     <text x="140" y="140" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">自带哈利波特滤镜</text>
+
+     <!-- Hatfield -->
+     <rect x="300" y="0" width="280" height="200" fill="#0369A1" rx="10"/>
+     <text x="440" y="50" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">Hatfield</text>
+     <text x="440" y="100" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">第二古老</text>
+     <text x="440" y="140" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">精英氛围浓厚</text>
+
+     <!-- St Chad's -->
+     <rect x="600" y="0" width="280" height="200" fill="#4B5563" rx="10"/>
+     <text x="740" y="50" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">St Chad's</text>
+     <text x="740" y="100" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">小而美</text>
+     <text x="740" y="140" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="24" text-anchor="middle">就在大教堂对面</text>
+  </g>
+
+  <!-- Data/Stats -->
+  <g transform="translate(100, 920)">
+     <rect width="880" height="150" fill="#F0FDF4" rx="10" stroke="#10B981" stroke-width="1"/>
+     <text x="40" y="50" fill="#065F46" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">📈 90%+ 毕业生就业率</text>
+     <text x="40" y="100" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">雇主眼中的“除了牛剑之外的最佳选择”。</text>
+  </g>
+
+  <!-- Yew Wah Connection -->
+  <g transform="translate(100, 1100)">
+     <rect width="880" height="150" fill="#EFF6FF" rx="10" stroke="#3B82F6" stroke-width="1"/>
+     <text x="40" y="50" fill="#1E40AF" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">🏫 耀华校友反馈</text>
+     <text x="40" y="100" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26">“在这里感受到的 Community 归属感，是在其他综合性大学无法体验的。”</text>
+  </g>
+
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">04 / 05</text>
+</svg>

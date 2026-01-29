@@ -1,0 +1,53 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Title Area -->
+  <text x="540" y="240" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="bold" text-anchor="middle">UCL vs 曼大</text>
+  <line x1="140" y1="280" x2="940" y2="280" stroke="#D4AF37" stroke-width="4"/>
+  <text x="540" y="360" fill="#991B1B" font-family="'PingFang SC', sans-serif" font-size="64" font-weight="bold" text-anchor="middle">谁才是性价比之王？</text>
+
+  <!-- Split Comparison Visual -->
+  <g transform="translate(40, 450)">
+    <!-- UCL Side -->
+    <rect x="0" y="0" width="480" height="600" rx="10" fill="#0F1E3C"/>
+    <text x="240" y="80" fill="#D4AF37" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle">UCL</text>
+    <text x="240" y="140" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold" text-anchor="middle">G5 超级精英</text>
+    
+    <text x="40" y="240" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">🔥 学术地狱难度</text>
+    <text x="40" y="300" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">💰 伦敦天价成本</text>
+    <text x="40" y="360" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">🌍 全球顶级资源</text>
+    
+    <rect x="40" y="450" width="400" height="100" fill="#FFFFFF" rx="10"/>
+    <text x="240" y="510" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold" text-anchor="middle">“卷王必备”</text>
+  </g>
+
+  <g transform="translate(560, 450)">
+    <!-- Manchester Side -->
+    <rect x="0" y="0" width="480" height="600" rx="10" fill="#6B21A8"/> <!-- Purple for Manchester -->
+    <text x="240" y="80" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle">UoM</text>
+    <text x="240" y="140" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold" text-anchor="middle">红砖之首</text>
+
+    <text x="40" y="240" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">⚖️ 综合实力均衡</text>
+    <text x="40" y="300" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">💎 极高性价比</text>
+    <text x="40" y="360" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28">🎉 最佳学生体验</text>
+
+    <rect x="40" y="450" width="400" height="100" fill="#FFFFFF" rx="10"/>
+    <text x="240" y="510" fill="#6B21A8" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold" text-anchor="middle">“体验王者”</text>
+  </g>
+
+  <!-- Bottom Hook -->
+  <text x="540" y="1150" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle">一篇讲透：</text>
+  <text x="540" y="1220" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="48" font-weight="bold" text-anchor="middle">适合人群 + 费用对比 + 避坑指南</text>
+
+  <!-- Date -->
+  <text x="540" y="1300" fill="#666666" font-family="Georgia, serif" font-size="24" text-anchor="middle">2026.01.27</text>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">01 / 05</text>
+</svg>

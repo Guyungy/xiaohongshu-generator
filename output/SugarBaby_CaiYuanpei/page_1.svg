@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Warm Parchment -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <!-- Header Tag -->
+  <rect x="60" y="80" width="320" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="220" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">📖 经典重读 · 育儿</text>
+
+  <!-- Title Section -->
+  <text x="540" y="300" font-family="Noto Serif SC" font-weight="900" font-size="64" fill="#333333" text-anchor="middle">"孩子一生的根基</text>
+  <text x="540" y="400" font-family="Noto Serif SC" font-weight="900" font-size="80" fill="#B85C38" text-anchor="middle">从来不是成绩"</text>
+  
+  <line x1="160" y1="480" x2="920" y2="480" stroke="#B85C38" stroke-width="2"/>
+
+  <!-- High Density Text Block: Preface -->
+  <rect x="120" y="550" width="840" height="600" rx="20" fill="#FFFBF5"/>
+  <text x="160" y="620" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38">📝 蔡元培 (1868-1940)</text>
+  
+  <text x="160" y="680" font-family="Noto Sans SC" font-size="28" fill="#444444" width="760">
+    <tspan x="160" dy="0">今天，我们在鸡娃的赛道上狂奔。</tspan>
+    <tspan x="160" dy="45">为了0.5分，我们不惜扼杀孩子的睡眠；</tspan>
+    <tspan x="160" dy="45">为了名校Offer，我们逼迫孩子变成流水线产品。</tspan>
+    <tspan x="160" dy="60">但早在100年前，北大校长蔡元培先生就曾</tspan>
+    <tspan x="160" dy="45">振聋发聩地警告过我们：</tspan>
+    <tspan x="160" dy="60" font-weight="bold" fill="#B85C38">“教育者，非为已往，非为现在，”</tspan>
+    <tspan x="160" dy="45" font-weight="bold" fill="#B85C38">“而专为未来。”</tspan>
+    <tspan x="160" dy="60">当教育只剩下分数，抽离了“人”的属性，</tspan>
+    <tspan x="160" dy="45">我们培养出来的，可能只是精致的利己主义者，</tspan>
+    <tspan x="160" dy="45">或是内心千疮百孔的“空心人”。</tspan>
+  </text>
+  
+  <!-- Footer Text Block -->
+  <text x="540" y="1220" font-family="Noto Serif SC" font-size="36" fill="#333333" text-anchor="middle" font-weight="bold" font-style="italic">决定上限的，是人格。</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 1 / 6</text>
+</svg>

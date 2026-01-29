@@ -1,0 +1,38 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Summary Card -->
+  <rect x="100" y="250" width="880" height="500" rx="20" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+  <text x="540" y="320" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="48" font-weight="bold" text-anchor="middle">每日一校 · 总结</text>
+  
+  <line x1="200" y1="360" x2="880" y2="360" stroke="#E5E7EB"/>
+
+  <g transform="translate(180, 420)">
+      <text x="0" y="0" fill="#0369A1" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">✅ 适合人群：</text>
+      <text x="30" y="50" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28">• 追求传统英式精英教育</text>
+      <text x="30" y="100" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28">• 具备强学术自驱力 (Academic Focus)</text>
+      <text x="30" y="150" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28">• 成绩优异但想“求稳”牛剑申请者</text>
+      
+      <text x="0" y="230" fill="#991B1B" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">❌ 劝退人群：</text>
+      <text x="30" y="280" fill="#333333" font-family="'PingFang SC', sans-serif" font-size="28">• 喜欢大城市喧嚣 (这里是“村”)</text>
+  </g>
+
+  <!-- Interaction Question -->
+  <text x="540" y="850" fill="#D4AF37" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold" text-anchor="middle">💬 灵魂拷问</text>
+  <text x="540" y="920" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle">"如获 Durham 和 UCL 录取"</text>
+  <text x="540" y="990" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle">你会怎么选？</text>
+
+  <!-- CTA Section -->
+  <rect x="100" y="1100" width="880" height="200" rx="20" fill="#0F1E3C"/>
+  <text x="540" y="1170" fill="#D4AF37" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold" text-anchor="middle">关注 【每日一校 EduDaily】</text>
+  <text x="540" y="1240" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">私信回复【捡漏】，获取 2026 英国名校补录名单</text>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">05 / 05</text>
+</svg>

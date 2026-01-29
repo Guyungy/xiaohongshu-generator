@@ -1,0 +1,47 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F9F9F7"/>
+  
+  <!-- Header Branding -->
+  <rect width="1080" height="120" fill="#0F1E3C"/>
+  <text x="540" y="75" fill="#D4AF37" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">每日一校 EduDaily</text>
+
+  <!-- Summary Title -->
+  <text x="540" y="300" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="48" font-weight="bold" text-anchor="middle">决策时刻：你适合哪里？</text>
+  
+  <!-- Decision Flow -->
+  <g transform="translate(100, 400)">
+    <!-- Option A -->
+    <rect width="880" height="180" rx="10" fill="#FFFFFF" stroke="#0F1E3C" stroke-width="2"/>
+    <text x="40" y="50" fill="#0F1E3C" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">选 UCL，如果：</text>
+    <text x="40" y="100" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="28">✅ 目标明确，抗压能力 Max</text>
+    <text x="40" y="140" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="28">✅ 预算充足，非 G5 不读</text>
+    
+    <!-- Option B -->
+    <rect y="220" width="880" height="180" rx="10" fill="#FFFFFF" stroke="#6B21A8" stroke-width="2"/>
+    <text x="40" y="270" fill="#6B21A8" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold">选 曼大，如果：</text>
+    <text x="40" y="320" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="28">✅ 追求性价比 (ROI)</text>
+    <text x="40" y="360" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="28">✅ 想要生活与学习的平衡 (Balance)</text>
+  </g>
+  
+  <!-- UGO Plug -->
+  <g transform="translate(100, 850)">
+      <rect width="880" height="160" fill="#FEF3C7" rx="10"/>
+      <text x="440" y="50" fill="#92400E" font-family="'PingFang SC', sans-serif" font-size="32" font-weight="bold" text-anchor="middle">🏫 耀华 UGO 升学指导</text>
+      <text x="440" y="100" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26" text-anchor="middle" width="800">
+         不盲目追排名，只选“最适合”。我们通过 3 年长线规划，
+      </text>
+      <text x="440" y="140" fill="#555555" font-family="'PingFang SC', sans-serif" font-size="26" text-anchor="middle" width="800">
+         帮你匹配气质最契合的梦校。
+      </text>
+  </g>
+
+  <!-- CTA Section -->
+  <rect x="100" y="1100" width="880" height="200" rx="20" fill="#0F1E3C"/>
+  <text x="540" y="1170" fill="#D4AF37" font-family="'PingFang SC', sans-serif" font-size="36" font-weight="bold" text-anchor="middle">关注 【每日一校 EduDaily】</text>
+  <text x="540" y="1240" fill="#FFFFFF" font-family="'PingFang SC', sans-serif" font-size="28" text-anchor="middle">私信回复【名校】，获取 2026 英国名校费用清单</text>
+
+  <!-- Footer -->
+  <line x1="100" y1="1350" x2="980" y2="1350" stroke="#0F1E3C" stroke-width="1"/>
+  <text x="960" y="1400" fill="#0F1E3C" font-family="Arial, sans-serif" font-size="24" text-anchor="end">05 / 05</text>
+</svg>
