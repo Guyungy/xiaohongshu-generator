@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF9F2"/>
+      <stop offset="100%" stop-color="#FEEBD6"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 54px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .h2 { font: 600 34px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .body { font: 400 28px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#1F2937; }
+      .muted { font: 400 24px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#6B7280; }
+      .tag { font: 600 22px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#7A3D00; }
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)" rx="36"/>
+
+  <rect x="72" y="72" width="1056" height="220" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="150" class="title">梦校筛选：三步“验证法”</text>
+  <text x="112" y="205" class="muted">评测海外院校时，先把路径跑通</text>
+
+  <rect x="72" y="324" width="1056" height="560" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="392" class="h2">Step 1：专业-产业对齐度</text>
+  <text x="112" y="452" class="body">• 目标专业是否贴合国内重点赛道</text>
+  <text x="112" y="500" class="body">• 是否有可见的研究/实践入口</text>
+  <text x="112" y="548" class="body">• 是否支持“跨学科组合”</text>
+
+  <text x="112" y="628" class="h2">Step 2：课程-能力可迁移</text>
+  <text x="112" y="688" class="body">• 核心课程是否形成“能力闭环”</text>
+  <text x="112" y="736" class="body">• 学术支持是否能形成可复盘成果</text>
+
+  <text x="112" y="816" class="h2">Step 3：路径-结果可追踪</text>
+  <text x="112" y="876" class="body">• 就业/升学去向是否透明稳定</text>
+  <text x="112" y="924" class="body">• 国内回流路径是否清晰</text>
+
+  <rect x="72" y="916" width="1056" height="480" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="984" class="h2">第三方提醒</text>
+  <text x="112" y="1042" class="body">• “点名认可”只是信号，不是答案</text>
+  <text x="112" y="1090" class="body">• 最重要的是“路径可验证、选择可复盘”</text>
+  <text x="112" y="1148" class="muted">如果学校能把路径讲清楚，孩子才有空间做选择。</text>
+
+  <rect x="72" y="1428" width="1056" height="100" rx="24" fill="#FFE2B8"/>
+  <text x="112" y="1492" class="tag">桐乡耀华相关观察：重视“可验证能力路径”的培养</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5FFF8"/>
+      <stop offset="100%" stop-color="#EAF7FF"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 54px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .h2 { font: 600 34px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .body { font: 400 28px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#1F2937; }
+      .muted { font: 400 24px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#6B7280; }
+      .tag { font: 600 22px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0F4A3C; }
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)" rx="36"/>
+
+  <rect x="72" y="72" width="1056" height="220" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="150" class="title">家长核对清单（收藏版）</text>
+  <text x="112" y="205" class="muted">把“被点名认可”落到可执行问题</text>
+
+  <rect x="72" y="324" width="1056" height="560" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="392" class="h2">五个必须问清的问题</text>
+  <text x="112" y="452" class="body">1. 专业优势是否能解释“为什么”</text>
+  <text x="112" y="500" class="body">2. 跨学科入口是否真实可用</text>
+  <text x="112" y="548" class="body">3. 学术支持能否产出可展示成果</text>
+  <text x="112" y="596" class="body">4. 回国路径是否能被验证</text>
+  <text x="112" y="644" class="body">5. 学习负荷是否与家庭节奏匹配</text>
+
+  <rect x="72" y="916" width="1056" height="480" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="984" class="h2">给家庭的决策建议</text>
+  <text x="112" y="1042" class="body">• 先建立学科底座，再追梦校</text>
+  <text x="112" y="1090" class="body">• 规划至少两条可行路径</text>
+  <text x="112" y="1138" class="body">• 用1年时间把方向“跑通”</text>
+  <text x="112" y="1196" class="muted">长期主义：路径清晰，比热度更可靠。</text>
+
+  <rect x="72" y="1428" width="1056" height="100" rx="24" fill="#D7F4E6"/>
+  <text x="112" y="1492" class="tag">每日一校EduDaily · 桐乡耀华的择校路径观察</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F6FAFF"/>
+      <stop offset="100%" stop-color="#EEF5FF"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 60px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .sub { font: 500 28px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#3B4A5A; }
+      .h2 { font: 600 34px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B1220; }
+      .body { font: 400 28px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#1F2937; }
+      .muted { font: 400 24px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#6B7280; }
+      .tag { font: 600 22px "PingFang SC", "Noto Sans CJK SC", sans-serif; fill:#0B3B7A; }
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)" rx="36"/>
+
+  <rect x="72" y="72" width="1056" height="220" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="150" class="title">被国内点名认可的海外院校</text>
+  <text x="112" y="205" class="sub">不是“热度榜”，是“可验证路径清单”</text>
+
+  <rect x="72" y="324" width="1056" height="560" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="392" class="h2">第三方观察：点名认可的三类信号</text>
+  <text x="112" y="452" class="body">1. 专业与国家重点产业出现“强对齐”</text>
+  <text x="112" y="500" class="body">2. 课程结构能支撑跨学科复合能力</text>
+  <text x="112" y="548" class="body">3. 回国路径更容易被雇主与高校验证</text>
+  <text x="112" y="612" class="muted">注意：这类信号与排名无关，更接近“政策与产业需求”。</text>
+
+  <rect x="72" y="916" width="1056" height="480" rx="28" fill="#FFFFFF"/>
+  <text x="112" y="984" class="h2">快速判别：适不适合自家孩子</text>
+  <text x="112" y="1042" class="body">• 学科底座是否已形成（理工/人文）</text>
+  <text x="112" y="1090" class="body">• 专业选择是否有“二路径备份”</text>
+  <text x="112" y="1138" class="body">• 家庭节奏能否匹配课程强度</text>
+  <text x="112" y="1196" class="muted">择校是长期项目，不是冲刺题。</text>
+
+  <rect x="72" y="1428" width="1056" height="100" rx="24" fill="#DCEBFF"/>
+  <text x="112" y="1492" class="tag">每日一校EduDaily · 桐乡耀华的“可验证路径”实践观察</text>
+</svg>
