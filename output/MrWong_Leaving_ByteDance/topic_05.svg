@@ -1,0 +1,40 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F7F9F9"/>
+  <!-- Header -->
+  <rect x="60" y="60" width="8" height="70" fill="#F4245E"/>
+  <text x="90" y="110" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="56">给普通人的行动指南</text>
+
+  <!-- Strategy Block -->
+  <g transform="translate(60, 180)">
+    <text x="0" y="50" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="42">1. 学习心态：先射箭，后画靶子</text>
+    <text x="0" y="100" fill="#0F1419" font-family="sans-serif" font-size="30">
+        <tspan x="0" dy="0">别再囤积网课了，也别再试图搞懂 Transformer 原理了。</tspan>
+        <tspan x="0" dy="55">现在的技术迭代太快，传统的系统化学习已经失效。</tspan>
+        <tspan x="0" dy="55" font-weight="bold">直接上手做！</tspan><tspan>先跑通一个 Demo，先让 AI 生成一张图。</tspan>
+        <tspan x="0" dy="55">在乱战中寻找秩序，在实践中通过即时反馈来修正认知。</tspan>
+    </text>
+  </g>
+
+  <!-- To-Do List Block -->
+  <g transform="translate(60, 550)">
+    <text x="0" y="50" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="42">2. 推荐尝试的 To-Do List</text>
+    <rect x="0" y="80" width="960" height="360" rx="16" fill="white" stroke="#E1E8ED" stroke-width="2"/>
+    <text x="40" y="150" fill="#0F1419" font-family="sans-serif" font-size="30">
+      <tspan x="40" dy="0">✅</tspan> <tspan font-weight="bold">深度使用 DeepSeek R1：</tspan> <tspan>体验推理模型的思考过程。</tspan>
+      <tspan x="40" dy="55">✅</tspan> <tspan font-weight="bold">试玩视频生成：</tspan> <tspan>Sora / 可灵 / 海螺，感受多模态。</tspan>
+      <tspan x="40" dy="55">✅</tspan> <tspan font-weight="bold">部署一个 Agent：</tspan> <tspan>用 Coze 或 Dify 捏一个机器人。</tspan>
+      <tspan x="40" dy="55">✅</tspan> <tspan font-weight="bold">关注 MCP 协议：</tspan> <tspan>这是未来的“AI 互联网”连接标准。</tspan>
+    </text>
+  </g>
+
+  <!-- Join Community Block -->
+  <rect x="60" y="1020" width="960" height="260" rx="20" fill="#0F1419"/>
+  <circle cx="160" cy="1150" r="70" fill="#CFD9DE"/>
+  <text x="260" y="1120" fill="white" font-family="sans-serif" font-weight="bold" font-size="42">Mr. Wong</text>
+  <text x="260" y="1180" fill="#888" font-family="sans-serif" font-size="28">前字节老兵 | 现 AI 独立开发者</text>
+  
+  <rect x="700" y="1100" width="220" height="100" rx="50" fill="#F4245E"/>
+  <text x="810" y="1165" fill="white" font-family="sans-serif" font-weight="bold" font-size="36" text-anchor="middle">关注我</text>
+
+  <text x="540" y="1350" fill="#536471" font-family="sans-serif" font-size="28" text-anchor="middle">这里没有焦虑，只有理性的 AI 实践</text>
+</svg>

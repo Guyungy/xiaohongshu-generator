@@ -1,0 +1,29 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <rect x="60" y="80" width="960" height="1280" rx="40" fill="#FFFFFF"/>
+  
+  <!-- Content Centered -->
+  <text x="540" y="400" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">写在最后</text>
+
+  <!-- Emotional Text -->
+  <text x="540" y="520" font-family="Noto Sans SC" font-size="36" fill="#333333" text-anchor="middle">请相信</text>
+  
+  <rect x="240" y="580" width="600" height="4" fill="#E6D5C3" rx="2"/>
+
+  <text x="540" y="680" font-family="Noto Sans SC" font-size="30" fill="#666666" text-anchor="middle">那个暂时蹲下的孩子，</text>
+  <text x="540" y="740" font-family="Noto Sans SC" font-size="30" fill="#666666" text-anchor="middle">只是在积蓄跳跃的力量。</text>
+  
+  <text x="540" y="860" font-family="Noto Sans SC" font-size="30" fill="#666666" text-anchor="middle">每一朵花都有自己的花期，</text>
+  <text x="540" y="920" font-family="Noto Sans SC" font-weight="bold" font-size="30" fill="#B85C38" text-anchor="middle">别急，慢慢来。</text>
+
+  <!-- Graphic Element Placeholder (Sun/Flower/Heart) -->
+  <text x="540" y="1100" font-family="Noto Sans SC" font-size="120" fill="#B85C38" text-anchor="middle">🌻</text>
+
+  <!-- Call to Action -->
+  <rect x="180" y="1200" width="720" height="80" rx="40" fill="#Fdf6ec"/>
+  <text x="540" y="1250" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">关注砂糖宝贝，给孩子更多成长的氧气</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 6 / 6</text>
+</svg>

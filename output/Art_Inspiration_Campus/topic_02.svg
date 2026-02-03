@@ -1,0 +1,35 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F0F0F0"/>
+  
+  <!-- Top Section -->
+  <rect x="0" y="0" width="1080" height="300" fill="black"/>
+  <text x="60" y="150" font-family="Noto Sans SC, sans-serif" font-size="120" font-weight="900" fill="#CCFF00">01</text>
+  <text x="240" y="140" font-family="Noto Sans SC, sans-serif" font-size="60" font-weight="bold" fill="white">零距离大师课</text>
+  <text x="240" y="210" font-family="Noto Sans SC, sans-serif" font-size="36" fill="white" opacity="0.8">Master Class Interaction</text>
+  
+  <!-- Card 1 -->
+  <rect x="60" y="360" width="960" height="400" fill="white" stroke="black" stroke-width="4"/>
+  <rect x="60" y="360" width="20" height="400" fill="#CCFF00"/>
+  <text x="120" y="450" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="bold" fill="black">沉浸式观察 👀</text>
+  <text x="120" y="540" font-family="Noto Sans SC, sans-serif" font-size="36" fill="#333" width="800">
+    <tspan x="120" dy="0">不再隔着屏幕或展柜，亲眼见证艺术家</tspan>
+    <tspan x="120" dy="60">如何调色、构图、修改、打磨。</tspan>
+    <tspan x="120" dy="60">每一个笔触都是生动的教学。</tspan>
+  </text>
+  
+  <!-- Card 2 -->
+  <rect x="60" y="820" width="960" height="400" fill="black" stroke="black" stroke-width="4"/>
+  <rect x="1000" y="820" width="20" height="400" fill="#CCFF00"/>
+  <text x="120" y="910" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="bold" fill="white">面对面交流 🤝</text>
+  <text x="120" y="1000" font-family="Noto Sans SC, sans-serif" font-size="36" fill="#DDD">
+    <tspan x="120" dy="0">"灵感来自哪里？" "瓶颈怎么突破？"</tspan>
+    <tspan x="120" dy="60">随时向大师提问，获得最真实的解答。</tspan>
+    <tspan x="120" dy="60">打破围墙，让艺术自然生长。</tspan>
+  </text>
+  
+  <!-- Footer -->
+  <line x1="60" y1="1300" x2="1020" y2="1300" stroke="black" stroke-width="2"/>
+  <text x="60" y="1360" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#666">SHANGHAI YEW WAH GUBEI CAMPUS</text>
+  <rect x="940" y="1320" width="80" height="80" fill="#CCFF00"/>
+  <path d="M960 1340 L1000 1380 M1000 1340 L960 1380" stroke="black" stroke-width="2"/>
+</svg>

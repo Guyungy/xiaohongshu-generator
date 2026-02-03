@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F7F9F9"/>
+  <!-- Top Header Bar -->
+  <rect x="0" y="0" width="1080" height="140" fill="#1D9BF0"/>
+  <text x="60" y="90" fill="white" font-family="sans-serif" font-weight="bold" font-size="42">Mr. Wong 的 AI 观察笔记</text>
+  <text x="1020" y="90" fill="white" font-family="sans-serif" font-size="36" text-anchor="end">No.001</text>
+
+  <!-- Main Title Area -->
+  <text x="60" y="280" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="72">离开字节跳动</text>
+  <text x="60" y="380" fill="#F4245E" font-family="sans-serif" font-weight="bold" font-size="92">8 年 = 24 年经验？</text>
+  
+  <line x1="60" y1="440" x2="1020" y2="440" stroke="#E1E8ED" stroke-width="4"/>
+
+  <!-- Subtitle -->
+  <text x="60" y="510" fill="#536471" font-family="sans-serif" font-size="38" font-weight="bold">一个 42 岁程序员的 AI 转型实录</text>
+  
+  <!-- Hook Paragraph - Manual Wrapping -->
+  <text x="60" y="580" fill="#0F1419" font-family="sans-serif" font-size="32" style="white-space: pre;">
+    <tspan x="60" dy="0">我在字节跳动工作的这几年，像是经历了一场“高强度压缩”。</tspan>
+    <tspan x="60" dy="55">外界看到的是光鲜的履历，我感受到的是生命被极速燃烧。</tspan>
+    <tspan x="60" dy="80"></tspan>
+    <tspan x="60" dy="55">2025 年，我选择离开大厂，拥抱 AI。这不是一次无奈的裁员，</tspan>
+    <tspan x="60" dy="55">而是一次主动的“越狱”。因为我看见了比大厂系统更强大的力量</tspan>
+    <tspan x="60" dy="55">—<tspan font-weight="bold">超级个体</tspan>。</tspan>
+  </text>
+
+  <!-- Key Highlights Bubble -->
+  <rect x="60" y="960" width="960" height="300" rx="20" fill="white" stroke="#E1E8ED" stroke-width="2"/>
+  <text x="100" y="1020" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="36">本期核心观点：</text>
+  
+  <g transform="translate(100, 1080)">
+    <circle cx="15" cy="15" r="8" fill="#F4245E"/>
+    <text x="50" y="25" fill="#0F1419" font-family="sans-serif" font-size="32">春节 7 天的“单兵作战”实验：从 0 到 80w 播放量</text>
+    
+    <circle cx="15" cy="85" r="8" fill="#F4245E"/>
+    <text x="50" y="95" fill="#0F1419" font-family="sans-serif" font-size="32">大厂运作模式 vs AI 杠杆模式的深度对比</text>
+    
+    <circle cx="15" cy="155" r="8" fill="#F4245E"/>
+    <text x="50" y="165" fill="#0F1419" font-family="sans-serif" font-size="32">2025 年 AI 产品排位赛：谁是赢家，谁是炮灰？</text>
+  </g>
+
+  <!-- Footer -->
+  <rect x="0" y="1320" width="1080" height="120" fill="#0F1419"/>
+  <text x="540" y="1395" fill="white" font-family="sans-serif" font-size="32" text-anchor="middle">@Mr.Wong | #AI #程序员 #独立开发</text>
+</svg>

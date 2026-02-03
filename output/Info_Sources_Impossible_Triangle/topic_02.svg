@@ -1,0 +1,46 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  <path d="M0 240 L1080 240" stroke="#0F1419" stroke-width="4"/>
+  
+  <!-- Series Header -->
+  <text x="60" y="100" fill="#64748B" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">P02 // THE IMPOSSIBLE TRIANGLE</text>
+  <text x="60" y="180" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="900" font-size="72">信源的「不可能三角」定律</text>
+  
+  <!-- Main Visual: The Equation -->
+  <rect x="60" y="320" width="960" height="240" rx="24" fill="#F1F5F9"/>
+  <text x="540" y="380" fill="#64748B" font-family="Menlo, monospace" font-size="28" text-anchor="middle">SYSTEM CONSTRAINT</text>
+  
+  <text x="240" y="480" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="900" font-size="64" text-anchor="middle">时效性</text>
+  <text x="540" y="480" fill="#EF4444" font-family="PingFang SC, sans-serif" font-weight="900" font-size="80" text-anchor="middle">≠</text>
+  <text x="840" y="480" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="900" font-size="64" text-anchor="middle">低门槛</text>
+
+  <!-- Explanation Blocks -->
+  <text x="60" y="640" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="40">这是一个残酷的负相关 (Trade-off)：</text>
+  
+  <!-- Tradeoff A -->
+  <rect x="60" y="700" width="960" height="260" rx="24" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="2"/>
+  <circle cx="120" cy="760" r="30" fill="#EF4444"/>
+  <text x="120" y="772" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32" text-anchor="middle">A</text>
+  
+  <text x="180" y="770" fill="#B91C1C" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="40">如果你想要极快的一手信息...</text>
+  <text x="180" y="840" fill="#7F1D1D" font-family="PingFang SC, sans-serif" font-size="36">
+    <tspan x="180" dy="0">你就必须付出巨大的筛选成本。</tspan>
+    <tspan x="180" dy="50">因为 raw data 都是泥沙俱下的。</tspan>
+  </text>
+  
+  <!-- Tradeoff B -->
+  <rect x="60" y="1000" width="960" height="260" rx="24" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="2"/>
+  <circle cx="120" cy="1060" r="30" fill="#0EA5E9"/>
+  <text x="120" y="1072" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32" text-anchor="middle">B</text>
+  
+  <text x="180" y="1070" fill="#0369A1" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="40">如果你想要“喂到嘴边”的轻松...</text>
+  <text x="180" y="1140" fill="#0C4A6E" font-family="PingFang SC, sans-serif" font-size="36">
+    <tspan x="180" dy="0">你就得忍受时效性滞后。</tspan>
+    <tspan x="180" dy="50">因为别人已经帮你筛选（嚼）过了。</tspan>
+  </text>
+
+  <!-- Footer -->
+  <text x="60" y="1320" fill="#64748B" font-family="PingFang SC, sans-serif" font-size="28">不要幻想能找到 [又快] [又好] [又省力] 的信源。</text>
+  <text x="960" y="1380" fill="#64748B" font-family="Menlo, monospace" font-size="24">02/04</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="#F8F8F8"/>
+<path d="M40 40H1040V1400H40V40Z" stroke="black" stroke-width="4"/>
+
+<!-- Header -->
+<text x="80" y="120" font-family="Noto Sans SC" font-weight="900" font-size="60" fill="#660066">EPISODE 05</text>
+<text x="80" y="200" font-family="Noto Sans SC" font-weight="900" font-size="100" fill="black">潜意识的自由</text>
+<text x="80" y="270" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#666">The Threshold of Liberty</text>
+
+<!-- Visual Accent -->
+<rect x="80" y="320" width="920" height="60" fill="#660066"/>
+
+<!-- Content Block 1 -->
+<text x="80" y="450" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#660066">▌ 为什么我们需要怪诞？</text>
+<text x="80" y="520" font-family="Noto Sans SC" font-size="40" fill="#333">第一次世界大战粉碎了欧洲对“理性文明”的信仰。</text>
+<text x="80" y="580" font-family="Noto Sans SC" font-size="40" fill="#333">既然理性的结果是把人类送进屠宰场，</text>
+<text x="80" y="640" font-family="Noto Sans SC" font-size="40" fill="#333">那么艺术的任务就是颠覆理性。</text>
+<text x="80" y="700" font-family="Noto Sans SC" font-size="40" fill="#333">超现实主义（Surrealism）应运而生：退回梦境。</text>
+
+<!-- Content Block 2 -->
+<text x="80" y="800" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#660066">▌ 梦是唯一的真实</text>
+<text x="80" y="870" font-family="Noto Sans SC" font-size="40" fill="#333">从达利（Dali）融化的时钟，到马格利特（Magritte）</text>
+<text x="80" y="930" font-family="Noto Sans SC" font-size="40" fill="#333">写着“这不是一只烟斗”的烟斗。</text>
+<text x="80" y="990" font-family="Noto Sans SC" font-size="40" fill="#333">艺术家们开始使用弗洛伊德的理论，</text>
+<text x="80" y="1050" font-family="Noto Sans SC" font-size="40" fill="#333">挖掘被压抑的欲望、暴力和荒谬。</text>
+<text x="80" y="1110" font-family="Noto Sans SC" font-size="40" fill="#333">这不是逃避，这是一种对自由门槛的冲击。</text>
+
+<!-- Highlight Box -->
+<rect x="80" y="1180" width="920" height="170" fill="#F0E6F0"/>
+<path d="M80 1180H1000" stroke="#660066" stroke-width="6"/>
+<text x="130" y="1250" font-family="Noto Sans SC" font-weight="bold" font-size="40" fill="#660066">"To make it new..."</text>
+<text x="130" y="1310" font-family="Noto Sans SC" font-size="38" fill="#333">为了创新，他们必须先变得疯狂。</text>
+
+</svg>

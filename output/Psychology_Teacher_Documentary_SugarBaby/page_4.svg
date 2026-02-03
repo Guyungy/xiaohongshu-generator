@@ -1,0 +1,44 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <rect x="60" y="80" width="960" height="1280" rx="40" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <text x="540" y="180" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">🧠 脑科学视角 (Neuroscience)</text>
+
+  <!-- Title -->
+  <text x="540" y="280" font-family="Noto Sans SC" font-weight="900" font-size="70" fill="#333333" text-anchor="middle">大脑“死机”了</text>
+  
+  <!-- Diagram Representation -->
+  <!-- Amygdala Hijack -->
+  <circle cx="540" cy="500" r="140" fill="#FFF0E6"/>
+  <text x="540" y="480" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38" text-anchor="middle">杏仁核</text>
+  <text x="540" y="530" font-family="Noto Sans SC" font-size="28" fill="#B85C38" text-anchor="middle">(Amygdala)</text>
+  <text x="540" y="580" font-family="Noto Sans SC" font-size="24" fill="#B85C38" text-anchor="middle">情绪报警器</text>
+
+  <!-- Text Explanation -->
+  <rect x="100" y="700" width="880" height="520" rx="20" fill="#F9F9F9"/>
+  <text x="140" y="780" font-family="Noto Sans SC" font-size="30" fill="#333333">
+    <tspan x="140" dy="0">当孩子感受到长期、过度的压力时，</tspan>
+    <tspan x="140" dy="50">大脑的杏仁核会判定环境为 **“威胁”**。</tspan>
+    
+    <tspan x="140" dy="80">此时，负责理智思考的 **前额叶** 被切断，</tspan>
+    <tspan x="140" dy="50">大脑进入生存模式：</tspan>
+  </text>
+
+  <!-- Survival Modes -->
+  <text x="180" y="1000" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#555555">🦁 Fight (反击)</text>
+  <text x="400" y="1000" font-family="Noto Sans SC" font-size="30" fill="#888888">发脾气、破坏</text>
+
+  <text x="180" y="1080" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#555555">🏃 Flight (逃跑)</text>
+  <text x="400" y="1080" font-family="Noto Sans SC" font-size="30" fill="#888888">逃学、离家出走</text>
+
+  <text x="180" y="1160" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38">❄️ Freeze (僵死)</text>
+  <text x="400" y="1160" font-family="Noto Sans SC" font-size="30" fill="#B85C38" font-weight="bold">就是我们看到的“躺平”</text>
+
+  <!-- Conclusion Line -->
+  <text x="540" y="1300" font-family="Noto Sans SC" font-size="28" fill="#333333" text-anchor="middle">所以，这不是态度问题，这是**生理反应**。</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 4 / 6</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E5E5E5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1440" fill="white"/>
+  <rect width="1080" height="1440" fill="url(#grid)"/>
+  
+  <!-- Content -->
+  <rect x="60" y="60" width="960" height="1320" stroke="black" stroke-width="8"/>
+  
+  <!-- Title Block -->
+  <rect x="60" y="200" width="800" height="300" fill="black"/>
+  <text x="100" y="320" font-family="Noto Sans SC, sans-serif" font-size="120" font-weight="900" fill="#CCFF00">AI 越快</text>
+  <text x="100" y="440" font-family="Noto Sans SC, sans-serif" font-size="120" font-weight="900" fill="white">我们越慢</text>
+  
+  <rect x="220" y="550" width="800" height="120" fill="#CCFF00"/>
+  <text x="260" y="630" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="bold" fill="black">THE ART OF SLOWNESS</text>
+  
+  <!-- Density Added: Introductory text -->
+  <rect x="100" y="750" width="880" height="300" fill="white" stroke="black" stroke-width="2"/>
+  <text x="140" y="820" font-family="Noto Sans SC, sans-serif" font-size="32" fill="black" width="800">
+    <tspan x="140" dy="0">当 Sora 能在一分钟内生成 60 秒的高清视频，</tspan>
+    <tspan x="140" dy="50">为什么我们还要引导学生花三个下午，</tspan>
+    <tspan x="140" dy="50">去等待一块布料在茶汤中慢慢氧化？</tspan>
+    <tspan x="140" dy="50">在效率至上的算法时代，</tspan>
+    <tspan x="140" dy="50">这是一场关于“触感”与“真实”的</tspan>
+    <tspan x="140" dy="50">反效率实验。</tspan>
+  </text>
+
+  <!-- Visual Metaphor -->
+  <circle cx="200" cy="1200" r="80" fill="black"/>
+  <text x="200" y="1225" font-family="Noto Sans SC, sans-serif" font-size="60" fill="white" text-anchor="middle">✋</text>
+  
+  <line x1="280" y1="1200" x2="940" y2="1200" stroke="black" stroke-width="4"/>
+  
+  <!-- Footer -->
+  <text x="940" y="1280" font-family="Noto Sans SC, sans-serif" font-size="30" font-weight="bold" fill="black" text-anchor="end">驻校艺术家的教育手记</text>
+  <text x="940" y="1330" font-family="Noto Sans SC, sans-serif" font-size="24" fill="#666" text-anchor="end">Vol.04 Education Review</text>
+</svg>

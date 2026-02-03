@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#F8FAFC"/>
+  <path d="M0 240 L1080 240" stroke="#0F1419" stroke-width="4"/>
+  
+  <!-- Series Header -->
+  <text x="60" y="100" fill="#64748B" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">P01 // MR.WONG's THEORY</text>
+  <text x="60" y="180" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="900" font-size="72">为什么你的信息流这么脏？</text>
+  
+  <!-- Section 1: The Problem (Aggregators) -->
+  <rect x="60" y="320" width="960" height="420" rx="32" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="4"/>
+  <text x="120" y="400" fill="#EF4444" font-family="Menlo, monospace" font-size="32" font-weight="bold">ERROR: PASSIVE FEED (被动投喂)</text>
+  <path d="M120 440 L880 440" stroke="#EF4444" stroke-width="2"/>
+  
+  <text x="120" y="520" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="48">大部分自媒体 = 聚合器</text>
+  <text x="120" y="590" fill="#475569" font-family="PingFang SC, sans-serif" font-size="36">
+    <tspan x="120" dy="0">你关注他们，是为了省力。</tspan>
+    <tspan x="120" dy="60">但“省力”意味着你吃的是</tspan>
+    <tspan x="120" dy="60">别人嚼过的“预制菜”。</tspan>
+  </text>
+  
+  <rect x="740" y="600" width="240" height="100" rx="16" fill="#FEE2E2"/>
+  <text x="860" y="660" fill="#B91C1C" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32" text-anchor="middle">高噪音</text>
+  
+  <!-- Arrow Down -->
+  <path d="M540 760 L540 840" stroke="#0F1419" stroke-width="4" marker-end="url(#arrow)"/>
+  
+  <!-- Section 2: The Solution (Sources) -->
+  <rect x="60" y="860" width="960" height="420" rx="32" fill="#0F1419"/>
+  <text x="120" y="940" fill="#10B981" font-family="Menlo, monospace" font-size="32" font-weight="bold">SOLUTION: ACTIVE TRACE (主动溯源)</text>
+  <path d="M120 980 L880 980" stroke="#10B981" stroke-width="2"/>
+  
+  <text x="120" y="1060" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="48">寻找那个 Source (源头)</text>
+  <text x="120" y="1130" fill="#94A3B8" font-family="PingFang SC, sans-serif" font-size="36">
+    <tspan x="120" dy="0">顺着节点往上爬。</tspan>
+    <tspan x="120" dy="60">你需要直接对抗Raw Data。</tspan>
+    <tspan x="120" dy="60">虽然很难，但那是金矿。</tspan>
+  </text>
+  
+  <rect x="740" y="1140" width="240" height="100" rx="16" fill="#064E3B"/>
+  <text x="860" y="1200" fill="#34D399" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32" text-anchor="middle">高信噪比</text>
+  
+  <!-- Footer -->
+  <text x="960" y="1380" fill="#64748B" font-family="Menlo, monospace" font-size="24">01/04</text>
+</svg>

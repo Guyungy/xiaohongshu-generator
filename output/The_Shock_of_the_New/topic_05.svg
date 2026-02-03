@@ -1,0 +1,34 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1440" fill="#F8F8F8"/>
+<path d="M40 40H1040V1400H40V40Z" stroke="black" stroke-width="4"/>
+
+<!-- Header -->
+<text x="80" y="120" font-family="Noto Sans SC" font-weight="900" font-size="60" fill="#D4AF37">EPISODE 07</text>
+<text x="80" y="200" font-family="Noto Sans SC" font-weight="900" font-size="100" fill="black">作为自然的文化</text>
+<text x="80" y="270" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#666">Culture as Nature</text>
+
+<!-- Visual Accent -->
+<rect x="80" y="320" width="920" height="60" fill="#D4AF37"/>
+
+<!-- Content Block 1 -->
+<text x="80" y="450" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#997A00">▌ 第二自然</text>
+<text x="80" y="520" font-family="Noto Sans SC" font-size="40" fill="#333">休斯提出了一个极其敏锐的观点：</text>
+<text x="80" y="580" font-family="Noto Sans SC" font-size="40" fill="#333">对于现代人来说，“自然”不再是森林和河流，</text>
+<text x="80" y="640" font-family="Noto Sans SC" font-size="40" fill="#333">而是由媒体、广告、霓虹灯构成的“人工自然”。</text>
+<text x="80" y="700" font-family="Noto Sans SC" font-size="40" fill="#333">我们在图像的海洋中呼吸。</text>
+
+<!-- Content Block 2 -->
+<text x="80" y="800" font-family="Noto Sans SC" font-weight="bold" font-size="50" fill="#997A00">▌ 波普艺术的真谛</text>
+<text x="80" y="870" font-family="Noto Sans SC" font-size="40" fill="#333">安迪·沃霍尔（Andy Warhol）并不是在批判过度消费，</text>
+<text x="80" y="930" font-family="Noto Sans SC" font-size="40" fill="#333">他是在拥抱它，也是在冷漠地反映它。</text>
+<text x="80" y="990" font-family="Noto Sans SC" font-size="40" fill="#333">当汤罐头和玛丽莲·梦露都变成了可复制的符号，</text>
+<text x="80" y="1050" font-family="Noto Sans SC" font-size="40" fill="#333">艺术品也不可避免地变成了商品。</text>
+
+<!-- Highlight Box -->
+<rect x="80" y="1150" width="920" height="200" fill="#FFF8E0"/>
+<path d="M80 1150H1000" stroke="#D4AF37" stroke-width="6"/>
+<text x="130" y="1230" font-family="Noto Sans SC" font-weight="bold" font-size="40" fill="#997A00">"Making money is the best art."</text>
+<text x="130" y="1290" font-family="Noto Sans SC" font-size="38" fill="#333">赚钱是最好的艺术。</text>
+<text x="130" y="1330" font-family="Noto Sans SC" font-size="32" fill="#666">—— Andy Warhol</text>
+
+</svg>

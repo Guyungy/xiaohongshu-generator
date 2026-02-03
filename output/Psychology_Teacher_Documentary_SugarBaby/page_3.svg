@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <rect x="60" y="80" width="960" height="1280" rx="40" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <text x="540" y="180" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">❌ 误区 (Misconception)</text>
+
+  <!-- Title -->
+  <text x="540" y="280" font-family="Noto Sans SC" font-weight="900" font-size="70" fill="#333333" text-anchor="middle">偷懒 vs 生病</text>
+  
+  <!-- Split Layout -->
+  <!-- Left Side: Parents View -->
+  <rect x="100" y="360" width="420" height="300" rx="20" fill="#F0F0F0"/>
+  <text x="310" y="420" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#666666" text-anchor="middle">家长眼中</text>
+  <text x="310" y="500" font-family="Noto Sans SC" font-size="28" fill="#333333" text-anchor="middle">"这就是想偷懒"</text>
+  <text x="310" y="550" font-family="Noto Sans SC" font-size="28" fill="#333333" text-anchor="middle">"怕吃苦"</text>
+  <text x="310" y="600" font-family="Noto Sans SC" font-size="28" fill="#333333" text-anchor="middle">"太脆弱了"</text>
+
+  <!-- Right Side: Reality -->
+  <rect x="560" y="360" width="420" height="300" rx="20" fill="#FFF0E6"/>
+  <text x="770" y="420" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38" text-anchor="middle">真实情况</text>
+  <text x="770" y="500" font-family="Noto Sans SC" font-size="28" fill="#B85C38" text-anchor="middle">痛苦超载</text>
+  <text x="770" y="550" font-family="Noto Sans SC" font-size="28" fill="#B85C38" text-anchor="middle">能量枯竭</text>
+  <text x="770" y="600" font-family="Noto Sans SC" font-size="28" fill="#B85C38" text-anchor="middle">身体在求救</text>
+
+  <!-- Iceberg Explanation -->
+  <rect x="100" y="720" width="880" height="500" rx="20" fill="#Fdf6ec"/>
+  <text x="540" y="800" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#333333" text-anchor="middle">⛰️ 冰山理论</text>
+  
+  <text x="140" y="880" font-family="Noto Sans SC" font-size="30" fill="#333333">
+    <tspan x="140" dy="0">我们看到的是水面上的行为：</tspan>
+    <tspan x="140" dy="45" font-weight="bold">不去学校、打游戏、黑白颠倒。</tspan>
+    
+    <tspan x="140" dy="80">但水面下的真相是：</tspan>
+    <tspan x="140" dy="45">在学校遭遇的霸凌、长期的挫败感、</tspan>
+    <tspan x="140" dy="45">无法排解的焦虑、对未来的恐惧...</tspan>
+    
+    <tspan x="140" dy="80" fill="#B85C38" font-weight="bold">当这些重压超过了心理承受的临界值，</tspan>
+    <tspan x="140" dy="45" fill="#B85C38" font-weight="bold">“厌学”就成了唯一的自我保护机制。</tspan>
+  </text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 3 / 6</text>
+</svg>

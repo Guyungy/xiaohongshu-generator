@@ -1,0 +1,41 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <rect x="60" y="80" width="960" height="1280" rx="40" fill="#FFFFFF"/>
+  
+  <!-- Header -->
+  <text x="540" y="180" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">💡 破局之道 (Solutions)</text>
+
+  <!-- Title -->
+  <text x="540" y="280" font-family="Noto Sans SC" font-weight="900" font-size="70" fill="#333333" text-anchor="middle">我们能做什么？</text>
+  
+  <!-- Step 1 -->
+  <rect x="100" y="380" width="880" height="240" rx="20" fill="#FDF6EC"/>
+  <text x="140" y="440" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38">01. 闭上嘴，张开耳</text>
+  <text x="140" y="500" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="140" dy="0">忍住所有的大道理和指责。</tspan>
+    <tspan x="140" dy="45">只需要问一句：</tspan>
+    <tspan x="140" dy="45" font-weight="bold">“此刻，你需要我为你做什么？”</tspan>
+  </text>
+
+  <!-- Step 2 -->
+  <rect x="100" y="660" width="880" height="240" rx="20" fill="#FDF6EC"/>
+  <text x="140" y="720" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38">02. 允许“暂停”</text>
+  <text x="140" y="780" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="140" dy="0">人生不是百米冲刺，是马拉松。</tspan>
+    <tspan x="140" dy="45">允许孩子生病，允许孩子休息。</tspan>
+    <tspan x="140" dy="45" font-weight="bold">这种“接纳”本身，就是最大的疗愈。</tspan>
+  </text>
+
+  <!-- Step 3 -->
+  <rect x="100" y="940" width="880" height="240" rx="20" fill="#FDF6EC"/>
+  <text x="140" y="1000" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#B85C38">03. 寻找微小的光</text>
+  <text x="140" y="1060" font-family="Noto Sans SC" font-size="28" fill="#444444">
+    <tspan x="140" dy="0">不要盯着“学校”这一个评价体系。</tspan>
+    <tspan x="140" dy="45">做饭、画画、甚至照顾宠物...</tspan>
+    <tspan x="140" dy="45" font-weight="bold">哪怕微小的成就感，都能重建自信。</tspan>
+  </text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 5 / 6</text>
+</svg>

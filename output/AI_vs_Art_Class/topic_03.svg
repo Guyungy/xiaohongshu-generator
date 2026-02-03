@@ -1,0 +1,41 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F5F5F7"/>
+  
+  <text x="60" y="150" font-family="Noto Sans SC, sans-serif" font-size="80" font-weight="bold" fill="black">触感与温度</text>
+  <rect x="60" y="180" width="400" height="20" fill="#CCFF00"/>
+  
+  <!-- Image placeholder styling -->
+  <rect x="60" y="300" width="960" height="500" fill="#DDD" stroke="black" stroke-width="2"/>
+  <text x="540" y="550" font-family="Noto Sans SC, sans-serif" font-size="40" fill="#666" text-anchor="middle">[茶染课具体细节图]</text>
+
+  <!-- Key points with High Density Description -->
+  <rect x="60" y="850" width="960" height="500" fill="black"/>
+  
+  <!-- Point 1 -->
+  <text x="120" y="930" font-family="Noto Sans SC, sans-serif" font-size="40" fill="#CCFF00" font-weight="bold">✋ 真实的触碰 (Tactile)</text>
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#DDD">
+    <tspan x="120" dy="0">粗粝的麻布划过指尖的阻力，温热茶汤包裹双手</tspan>
+    <tspan x="120" dy="40">的触感。这些物理反馈 directly 刺激大脑皮层，</tspan>
+    <tspan x="120" dy="40">构建起比视觉更深刻的记忆。</tspan>
+  </text>
+  
+  <line x1="120" y1="1050" x2="960" y2="1050" stroke="#333" stroke-width="2"/>
+
+  <!-- Point 2 -->
+  <text x="120" y="1120" font-family="Noto Sans SC, sans-serif" font-size="40" fill="#CCFF00" font-weight="bold">👃 嗅觉的记忆 (Olfactory)</text>
+  <text x="120" y="1170" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#DDD">
+    <tspan x="120" dy="0">空气中弥漫着普洱茶发酵后的温润香气。</tspan>
+    <tspan x="120" dy="40">这种沉浸式的氛围是任何 4K 屏幕无法传达的。</tspan>
+    <tspan x="120" dy="40">它让创作变成了一场全感官的仪式。</tspan>
+  </text>
+  
+  <line x1="120" y1="1240" x2="960" y2="1240" stroke="#333" stroke-width="2"/>
+
+  <!-- Point 3 -->
+  <text x="120" y="1310" font-family="Noto Sans SC, sans-serif" font-size="40" fill="#CCFF00" font-weight="bold">💧 完美的瑕疵 (Imperfection)</text>
+  <text x="120" y="1360" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#DDD">
+    <tspan x="120" dy="0">AI追求“准确”，而艺术拥抱“意外”。</tspan>
+    <tspan x="120" dy="40">那一滴不小心溅开的茶渍，往往成为画面的灵魂。</tspan>
+  </text>
+
+</svg>

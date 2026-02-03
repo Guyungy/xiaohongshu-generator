@@ -1,0 +1,35 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E5E5E5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1440" fill="white"/>
+  <rect width="1080" height="1440" fill="url(#grid)"/>
+  
+  <!-- Header Bar -->
+  <rect x="60" y="60" width="960" height="120" fill="black"/>
+  <text x="540" y="145" font-family="Noto Sans SC, sans-serif" font-size="60" font-weight="bold" fill="#CCFF00" text-anchor="middle">ARTIST IN RESIDENCE</text>
+  
+  <!-- Main Title Block -->
+  <rect x="60" y="240" width="960" height="400" fill="#CCFF00"/>
+  <text x="120" y="400" font-family="Noto Sans SC, sans-serif" font-size="160" font-weight="900" fill="black">艺术灵感</text>
+  <text x="120" y="550" font-family="Noto Sans SC, sans-serif" font-size="120" font-weight="bold" fill="black">绽放校园</text>
+  
+  <!-- Subtitle -->
+  <text x="120" y="720" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="normal" fill="black">Art Inspiration Blooming Campus</text>
+  <line x1="120" y1="760" x2="960" y2="760" stroke="black" stroke-width="4"/>
+  
+  <!-- Geometric Decoration matching Ref 1.svg -->
+  <path d="M700 850 L960 850 L960 1110 L700 1110 Z" fill="black"/>
+  <circle cx="830" cy="980" r="100" fill="#CCFF00"/>
+  
+  <!-- Highlights -->
+  <text x="120" y="900" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="black">● 沉浸式艺术创作</text>
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="black">● 大师零距离互动</text>
+  <text x="120" y="1060" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="black">● 激发无限创意</text>
+  
+  <!-- School Tag -->
+  <rect x="60" y="1240" width="960" height="140" fill="black"/>
+  <text x="540" y="1325" font-family="Noto Sans SC, sans-serif" font-size="40" fill="white" text-anchor="middle">📍 上海耀华古北校区 YWIES Shanghai Gubei</text>
+</svg>

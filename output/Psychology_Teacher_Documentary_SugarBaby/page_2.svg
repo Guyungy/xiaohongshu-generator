@@ -1,0 +1,42 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  <rect x="60" y="80" width="960" height="1280" rx="40" fill="#FFFFFF"/>
+  
+  <!-- Top Label -->
+  <text x="540" y="160" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">📽️ 关于纪录片</text>
+
+  <!-- Title -->
+  <text x="540" y="260" font-family="Noto Sans SC" font-weight="900" font-size="60" fill="#333333" text-anchor="middle">谁是“砂糖宝贝”？</text>
+
+  <!-- Content Block 1 -->
+  <rect x="100" y="340" width="880" height="280" rx="20" fill="#Fdf6ec"/>
+  <text x="140" y="420" font-family="Noto Sans SC" font-size="30" fill="#333333">
+    <tspan x="140" dy="0" font-weight="bold">Origin (起源)：</tspan>
+    <tspan x="140" dy="50">纪录片《我家的孩子不想上学》中提到的概念。</tspan>
+    <tspan x="140" dy="50">并不是指被溺爱的孩子 (Sugar Baby)，</tspan>
+    <tspan x="140" dy="50">而是指他们的心像砂糖一样：</tspan>
+    <tspan x="140" dy="50" fill="#B85C38" font-weight="bold">“看起来甜美，但一碰就碎。”</tspan>
+  </text>
+
+  <!-- Divider -->
+  <line x1="200" y1="680" x2="880" y2="680" stroke="#E6D5C3" stroke-width="2"/>
+
+  <!-- Content Block 2 -->
+  <text x="140" y="760" font-family="Noto Sans SC" font-size="30" fill="#333333">
+    <tspan x="140" dy="0" font-weight="bold">The Conflict (冲突)：</tspan>
+    <tspan x="140" dy="60">片中最刺痛我的一幕：</tspan>
+    <tspan x="140" dy="50">焦急的母亲对着把自己蒙在被子里的孩子大吼：</tspan>
+  </text>
+  
+  <!-- Quote Block -->
+  <rect x="140" y="900" width="800" height="200" rx="10" fill="#F0F0F0"/>
+  <text x="540" y="980" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#555555" text-anchor="middle">“你就是想偷懒吧！”</text>
+  <text x="540" y="1040" font-family="Noto Sans SC" font-weight="bold" font-size="36" fill="#555555" text-anchor="middle">“你就是不想面对困难！”</text>
+
+  <text x="540" y="1180" font-family="Noto Sans SC" font-size="30" fill="#333333" text-anchor="middle">孩子没有反驳，只是在黑暗中默默流泪。</text>
+  <text x="540" y="1240" font-family="Noto Sans SC" font-size="30" fill="#B85C38" text-anchor="middle" font-weight="bold">这一刻，心门彻底关上了。</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 2 / 6</text>
+</svg>

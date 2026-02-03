@@ -1,0 +1,55 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F7F9F9"/>
+  <!-- Header -->
+  <rect x="60" y="60" width="8" height="70" fill="#F4245E"/>
+  <text x="90" y="110" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="56">春节里的 7 天奇迹</text>
+
+  <!-- Description Text -->
+  <text x="60" y="190" fill="#536471" font-family="sans-serif" font-size="32">
+    <tspan x="60" dy="0">在这个春节，我做了一个决定：拒绝一切饭局，躲进空房间。</tspan>
+    <tspan x="60" dy="55">我想验证一个假设：<tspan fill="#0F1419" font-weight="bold">在 AI 的加持下，一个人到底能有多大的</tspan></tspan>
+    <tspan x="60" dy="55"><tspan fill="#0F1419" font-weight="bold">战斗力？</tspan></tspan>
+  </text>
+
+  <!-- Project 1 -->
+  <g transform="translate(60, 380)">
+    <rect x="0" y="0" width="960" height="200" rx="16" fill="white" stroke="#E1E8ED" stroke-width="2"/>
+    <text x="40" y="55" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="36">📅 全自动牛马日历</text>
+    <text x="40" y="100" fill="#0F1419" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0" fill="#536471">痛点：</tspan><tspan>每年的调休安排都让人头大。</tspan>
+      <tspan x="40" dy="45" fill="#536471">解决：</tspan><tspan>用 Cursor 抓取放假安排并生成日历订阅。</tspan>
+      <tspan x="40" dy="45" fill="#F4245E" font-weight="bold">耗时：30分钟。</tspan>
+    </text>
+  </g>
+
+  <!-- Project 2 -->
+  <g transform="translate(60, 610)">
+    <rect x="0" y="0" width="960" height="200" rx="16" fill="white" stroke="#E1E8ED" stroke-width="2"/>
+    <text x="40" y="55" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="36">🎥 智能视频筛选器</text>
+    <text x="40" y="100" fill="#0F1419" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0" fill="#536471">痛点：</tspan><tspan>信息过载，好视频太难找。</tspan>
+      <tspan x="40" dy="45" fill="#536471">解决：</tspan><tspan>结合 Youtube API + LLM 自动提取干货。</tspan>
+      <tspan x="40" dy="45" fill="#F4245E" font-weight="bold">效率：提升 10 倍。</tspan>
+    </text>
+  </g>
+
+  <!-- Project 3 -->
+  <g transform="translate(60, 840)">
+    <rect x="0" y="0" width="960" height="220" rx="16" fill="white" stroke="#E1E8ED" stroke-width="2"/>
+    <text x="40" y="55" fill="#1D9BF0" font-family="sans-serif" font-weight="bold" font-size="36">🧩 九宫格 AI 换脸</text>
+    <text x="40" y="100" fill="#0F1419" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0" fill="#536471">实践：</tspan><tspan>搭建 ComfyUI 工作流，将《一人之下》诸葛青换脸成</tspan>
+      <tspan x="40" dy="45">视频主角，探索娱乐边界。</tspan>
+      <tspan x="40" dy="45" fill="#F4245E" font-weight="bold">结果：抖音 80w+ 播放。</tspan>
+    </text>
+  </g>
+
+  <!-- Key Takeaway -->
+  <rect x="60" y="1120" width="960" height="180" rx="16" fill="#0F1419"/>
+  <text x="540" y="1190" fill="white" font-family="sans-serif" font-weight="bold" font-size="48" text-anchor="middle">"时代变了"</text>
+  <text x="540" y="1250" fill="#CFD9DE" font-family="sans-serif" font-size="32" text-anchor="middle">以前需要一个团队做的事，现在一个人就能闭环。</text>
+
+  <!-- Page Number -->
+  <circle cx="540" cy="1380" r="24" fill="#CFD9DE"/>
+  <text x="540" y="1390" fill="white" font-family="sans-serif" font-size="20" text-anchor="middle">2</text>
+</svg>

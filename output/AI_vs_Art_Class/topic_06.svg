@@ -1,0 +1,51 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E5E5E5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1440" fill="white"/>
+  <rect width="1080" height="1440" fill="url(#grid)"/>
+
+  <!-- School Branding Header -->
+  <rect x="0" y="0" width="1080" height="300" fill="black"/>
+  <text x="540" y="120" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="4">SHANGHAI</text>
+  <text x="540" y="200" font-family="Noto Sans SC, sans-serif" font-size="70" font-weight="900" fill="#CCFF00" text-anchor="middle">YEW WAH LINGANG</text>
+  <text x="540" y="260" font-family="Noto Sans SC, sans-serif" font-size="30" fill="white" text-anchor="middle" letter-spacing="2">上海耀华临港校区</text>
+
+  <!-- Information Block -->
+  <rect x="60" y="350" width="960" height="850" fill="white" stroke="black" stroke-width="6"/>
+  
+  <!-- Section 1 -->
+  <rect x="100" y="400" width="880" height="200" fill="#F8F8F8"/>
+  <text x="140" y="460" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="900" fill="black">🎨 艺术与设计 Art &amp; Design</text>
+  <text x="140" y="520" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#555">
+    <tspan x="140" dy="0">提供纯艺术、时尚设计、视觉传达等多元课程。</tspan>
+    <tspan x="140" dy="45">在临港广阔的自然与艺术空间中自由创作。</tspan>
+  </text>
+
+  <!-- Section 2 -->
+  <rect x="100" y="620" width="880" height="200" fill="#F8F8F8"/>
+  <text x="140" y="680" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="900" fill="black">👩‍🎨 驻校艺术家 Artist in Residence</text>
+  <text x="140" y="740" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#555">
+    <tspan x="140" dy="0">连接国际艺术资源，把真实的工作室搬进校园。</tspan>
+    <tspan x="140" dy="45">让学生在真实的艺术生态中成长。</tspan>
+  </text>
+
+  <!-- Section 3 -->
+  <rect x="100" y="840" width="880" height="200" fill="#F8F8F8"/>
+  <text x="140" y="900" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="900" fill="black">🌏 升学成果 University Offers</text>
+  <text x="140" y="960" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#555">
+    <tspan x="140" dy="0">毕业生持续获得Parsons, RISD, UAL, CSM等</tspan>
+    <tspan x="140" dy="45">全球顶尖艺术设计院校录取。</tspan>
+  </text>
+
+  <!-- CTA Box -->
+  <rect x="100" y="1080" width="880" height="100" fill="#CCFF00"/>
+  <text x="540" y="1145" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="black" text-anchor="middle">立即预约访校 · 感受临港艺术氛围</text>
+
+  <!-- Footer Info -->
+  <rect x="0" y="1280" width="1080" height="160" fill="black"/>
+  <!-- <text x="540" y="1350" font-family="Noto Sans SC, sans-serif" font-size="36" fill="white" text-anchor="middle">📞 021-xxxx xxxx</text> -->
+  <text x="540" y="1370" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#CCFF00" text-anchor="middle">上海浦东新区临港新片区</text>
+</svg>

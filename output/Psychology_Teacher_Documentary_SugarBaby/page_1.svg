@@ -1,0 +1,45 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Warm Parchment -->
+  <rect width="1080" height="1440" fill="#FFFBF5"/>
+  
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="60" y="160" width="960" height="1120" rx="40" fill="#FFFFFF" filter="url(#shadow)"/>
+  
+  <!-- Header Tag -->
+  <rect x="60" y="80" width="320" height="60" rx="30" fill="#E6D5C3"/>
+  <text x="220" y="120" font-family="Noto Sans SC" font-weight="bold" font-size="28" fill="#B85C38" text-anchor="middle">🎬 心理老师观影</text>
+
+  <!-- Title Section -->
+  <text x="540" y="320" font-family="Noto Sans SC" font-weight="900" font-size="90" fill="#333333" text-anchor="middle">不仅是</text>
+  <text x="540" y="440" font-family="Noto Sans SC" font-weight="900" font-size="90" fill="#B85C38" text-anchor="middle">“不想上学”</text>
+  
+  <!-- Subtitle -->
+  <text x="540" y="560" font-family="Noto Sans SC" font-size="36" fill="#666666" text-anchor="middle">纪录片《砂糖宝贝》深度解读</text>
+  <rect x="340" y="600" width="400" height="4" fill="#B85C38" rx="2"/>
+
+  <!-- High Density Text Block: Preface -->
+  <rect x="120" y="700" width="840" height="460" rx="20" fill="#FFFBF5"/>
+  <text x="540" y="780" font-family="Noto Sans SC" font-weight="bold" font-size="32" fill="#B85C38" text-anchor="middle">为什么孩子会突然“死机”？</text>
+  
+  <text x="160" y="860" font-family="Noto Sans SC" font-size="30" fill="#444444" width="760">
+    <tspan x="160" dy="0">你是否见过这样的场景：</tspan>
+    <tspan x="160" dy="50">昨天还背着书包上学的孩子，</tspan>
+    <tspan x="160" dy="50">今天却把自己锁在房间，说什么也不肯出门。</tspan>
+    <tspan x="160" dy="50">这不是叛逆，也不是懒惰。</tspan>
+    <tspan x="160" dy="50">这是一场无声的求救。</tspan>
+    <tspan x="160" dy="70">作为心理老师，我想带你读懂</tspan>
+    <tspan x="160" dy="50" font-weight="bold" fill="#B85C38">那一扇紧闭房门背后的真相。</tspan>
+  </text>
+  
+  <!-- Footer Text Block -->
+  <text x="540" y="1240" font-family="Noto Sans SC" font-size="32" fill="#333333" text-anchor="middle" font-weight="bold">揭开“厌学”的面纱</text>
+
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC" font-size="24" fill="#999999" text-anchor="middle">@砂糖宝贝 · 1 / 6</text>
+</svg>

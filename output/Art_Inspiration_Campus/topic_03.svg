@@ -1,0 +1,35 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="white"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1080" height="200" fill="#CCFF00"/>
+  <text x="60" y="130" font-family="Noto Sans SC, sans-serif" font-size="100" font-weight="900" fill="black">02</text>
+  <text x="220" y="120" font-family="Noto Sans SC, sans-serif" font-size="60" font-weight="bold" fill="black">灵感迸发时刻</text>
+  
+  <!-- Grid Layout -->
+  <rect x="60" y="260" width="450" height="450" fill="black"/>
+  <text x="285" y="485" font-family="Noto Sans SC, sans-serif" font-size="100" fill="#CCFF00" text-anchor="middle">💡</text>
+  
+  <rect x="540" y="260" width="480" height="450" fill="#F0F0F0" stroke="black" stroke-width="2"/>
+  <text x="580" y="350" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="black">跨学科融合</text>
+  <text x="580" y="420" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#333" width="400">
+    <tspan x="580" dy="0">不仅仅是美术课。</tspan>
+    <tspan x="580" dy="50">科学、文学、历史...</tspan>
+    <tspan x="580" dy="50">艺术思维贯穿全学科，</tspan>
+    <tspan x="580" dy="50">培养全方位的创造力。</tspan>
+  </text>
+  
+  <rect x="60" y="740" width="960" height="120" fill="black"/>
+  <text x="540" y="815" font-family="Noto Sans SC, sans-serif" font-size="40" fill="white" text-anchor="middle" font-weight="bold">STUDENT SHOWCASE</text>
+  
+  <rect x="60" y="890" width="300" height="400" fill="#CCFF00" stroke="black" stroke-width="2"/>
+  <rect x="390" y="890" width="300" height="400" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="720" y="890" width="300" height="400" fill="black" stroke="black" stroke-width="2"/>
+  
+  <text x="210" y="1100" font-family="Noto Sans SC, sans-serif" font-size="30" fill="black" text-anchor="middle">装置艺术</text>
+  <text x="540" y="1100" font-family="Noto Sans SC, sans-serif" font-size="30" fill="black" text-anchor="middle">绘画作品</text>
+  <text x="870" y="1100" font-family="Noto Sans SC, sans-serif" font-size="30" fill="white" text-anchor="middle">多媒体</text>
+  
+  <!-- Footer -->
+  <text x="540" y="1380" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#666" text-anchor="middle">在这里，每一个创意都被珍视</text>
+</svg>

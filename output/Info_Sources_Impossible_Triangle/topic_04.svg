@@ -1,0 +1,42 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="#FFFFFF"/>
+  <path d="M0 240 L1080 240" stroke="#0F1419" stroke-width="4"/>
+  
+  <!-- Series Header -->
+  <text x="60" y="100" fill="#64748B" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">P04 // ACTION PLAN</text>
+  <text x="60" y="180" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="900" font-size="72">停止轮询，开始计算</text>
+  
+  <!-- Main Visual Idea: Stop -> Start -->
+  
+  <!-- Step 1 -->
+  <text x="60" y="320" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">STEP 01</text>
+  <text x="60" y="380" fill="#EF4444" font-family="PingFang SC, sans-serif" font-weight="900" font-size="64">Stop Polling.</text>
+  <text x="60" y="440" fill="#334155" font-family="PingFang SC, sans-serif" font-size="36">不要被动等待投喂。</text>
+  <line x1="60" y1="480" x2="1020" y2="480" stroke="#E2E8F0" stroke-width="2"/>
+
+  <!-- Step 2 -->
+  <text x="60" y="560" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">STEP 02</text>
+  <text x="60" y="620" fill="#1D9BF0" font-family="PingFang SC, sans-serif" font-weight="900" font-size="64">Start Filtering.</text>
+  <text x="60" y="680" fill="#334155" font-family="PingFang SC, sans-serif" font-size="36">对于低密度信源，坚决降权/取关。</text>
+  <line x1="60" y1="720" x2="1020" y2="720" stroke="#E2E8F0" stroke-width="2"/>
+
+  <!-- Step 3 -->
+  <text x="60" y="800" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">STEP 03</text>
+  <text x="60" y="860" fill="#10B981" font-family="PingFang SC, sans-serif" font-weight="900" font-size="64">Trace The Source.</text>
+  <text x="60" y="920" fill="#334155" font-family="PingFang SC, sans-serif" font-size="36">
+    <tspan x="60" dy="0">找到那个“源头”。</tspan>
+    <tspan x="60" dy="50">高质量的信息，往往都在舒适圈之外。</tspan>
+  </text>
+
+  <!-- Final Quote Box -->
+  <rect x="60" y="1080" width="960" height="240" rx="32" fill="#0F1419"/>
+  <text x="540" y="1180" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="40" text-anchor="middle">"保护好你的输入接口。"</text>
+  <text x="540" y="1250" fill="#1D9BF0" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="48" text-anchor="middle">你的关注列表 = 你的认知带宽</text>
+
+  <!-- Signature -->
+  <text x="900" y="1360" fill="#0F1419" font-family="PingFang SC, sans-serif" font-weight="bold" font-size="32">MR.WONG</text>
+
+  <!-- Pagination -->
+  <text x="960" y="1380" fill="#94A3B8" font-family="Menlo, monospace" font-size="24">04/04</text>
+</svg>

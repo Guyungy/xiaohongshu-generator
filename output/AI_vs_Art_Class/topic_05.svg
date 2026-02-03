@@ -1,0 +1,46 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F5F5F7"/>
+  
+  <text x="60" y="120" font-family="Noto Sans SC, sans-serif" font-size="80" font-weight="900" fill="black">WORKSHOP</text>
+  <text x="60" y="180" font-family="Noto Sans SC, sans-serif" font-size="40" font-weight="bold" fill="#666">茶染工作坊现场</text>
+
+  <!-- Case Study 1 -->
+  <rect x="60" y="250" width="450" height="500" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="80" y="270" width="410" height="250" fill="#DDD"/>
+  <text x="285" y="400" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#999" text-anchor="middle">Process Photo</text>
+  
+  <text x="80" y="560" font-family="Noto Sans SC, sans-serif" font-size="36" font-weight="bold" fill="black">意外的肌理</text>
+  <text x="80" y="610" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#333">
+    <tspan x="80" dy="0">揉皱的宣纸吸满茶汤。</tspan>
+    <tspan x="80" dy="40">每一条折痕都是</tspan>
+    <tspan x="80" dy="40">一次无法预设的相遇。</tspan>
+    <tspan x="80" dy="40">"这是AI算不出的随机。"</tspan>
+  </text>
+
+  <!-- Case Study 2 -->
+  <rect x="570" y="250" width="450" height="500" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="590" y="270" width="410" height="250" fill="#333"/>
+  <text x="795" y="400" font-family="Noto Sans SC, sans-serif" font-size="30" fill="#666" text-anchor="middle">Outcome Photo</text>
+  
+  <text x="590" y="560" font-family="Noto Sans SC, sans-serif" font-size="36" font-weight="bold" fill="#CCFF00">时间的颜色</text>
+  <text x="590" y="610" font-family="Noto Sans SC, sans-serif" font-size="28" fill="#EEE">
+    <tspan x="590" dy="0">三遍浸染，两小时晾晒。</tspan>
+    <tspan x="590" dy="40">学生们在这个过程中</tspan>
+    <tspan x="590" dy="40">学会了等待。</tspan>
+    <tspan x="590" dy="40">时间，也是一种画笔。</tspan>
+  </text>
+
+  <!-- Bottom Section: Reflection -->
+  <rect x="60" y="800" width="960" height="500" fill="#CCFF00"/>
+  <text x="120" y="880" font-family="Noto Sans SC, sans-serif" font-size="50" font-weight="900" fill="black">ARTIST NOTE</text>
+  <line x1="120" y1="910" x2="900" y2="910" stroke="black" stroke-width="4"/>
+  
+  <text x="120" y="980" font-family="Noto Sans SC, sans-serif" font-size="34" fill="black" font-weight="bold">
+    <tspan x="120" dy="0">"在这个屏幕霸占注意力的时代"</tspan>
+    <tspan x="120" dy="50">"能够沉下心来，与物质世界对话"</tspan>
+    <tspan x="120" dy="50">"本身就是一种奢侈的教育。"</tspan>
+  </text>
+  
+  <text x="800" y="1250" font-family="Noto Sans SC, sans-serif" font-size="30" fill="black" text-anchor="end">—— 驻校艺术家</text>
+
+</svg>

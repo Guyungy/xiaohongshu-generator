@@ -1,0 +1,54 @@
+<svg width="1080" height="1440" viewBox="0 0 1080 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#F7F9F9"/>
+  <!-- Header -->
+  <rect x="60" y="60" width="8" height="70" fill="#F4245E"/>
+  <text x="90" y="110" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="56">2025 AI 产品终局推演</text>
+
+  <!-- Tier 1 -->
+  <g transform="translate(60, 180)">
+    <rect x="0" y="0" width="960" height="260" rx="16" fill="#1D9BF0"/>
+    <text x="40" y="50" fill="white" font-family="sans-serif" font-weight="bold" font-size="40">👑 第一梯队：系统级入口</text>
+    <text x="40" y="90" fill="white" font-family="sans-serif" font-weight="bold" font-size="30" fill-opacity="0.9">代表：豆包 / 手机厂原生相机</text>
+    <text x="40" y="140" fill="white" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0">用户最懒。能用系统自带的，绝不会多下一个 App。</tspan>
+      <tspan x="40" dy="45">手机厂商的“原生智能”将收割最大的流量红利。</tspan>
+      <tspan x="40" dy="45">这是降维打击。</tspan>
+    </text>
+  </g>
+
+  <!-- Tier 2 -->
+  <g transform="translate(60, 470)">
+    <rect x="0" y="0" width="960" height="260" rx="16" fill="white" stroke="#1D9BF0" stroke-width="3"/>
+    <text x="40" y="50" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="40">⚔️ 第二梯队：内容平台</text>
+    <text x="40" y="90" fill="#536471" font-family="sans-serif" font-weight="bold" font-size="30">代表：抖音 / 快手</text>
+    <text x="40" y="140" fill="#536471" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0">家底最厚，技术最强，但处境尴尬。用户打开抖音是为了</tspan>
+      <tspan x="40" dy="45">“刷”视频，不是为了“做”图。</tspan>
+      <tspan x="40" dy="45">工具属性与娱乐属性天然互斥。</tspan>
+    </text>
+  </g>
+
+  <!-- Tier 3 -->
+  <g transform="translate(60, 760)">
+    <rect x="0" y="0" width="960" height="260" rx="16" fill="#CFD9DE"/>
+    <text x="40" y="50" fill="#0F1419" font-family="sans-serif" font-weight="bold" font-size="40">🛡️ 第三梯队：垂直工具</text>
+    <text x="40" y="90" fill="#536471" font-family="sans-serif" font-weight="bold" font-size="30">代表：醒图 / 此类 AI 插件</text>
+    <text x="40" y="140" fill="#536471" font-family="sans-serif" font-size="28">
+      <tspan x="40" dy="0">最危险的区域。垂直功能（如消除、扩图、换脸）</tspan>
+      <tspan x="40" dy="45">太容易被通用大模型集成为一个“功能点”。</tspan>
+      <tspan x="40" dy="45">要么极致专业，要么消亡。</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Insight -->
+  <rect x="60" y="1060" width="960" height="220" rx="16" fill="white" stroke="#F4245E" stroke-width="3"/>
+  <text x="80" y="1120" fill="#F4245E" font-family="sans-serif" font-weight="bold" font-size="36">💡 创业者的机会在哪里？</text>
+  <text x="80" y="1170" fill="#0F1419" font-family="sans-serif" font-size="30">
+    <tspan x="80" dy="0">不要做“中间件”，要做“最终应用”。不要试图和巨头比拼</tspan>
+    <tspan x="80" dy="45">模型能力，要比拼对微小场景的理解和服务颗粒度。</tspan>
+  </text>
+
+  <!-- Page Number -->
+  <circle cx="540" cy="1380" r="24" fill="#CFD9DE"/>
+  <text x="540" y="1390" fill="white" font-family="sans-serif" font-size="20" text-anchor="middle">4</text>
+</svg>
