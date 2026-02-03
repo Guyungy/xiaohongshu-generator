@@ -125,7 +125,7 @@ https://react.dev/blog/performance-tips
 
 详见 `references/人设库.md`
 
-### 特殊人设：Mr Wong (温情码农)
+### 人设：Mr Wong (温情码农)
 
 - **触发词**：Mr Wong, 码农风格, SVG
 
@@ -137,7 +137,7 @@ https://react.dev/blog/performance-tips
 
 风格定义：详见 `personas/Mr Wong是码农/persona.md`
 
-### 特殊人设：张姐说国际教育 (教育观察者)
+### 人设：张姐说国际教育 (教育观察者)
 
 - **关键词**：张姐, 张姐说教育, 深度观察, 国际教育, 广州耀华
 
