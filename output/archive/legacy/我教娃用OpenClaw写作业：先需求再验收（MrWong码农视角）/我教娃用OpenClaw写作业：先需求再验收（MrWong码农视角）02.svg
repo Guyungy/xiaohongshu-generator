@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">“先写需求”到底写什么？</text>
+  <text x="110" y="210" class="m">// 让孩子不再盯着作业发呆</text>
+  <text x="1010" y="210" class="m">02 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="420" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">需求=老师的要求 + 交付标准</text>
+  <text x="110" y="440" class="p">1）题目/任务：要写/要做什么？</text>
+  <text x="110" y="505" class="p">2）字数/格式：要几段？要不要标题？</text>
+  <text x="110" y="570" class="p">3）必须包含：要点/例子/关键词（老师给的）</text>
+  <text x="110" y="635" class="p">4）截止时间：今天交？明天早上？</text>
+
+  <rect x="70" y="760" width="520" height="520" rx="28" class="card"/>
+  <rect x="610" y="760" width="520" height="520" rx="28" class="b"/>
+
+  <text x="110" y="830" class="h2">孩子常见卡点</text>
+  <text x="110" y="900" class="p">“我不知道怎么开始…”</text>
+  <text x="110" y="970" class="p">“写两句就跑题…”</text>
+  <text x="110" y="1040" class="p">“写到一半忘了要求…”</text>
+
+  <text x="650" y="830" class="h2">家长只做 1 件事</text>
+  <text x="650" y="900" class="p">把需求写成 4 行，</text>
+  <text x="650" y="970" class="p">再让 OpenClaw 按需求</text>
+  <text x="650" y="1040" class="p">给“步骤清单+模板”</text>
+  <text x="650" y="1120" class="m">不追求一口气写完，先把路铺出来</text>
+</svg>

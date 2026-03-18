@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .a { fill:#E0F2FE; }
+      .b { fill:#ECFDF5; }
+      .c { fill:#EEF2FF; }
+      .d { fill:#FFF7ED; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:66px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:30px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.18"/>
+  <text x="205" y="148" class="h2">Mr Wong是码农</text>
+  <text x="205" y="188" class="m">// 先讲人话，再用代码  ·  2026-03-17</text>
+  <text x="1010" y="188" class="m">01 / 06</text>
+
+  <text x="90" y="340" class="h1">我教娃用 OpenClaw 写作业：</text>
+  <text x="90" y="410" class="h1">先需求，再验收</text>
+  <text x="90" y="470" class="m">给家长的“少吼两句”方法：把作业变成一套流程</text>
+
+  <rect x="70" y="540" width="520" height="300" rx="28" class="a"/>
+  <rect x="610" y="540" width="520" height="300" rx="28" class="b"/>
+  <rect x="70" y="860" width="520" height="300" rx="28" class="c"/>
+  <rect x="610" y="860" width="520" height="300" rx="28" class="d"/>
+
+  <text x="110" y="600" class="mono">① 先写需求（2分钟）</text>
+  <text x="110" y="665" class="p">目标 / 字数 / 格式 / 截止</text>
+  <text x="110" y="725" class="m">先搞清楚“要交付什么”</text>
+
+  <text x="650" y="600" class="mono">② 再拆任务（5-7步）</text>
+  <text x="650" y="665" class="p">提纲→例子→开头→主体→结尾</text>
+  <text x="650" y="725" class="m">每一步都能打勾</text>
+
+  <text x="110" y="920" class="mono">③ 最后验收（3问）</text>
+  <text x="110" y="985" class="p">有没有跑题？有没有漏点？</text>
+  <text x="110" y="1045" class="p">有没有把隐私写进去？</text>
+
+  <text x="650" y="920" class="mono">爸爸的软植入</text>
+  <text x="650" y="985" class="p">这种“方法先于答案”的训练</text>
+  <text x="650" y="1045" class="p">在桐乡耀华的 STEM 很常见</text>
+
+  <rect class="card" x="70" y="1220" width="1060" height="230" rx="28"/>
+  <text x="110" y="1310" class="h2">一句话总结</text>
+  <text x="110" y="1385" class="p">孩子不是不会写，很多时候是“不知道从哪一步开始”。</text>
+</svg>

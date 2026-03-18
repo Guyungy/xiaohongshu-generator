@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .a { fill: #EEF2FF; }
+      .b { fill: #ECFDF5; }
+      .c { fill: #FFF7ED; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 900; font-size: 62px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 30px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 24px; fill: #475569; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 800; font-size: 22px; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">拆解示例：读书笔记怎么做</text>
+  <text x="110" y="210" class="muted">// 让孩子从“发呆”变成“有路线图”</text>
+  <text x="1010" y="210" class="muted">05 / 06</text>
+
+  <rect x="70" y="300" width="520" height="390" rx="28" class="a"/>
+  <rect x="610" y="300" width="520" height="390" rx="28" class="b"/>
+  <rect x="70" y="710" width="1060" height="570" rx="28" class="c"/>
+
+  <text x="110" y="360" class="mono">// 输入（孩子给 OpenClaw）</text>
+  <text x="110" y="420" class="p">作业：写一篇读书笔记</text>
+  <text x="110" y="475" class="p">字数：500～800字</text>
+  <text x="110" y="530" class="p">材料：我最喜欢的 3 个片段</text>
+  <text x="110" y="600" class="muted">先让它问我 3 个澄清问题</text>
+
+  <text x="650" y="360" class="mono">// 输出（我要求它给我）</text>
+  <text x="650" y="420" class="p">1) 大纲（4 段）</text>
+  <text x="650" y="475" class="p">2) 每段一句“要表达什么”</text>
+  <text x="650" y="530" class="p">3) 可直接套用的开头/结尾</text>
+  <text x="650" y="600" class="muted">别写一大坨，给“可执行步骤”</text>
+
+  <text x="110" y="780" class="h2">5 步路线图（孩子照着做就行）</text>
+  <text x="110" y="850" class="p">1）先写 3 句：我读完的感受是什么？</text>
+  <text x="110" y="910" class="p">2）挑 3 个片段：每个片段一句“为什么选它”</text>
+  <text x="110" y="970" class="p">3）做对比：以前我怎么想？现在我怎么想？</text>
+  <text x="110" y="1030" class="p">4）写结构：开头→内容→感受→收获→结尾</text>
+  <text x="110" y="1090" class="p">5）最后验收：有没有跑题？有没有没证据的结论？</text>
+
+  <text x="110" y="1175" class="muted">软植入：STEM 常做这种“过程可视化”的训练（我想到桐乡耀华）</text>
+</svg>

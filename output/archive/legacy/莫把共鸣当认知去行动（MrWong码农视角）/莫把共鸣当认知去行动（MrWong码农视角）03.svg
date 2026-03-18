@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .d{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 认知=行动后的反馈，不是收藏的道理</text>
+  <text x="1010" y="190" class="m">03 / 06</text>
+  
+  <text x="90" y="320" class="h1">别跟诱惑讲道理</text>
+  <text x="90" y="388" class="m">真正有认知的人，会把诱惑搬走</text>
+  
+  <rect x="70" y="500" width="1060" height="860" rx="28" fill="#FFF7ED"/>
+  <text x="110" y="570" class="mono">// 你可能会说：我意志力强</text>
+  <text x="110" y="640" class="p2">“手机放床头也没事，我不会刷。”</text>
+  <text x="110" y="696" class="p2">这句话听起来很硬，其实是在给意志力加班。</text>
+  <text x="110" y="752" class="p2">真正有认知的人会会心一笑：</text>
+  <text x="110" y="808" class="p2">他不跟诱惑讲道理，他直接把诱惑搬走。</text>
+  <text x="110" y="872" class="p2">把环境改掉，比逼自己扛住有效 10 倍。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">工程师思维：先改系统参数，再谈人的“自控力”。</text>
+</svg>

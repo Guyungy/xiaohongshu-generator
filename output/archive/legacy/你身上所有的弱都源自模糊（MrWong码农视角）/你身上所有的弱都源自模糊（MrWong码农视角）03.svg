@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <text x="110" y="150" class="h2">Mr Wong是码农</text>
+  <text x="110" y="190" class="m">// show, don't tell</text>
+  <text x="1010" y="190" class="m">03 / 06</text>
+
+  <text x="90" y="320" class="h1">《绿皮书》不是给结论</text>
+  <text x="90" y="385" class="m">它用一串画面，让你自己得出“边界消融”</text>
+
+  <rect x="70" y="450" width="1060" height="980" rx="28" class="a"/>
+  <text x="110" y="525" class="mono">// 触动我的，是这些具体画面</text>
+  <text x="110" y="595" class="p2">• Don Shirley 在黑人酒吧把肖邦弹进爵士</text>
+  <text x="110" y="645" class="p2">• Tony 一路分享炸鸡、音乐、路上的尴尬与和解</text>
+  <text x="110" y="695" class="p2">• 两人淋同一场雨，圣诞夜的拥抱与接纳</text>
+  <text x="110" y="760" class="p2">作者没有告诉我“你应该感动”。</text>
+  <text x="110" y="810" class="p2">我只是走进了故事，然后自己得出结论。</text>
+
+  <text x="110" y="900" class="mono">// 我把这套方法搬回家</text>
+  <text x="110" y="970" class="p2">我不再对孩子喊：要自律、要勇敢、要更好。</text>
+  <text x="110" y="1020" class="p2">我只负责把“今天要做什么”写成：清单 + 验收。</text>
+  <text x="110" y="1070" class="p2">清单做完，孩子会自己得出结论：我变强了。</text>
+
+  <text x="110" y="1160" class="tag">RULE: 别给孩子抽象鸡汤；给他能完成的一步。</text>
+</svg>

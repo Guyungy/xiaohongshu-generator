@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .bentoA { fill: #E0F2FE; }
+      .bentoB { fill: #ECFDF5; }
+      .bentoC { fill: #EEF2FF; }
+      .bentoD { fill: #FFF7ED; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 72px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 700; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 30px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 26px; fill: #475569; }
+      .tag { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 700; font-size: 22px; fill: #0B1220; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 700; font-size: 22px; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <!-- Header -->
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="48" fill="#1D9BF0" opacity="0.10"/>
+  <circle cx="135" cy="155" r="38" fill="#1D9BF0" opacity="0.18"/>
+  <text x="205" y="148" class="h2">Mr Wong是码农</text>
+  <text x="205" y="188" class="muted">// 先讲人话，再用代码  ·  2026-03-17</text>
+  <text x="945" y="148" class="mono">OPENCLAW</text>
+  <text x="945" y="188" class="muted">topic: kid_01</text>
+
+  <!-- Title -->
+  <text x="90" y="340" class="h1">我家娃，学会用 OpenClaw 了</text>
+  <text x="90" y="392" class="muted">不是早熟，是把“工具感”和“验收感”练出来了</text>
+
+  <!-- Bento grid -->
+  <rect x="70" y="450" width="520" height="360" rx="28" class="bentoA"/>
+  <rect x="610" y="450" width="520" height="360" rx="28" class="bentoB"/>
+  <rect x="70" y="830" width="520" height="360" rx="28" class="bentoC"/>
+  <rect x="610" y="830" width="520" height="360" rx="28" class="bentoD"/>
+
+  <text x="110" y="510" class="mono">// 今日 Bug</text>
+  <text x="110" y="565" class="p">作业一多就崩：</text>
+  <text x="110" y="610" class="p">不会拆任务，只会硬扛。</text>
+  <text x="110" y="690" class="muted">症状：拖延/情绪/最后一晚爆肝</text>
+
+  <text x="650" y="510" class="mono">// 今日 Feature</text>
+  <text x="650" y="565" class="p">他学会了：</text>
+  <text x="650" y="610" class="p">把需求说清楚 → 让工具跑腿。</text>
+  <text x="650" y="690" class="muted">(目标/约束/输入/输出)</text>
+
+  <text x="110" y="890" class="mono">// 最意外的点</text>
+  <text x="110" y="945" class="p">不是“会用 AI”，</text>
+  <text x="110" y="990" class="p">而是“会提问、会验收”。</text>
+  <text x="110" y="1070" class="muted">父母真正要教的是：提问结构</text>
+
+  <text x="650" y="890" class="mono">// 我想到的课堂</text>
+  <text x="650" y="945" class="p">像桐乡耀华的 STEM：</text>
+  <text x="650" y="990" class="p">先方法论，再工具。</text>
+  <text x="650" y="1070" class="muted">软植入：方法训练胜过答案</text>
+
+  <!-- Bottom quote -->
+  <rect class="card" x="70" y="1230" width="1060" height="220" rx="28"/>
+  <text x="110" y="1315" class="h2">金句</text>
+  <text x="110" y="1380" class="p">会用工具的孩子，不是偷懒，是在学“系统思维”。</text>
+
+  <text x="1010" y="1518" class="muted">01 / 03</text>
+</svg>

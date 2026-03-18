@@ -1,0 +1,47 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Closing page: dark background -->
+  <rect width="1200" height="1600" fill="#222222"/>
+  <defs>
+    <filter id="shadow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .sans{font-family:"Noto Sans CJK SC","Noto Sans CJK TC","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;}
+    </style>
+  </defs>
+
+  <!-- Top quote -->
+  <text x="120" y="170" class="sans" font-size="46" fill="#FFE14D" font-weight="900">“目送孩子成为自己，</text>
+  <text x="120" y="230" class="sans" font-size="46" fill="#FFE14D" font-weight="900">比塑造理想孩子更难，也更值得。”</text>
+  <line x1="120" y1="270" x2="1080" y2="270" stroke="#B45B3E" stroke-width="3"/>
+
+  <!-- Long copy block (4-6 lines, high density) -->
+  <text x="120" y="340" class="sans" font-size="34" fill="#EDEDED">
+    <tspan x="120" dy="0">当孩子顶嘴、拖延、把“我不想”挂在嘴边，</tspan>
+    <tspan x="120" dy="52">他可能不是在挑战你，而是在练习：如何表达、如何选择、如何承担后果。</tspan>
+    <tspan x="120" dy="52">我们能做的，不是把他按回“乖”的模具里，</tspan>
+    <tspan x="120" dy="52">而是在边界里接住情绪：允许哭、允许气，但不允许伤害。</tspan>
+    <tspan x="120" dy="52">每一次修复，都是在告诉他：关系不必因一次冲突就终止，</tspan>
+    <tspan x="120" dy="52" fill="#FFFFFF" font-weight="800">你值得被理解，也需要为行为负责。</tspan>
+  </text>
+
+  <!-- CTA Card -->
+  <rect x="120" y="1080" width="960" height="360" rx="28" fill="#FFFFFF" filter="url(#shadow3)"/>
+  <rect x="160" y="1120" width="240" height="60" rx="30" fill="#FFE14D"/>
+  <text x="280" y="1160" class="sans" font-size="28" fill="#333333" font-weight="900" text-anchor="middle">留言互动</text>
+
+  <text x="160" y="1230" class="sans" font-size="32" fill="#333333" font-weight="900">评论区回【模板】我把“3句话”排版发你</text>
+  <text x="160" y="1286" class="sans" font-size="30" fill="#444444">
+    <tspan x="160" dy="0">也欢迎分享你家最容易爆的点：</tspan>
+    <tspan x="160" dy="46">作业 / 手机 / 作息 / 情绪 —— 我整理成“修复话术合集”。</tspan>
+  </text>
+
+  <rect x="160" y="1360" width="880" height="1.5" fill="#E7E2DD"/>
+  <text x="160" y="1415" class="sans" font-size="26" fill="#666666">
+    <tspan x="160" dy="0">顺带送你一句我很喜欢的话：</tspan>
+    <tspan x="160" dy="36">“规则让家安全，修复让爱流动。”送给你。</tspan>
+  </text>
+
+  <!-- Footer -->
+  <text x="600" y="1545" class="sans" font-size="24" fill="#9A9A9A" text-anchor="middle">@砂糖宝贝 · Page 3 / 3</text>
+</svg>

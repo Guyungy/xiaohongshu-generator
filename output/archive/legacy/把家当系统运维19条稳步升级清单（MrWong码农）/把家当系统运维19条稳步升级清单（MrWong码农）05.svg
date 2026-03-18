@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#FFF7ED;}
+      .b{fill:#FEE2E2;}
+      .c{fill:#DCFCE7;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">P5｜关系与边界：情绪隔离</text>
+  <text x="110" y="210" class="m">// 家运很多时候输在“无边界+高内耗”</text>
+  <text x="1010" y="210" class="m">05 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="330" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">夫妻关系优先（系统核心）</text>
+  <text x="110" y="440" class="p">1）当着孩子面不拆台</text>
+  <text x="110" y="505" class="p">2）每周至少 2 小时两人独处（做“系统维护”）</text>
+  <text x="110" y="570" class="p">3）情绪先冷却再响应，避免误操作</text>
+
+  <rect x="70" y="670" width="520" height="560" rx="28" class="b"/>
+  <rect x="610" y="670" width="520" height="560" rx="28" class="c"/>
+
+  <text x="110" y="740" class="h2">边界规则</text>
+  <text x="110" y="815" class="p">- 老人不直接插手决策</text>
+  <text x="110" y="875" class="p">- 爱指手画脚：降低参与度</text>
+  <text x="110" y="935" class="p">- 借钱：额度以上要凭证</text>
+  <text x="110" y="1010" class="m">边界清晰=省电</text>
+
+  <text x="650" y="740" class="h2">风控黑名单</text>
+  <text x="650" y="815" class="p">- 情绪勒索型（负能量传染）</text>
+  <text x="650" y="875" class="p">- 突然热情型（多半有求）</text>
+  <text x="650" y="935" class="p">- 暴利项目型（高风险局）</text>
+  <text x="650" y="1010" class="m">原则：少解释、少纠缠、少消耗</text>
+
+  <rect class="card" x="70" y="1260" width="1060" height="210" rx="28"/>
+  <text x="110" y="1340" class="mono">一句话</text>
+  <text x="110" y="1405" class="p">关系要稳，先把“边界”写进规则。</text>
+</svg>

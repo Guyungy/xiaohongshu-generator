@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#EEF2FF;}
+      .b{fill:#ECFDF5;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:30px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <text x="110" y="150" class="h2">Mr Wong是码农</text>
+  <text x="110" y="190" class="m">// clarity is a feature, not a mood</text>
+  <text x="1010" y="190" class="m">02 / 06</text>
+
+  <text x="90" y="320" class="h1">抽象为什么让人变弱？</text>
+  <text x="90" y="385" class="m">把“漂在空中”的词，落到“能打勾”的动作</text>
+
+  <rect x="70" y="450" width="1060" height="520" rx="28" class="a"/>
+  <text x="110" y="525" class="mono">// 抽象词 = 没重量、没摩擦</text>
+  <text x="110" y="595" class="p2">“勇敢 / 自由 / 更好的自己”听起来像方向，实际上像雾。</text>
+  <text x="110" y="645" class="p2">你抓不住，也没法验证自己有没有前进。</text>
+  <text x="110" y="710" class="p2">于是它很容易变成自我安慰：我在准备，但我不用出发。</text>
+
+  <text x="110" y="800" class="mono">// 工程师翻译</text>
+  <text x="110" y="870" class="p2">抽象 → 场景（长什么样）→ 动作（怎么做）→ 约束（不能做啥）→ 验收（怎么判定完成）</text>
+
+  <rect x="70" y="1010" width="1060" height="420" rx="28" class="b"/>
+  <text x="110" y="1085" class="mono">// 亲子落点：孩子的崩溃往往来自“不确定”</text>
+  <text x="110" y="1155" class="p2">很多时候不是不会写，而是：第一步不清楚。</text>
+  <text x="110" y="1205" class="p2">大脑一模糊，就会自动选最舒服的路：拖延、分心、逃避。</text>
+  <text x="110" y="1265" class="tag">ACTION: 先把任务写成 4 行需求，再开始动笔。</text>
+</svg>

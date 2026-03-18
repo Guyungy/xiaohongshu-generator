@@ -1,0 +1,50 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg{fill:#222222}
+      .ink{fill:#F7F3F0}
+      .accent{fill:#FFE14D}
+      .muted{fill:#CFC7C2}
+      .card{fill:#2B2B2B}
+      .tTitle{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:900;}
+      .tH2{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:800;}
+      .tBody{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:500;}
+      .tMono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; font-weight:700;}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="1600" class="bg"/>
+
+  <!-- Header -->
+  <text x="90" y="110" class="tMono muted" font-size="26">Closing Page · 砂糖宝贝</text>
+  <rect x="90" y="135" width="1020" height="2" fill="#444"/>
+
+  <!-- Huge quotes -->
+  <text x="90" y="280" class="tTitle accent" font-size="110">“</text>
+  <text x="150" y="280" class="tTitle ink" font-size="72">边界让爱不窒息，</text>
+  <text x="150" y="360" class="tTitle ink" font-size="72">修复让关系不崩塌。</text>
+  <text x="90" y="430" class="tTitle accent" font-size="110">”</text>
+
+  <!-- Long closing text (4-6 lines) -->
+  <text x="90" y="520" class="tBody ink" font-size="34">
+    <tspan x="90" dy="0">青春期不是塑造“理想孩子”，而是允许他成为完整的人。</tspan>
+    <tspan x="90" dy="58">你可以温柔地靠近，也可以坚定地站稳：允许情绪，不允许伤害。</tspan>
+    <tspan x="90" dy="58">把“你怎么这样”换成“我们怎么做”，规则会更像同盟而不是对抗。</tspan>
+    <tspan x="90" dy="58">一顿饭、一次散步、一句“我在这儿”——比长篇教育更有效。</tspan>
+    <tspan x="90" dy="58">你不用一次做到完美，能比上次更好一点，就已经很勇敢。</tspan>
+  </text>
+
+  <!-- CTA card -->
+  <g transform="translate(90 970)">
+    <rect x="0" y="0" width="1020" height="360" rx="28" class="card" stroke="#444"/>
+    <text x="40" y="80" class="tH2 ink" font-size="44">想要“3句话模板复盘卡”？</text>
+    <text x="40" y="145" class="tBody muted" font-size="32">评论区回：【模板】</text>
+
+    <rect x="40" y="190" width="940" height="2" fill="#444"/>
+
+    <text x="40" y="255" class="tBody ink" font-size="32">也欢迎你分享：</text>
+    <text x="40" y="310" class="tBody muted" font-size="32">你家最常爆点是哪一个？作业 / 手机 / 作息 / 情绪</text>
+  </g>
+
+  <text x="1080" y="1570" class="tMono muted" font-size="22">03/03</text>
+</svg>

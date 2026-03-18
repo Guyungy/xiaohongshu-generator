@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .code{fill:#E0F2FE;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">可复制的提问模板</text>
+  <text x="110" y="210" class="m">// 直接粘贴给孩子用</text>
+  <text x="1010" y="210" class="m">04 / 06</text>
+
+  <rect class="card" x="70" y="300" width="1060" height="980" rx="28"/>
+  <rect x="110" y="360" width="980" height="820" rx="24" class="code"/>
+
+  <text x="150" y="430" class="mono">【我现在要做的作业】</text>
+  <text x="150" y="490" class="p">题目/任务：____</text>
+  <text x="150" y="550" class="p">字数/格式：____</text>
+  <text x="150" y="610" class="p">必须包含的点：____</text>
+  <text x="150" y="670" class="p">截止时间：____</text>
+
+  <text x="150" y="760" class="mono">【请你先做两件事】</text>
+  <text x="150" y="820" class="p">1）先问我 3 个澄清问题</text>
+  <text x="150" y="880" class="p">2）再给我：步骤清单（5-7步）+ 段落模板</text>
+
+  <text x="150" y="980" class="mono">【最后给我一个自检清单】</text>
+  <text x="150" y="1040" class="p">跑题 / 漏点 / 隐私 这 3 项要检查</text>
+</svg>

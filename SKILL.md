@@ -7,6 +7,84 @@ description: 专业的小红书内容生成器，保持固定博主人设和风�
 
 基于参考内容，自动生成符合博主人设的小红书笔记内容。
 
+## 目录约定（新增）
+
+根目录应尽量保持精简，只保留：
+- `SKILL.md`
+- `PIPELINE_RULES.md`
+- 必要脚本入口 / 可执行文件
+
+其余内容按职责放置：
+- `references/`：输入契约、输出契约、版式系统、验收清单、发送回退、历史说明
+- `personas/`：人设定义、写作指南、风格参考 SVG
+- `tools/` / `scripts/`：自动化脚本
+- `output/`：历史产出与运行结果
+- `data/`：运行态数据
+
+不应把 `README`、`QUICKSTART`、旧流程说明长期堆在根目录；这类文件应收纳到 `references/` 或 `references/archive/`。
+
+### persona 目录约定
+每个 persona 目录应尽量统一为：
+
+```text
+personas/<persona-name>/
+├── persona.md
+├── writing_guide.md
+├── svg_rules.md        # 可选，但推荐补齐
+└── refs/
+    ├── 1.svg
+    ├── 2.svg
+    └── ...
+```
+
+读取视觉参考时，优先读取：
+- `personas/<persona>/refs/*.svg`
+
+若 `refs/` 不存在，再回退读取 persona 根目录下的 `*.svg`（兼容旧结构）。
+
+### output 目录约定
+- `output/runs/`：后续标准化后的新产出目录
+- `output/archive/legacy/`：历史旧产物归档
+
+新任务默认不要再把新结果直接堆进 `output/` 根目录。
+
+## 产线规则（新增）
+
+当任务涉及 **多页 PNG/SVG 卡片产出**（尤其是 `Mr Wong是码农` 这类 2-6 页连续图文）时，先读取并遵循：
+
+- `PIPELINE_RULES.md`
+
+该文件包含硬规则，例如：
+- 禁止“快速落地”式同模板批量出图
+- 必须逐页单独设计排版
+- 必须先样稿后整组
+- 重点文字与解释文字必须分层
+
+## 产线导航（新增）
+
+当任务从“生成内容”升级为“稳定交付多页卡片产线”时，不要只靠 SKILL.md 本文推断，按需读取以下文件：
+
+- `references/input_schema.md`
+  - 当你需要确认用户输入字段、默认值、样稿策略、信息密度要求时读取。
+- `references/output_contract.md`
+  - 当你需要确认交付文件、命名规范、目录结构、完成定义时读取。
+- `references/layout_system.md`
+  - 当你需要设计多页卡片结构、判断是否必须 re-design、避免模板复印件感时读取。
+- `references/review_checklist.md`
+  - 当你准备出图或交付前自查时读取。
+- `references/delivery_fallbacks.md`
+  - 当你需要打包发送到 Telegram，尤其遇到 `Poll fields require action "poll"` 类问题时读取。
+- `references/multi_agent_pipeline.md`
+  - 当任务涉及 main / marketing-expert / xhs-generator 的多 agent 协作时读取。
+- `references/runs_naming.md`
+  - 当你需要创建新的标准化产出目录时读取。
+
+规则：
+- 小任务只读必要文件，避免上下文膨胀。
+- 多页 PNG/SVG 连续卡片任务，至少读取：`PIPELINE_RULES.md` + `references/layout_system.md`。
+- 若任务明确要求交付到 Telegram 群/topic，发送前必须额外读取：`references/delivery_fallbacks.md`。
+- 若任务要写入 `output/runs/`，先读取：`references/runs_naming.md`。
+
 ## 智能路由 (Smart Router)
 
 当用户输入包含以下关键词时，自动切换到对应模式：
@@ -91,21 +169,25 @@ https://react.dev/blog/performance-tips
 
 ## 视觉风格自动参考（新增）
 
-当生成 **SVG 视觉卡片** 时，必须 **自动读取并参考** 对应人设目录中的 `*.svg` 文件，作为风格与版式基准：
+当生成 **SVG 视觉卡片** 时，必须 **自动读取并参考** 对应人设目录中的 SVG 参考素材，作为风格与版式基准：
 
-- 参考范围：配色、字体层级、版式结构、留白密度、图形元素风格
-- 禁止内容：不要复用参考 SVG 中的原文文本或任何带有具体事实的数据
-- 目标：保持“同风格、同气质”，但内容 **完全重写**
+- 第一优先级：`personas/<persona>/refs/*.svg`
+- 第二优先级：`personas/<persona>/*.svg`（兼容旧目录）
 
-**自动映射规则：**
+参考范围：
+- 配色
+- 字体层级
+- 版式结构
+- 留白密度
+- 图形元素风格
 
-- 人设目录中存在 `*.svg` → 必须参考
-- 若目录无 `*.svg` → 使用通用风格（保持高信息密度）
+禁止内容：
+- 不要复用参考 SVG 中的原文文本
+- 不要复用具体事实数据
 
-**当前已包含 SVG 参考的人设目录（示例）：**
-
-- `personas/Mr Wong是码农/*.svg`
-- `personas/张姐说国际教育/*.svg`
+目标：
+- 保持“同风格、同气质”
+- 但内容必须完全重写
 - `personas/每日一校EduDaily/*.svg`
 - `personas/驻校艺术家/*.svg`
 - `personas/砂糖宝贝/*.svg`

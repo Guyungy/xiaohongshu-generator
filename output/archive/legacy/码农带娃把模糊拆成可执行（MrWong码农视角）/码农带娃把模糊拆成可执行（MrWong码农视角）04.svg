@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:66px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:28px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+      .tag { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:18px; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 先讲人话，再用代码 · 亲子清晰训练</text>
+  <text x="1010" y="190" class="m">04 / 06</text>
+  
+  <text x="90" y="320" class="h1">4 行需求模板</text>
+  <text x="90" y="398" class="h1">孩子也能写</text>
+  <text x="90" y="468" class="m">写完再开始动笔：模糊会明显退散</text>
+  
+  <rect x="70" y="500" width="1060" height="860" rx="28" fill="#ECFDF5"/>
+  <text x="110" y="570" class="mono">// Requirement (4 lines)</text>
+  <text x="110" y="640" class="p2">1）任务是：______</text>
+  <text x="110" y="686" class="p2">2）完成标准（验收）：______</text>
+  <text x="110" y="732" class="p2">3）边界/限制（字数/格式/必须包含/禁区）：______</text>
+  <text x="110" y="778" class="p2">4）截止时间/时长预算：______</text>
+  <text x="110" y="834" class="p2">家长一句话：今晚别问“写完了吗”，问“第一步是什么？”</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">Tip：先把路铺出来，再谈速度。</text>
+</svg>

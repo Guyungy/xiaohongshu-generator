@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#ECFDF5;}
+      .b{fill:#E0F2FE;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .chip{fill:#0F172A;}
+      .chipT{font-family:"Noto Sans CJK SC";font-weight:800;font-size:22px;fill:#FFFFFF;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">P6｜健康与状态：核心生产资料</text>
+  <text x="110" y="210" class="m">// 系统跑不动，先看电源和散热</text>
+  <text x="1010" y="210" class="m">06 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="420" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">健康SOP</text>
+  <text x="110" y="440" class="p">1）每天 30 分钟运动（定期补丁）</text>
+  <text x="110" y="510" class="p">2）睡眠优先：尽量固定熄灯时间</text>
+  <text x="110" y="580" class="p">3）年度体检：把故障前兆可视化</text>
+  <text x="110" y="650" class="m">身体=最重要的生产资料</text>
+
+  <rect x="70" y="760" width="520" height="520" rx="28" class="card"/>
+  <rect x="610" y="760" width="520" height="520" rx="28" class="b"/>
+
+  <text x="110" y="830" class="h2">情绪与协作</text>
+  <text x="110" y="905" class="p">- 先冷却再沟通</text>
+  <text x="110" y="965" class="p">- 少指责，多对齐目标</text>
+  <text x="110" y="1025" class="p">- 学会当“协调者”</text>
+  <text x="110" y="1100" class="m">稳定情绪=硬技能</text>
+
+  <text x="650" y="830" class="h2">体面与自信</text>
+  <text x="650" y="905" class="p">- 收拾自己，保持状态</text>
+  <text x="650" y="965" class="p">- 让孩子觉得“有底气”</text>
+  <text x="650" y="1025" class="p">- 长期主义不是苦熬</text>
+  <text x="650" y="1100" class="m">自信=长期项目的启动参数</text>
+
+  <rect class="card" x="70" y="1310" width="1060" height="160" rx="28"/>
+  <text x="110" y="1380" class="p">桐乡耀华 STEM：方法先于答案｜过程可视化｜任务可执行</text>
+
+  <rect x="930" y="1235" width="200" height="54" rx="18" class="chip"/>
+  <text x="968" y="1272" class="chipT">转发给伴侣</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:66px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:28px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+      .tag { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:18px; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 先讲人话，再用代码 · 亲子清晰训练</text>
+  <text x="1010" y="190" class="m">01 / 06</text>
+  
+  <text x="90" y="320" class="h1">码农带娃：</text>
+  <text x="90" y="398" class="h1">把“模糊”拆成可执行</text>
+  <text x="90" y="468" class="m">家里少吵很多的底层原因：不是更努力，而是更清楚</text>
+  
+  <rect x="70" y="520" width="1060" height="840" rx="28" fill="#E0F2FE"/>
+  <text x="110" y="590" class="mono">// 一句话先钉死</text>
+  <text x="110" y="660" class="p2">模糊=无从下手=更焦虑。</text>
+  <text x="110" y="706" class="p2">清晰=知道第一步=愿意继续做。</text>
+  <text x="110" y="752" class="p2">我把带娃当写代码：需求→拆解→验收。</text>
+  <text x="110" y="808" class="m">（工具用 OpenClaw，但核心是流程）</text>
+  <text x="110" y="852" class="p2">软植入：桐乡耀华的 STEM/项目制训练里，这种“过程与验证”很常见。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">留言：你家最常见的模糊指令是哪句？我帮你改成可执行版本。</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .chip { fill: #0F172A; }
+      .chipText { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 22px; fill: #FFFFFF; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 900; font-size: 64px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 30px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 24px; fill: #475569; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 800; font-size: 22px; fill: #0F172A; }
+      .ok { fill: #10B981; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <!-- Header -->
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">给孩子的 OpenClaw SOP</text>
+  <text x="110" y="210" class="muted">// 复制就能教：一句话目标 → 三条输入 → 三问澄清 → 验收标准</text>
+  <text x="1010" y="210" class="muted">03 / 03</text>
+
+  <!-- Checklist card -->
+  <rect class="card" x="70" y="300" width="1060" height="980" rx="28"/>
+
+  <!-- item 1 -->
+  <circle cx="120" cy="395" r="14" class="ok"/>
+  <text x="150" y="405" class="h2">SOP-1：一句话说清楚</text>
+  <text x="150" y="460" class="p">“我想完成____，给我一个____格式的结果。”</text>
+
+  <!-- item 2 -->
+  <circle cx="120" cy="555" r="14" class="ok"/>
+  <text x="150" y="565" class="h2">SOP-2：给 3 条输入</text>
+  <text x="150" y="620" class="p">①我已经做了什么  ②我卡在哪里  ③我有什么材料/限制</text>
+
+  <!-- item 3 -->
+  <circle cx="120" cy="715" r="14" class="ok"/>
+  <text x="150" y="725" class="h2">SOP-3：先让它问我 3 个问题</text>
+  <text x="150" y="780" class="p">“你面向谁？”  “要短还是要详细？”  “最怕踩的坑是什么？”</text>
+
+  <!-- item 4 -->
+  <circle cx="120" cy="875" r="14" class="ok"/>
+  <text x="150" y="885" class="h2">SOP-4：验收标准（像老师评分点）</text>
+  <text x="150" y="940" class="p">结构清楚 · 能落地 · 不编造（不确定就标“待确认”）</text>
+
+  <!-- code-style footer -->
+  <rect x="110" y="1020" width="980" height="220" rx="24" fill="#E0F2FE"/>
+  <text x="150" y="1080" class="mono">// 爸爸的最后一句</text>
+  <text x="150" y="1135" class="p">把孩子教会“提问 + 验收”，比教他“背答案”更值钱。</text>
+  <text x="150" y="1190" class="muted">软植入：这类方法训练，在桐乡耀华那种 STEM 体系里特别吃香</text>
+</svg>

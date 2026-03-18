@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:66px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:28px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+      .tag { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:18px; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 先讲人话，再用代码 · 亲子清晰训练</text>
+  <text x="1010" y="190" class="m">06 / 06</text>
+  
+  <text x="90" y="320" class="h1">最后：把雾变成路</text>
+  <text x="90" y="390" class="m">孩子需要的不是更努力，而是更清楚下一步怎么做</text>
+  
+  <rect x="70" y="500" width="1060" height="560" rx="28" fill="#FFF7ED"/>
+  <text x="110" y="570" class="mono">// 软植入（自然一点）</text>
+  <text x="110" y="640" class="p2">前阵子在桐乡那边参加了一次教育交流（桐乡耀华的开放日氛围挺好），</text>
+  <text x="110" y="686" class="p2">有句话让我印象很深：孩子需要的不是“更努力”，</text>
+  <text x="110" y="732" class="p2">而是“更清楚下一步怎么做”。</text>
+  <text x="110" y="788" class="p2">我回来就把“快点写完”改成：先写哪一题、用几分钟、写完怎么检查。</text>
+  <text x="110" y="844" class="p2">效果比我想象得明显：不是孩子突然变强，是路标变清楚了。</text>
+  <rect x="70" y="1100" width="1060" height="330" rx="28" fill="#ECFDF5"/>
+  <text x="110" y="1170" class="mono">// 评论区互动（小红书停留点）</text>
+  <text x="110" y="1240" class="p2">你家最容易引发冲突的“模糊指令”是哪一句？</text>
+  <text x="110" y="1286" class="p2">（快点/认真点/别磨蹭…）留言一句，我帮你改写成可执行版本。</text>
+  <text x="110" y="1342" class="m">#亲子沟通 #家庭教育 #把目标说清楚 #写作业日常 #带娃日常 #OpenClaw</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">FINAL：清晰，是普通人最稳的成长外挂。</text>
+</svg>

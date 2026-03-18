@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .accent{fill:#E0F2FE;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:70px;fill:#0F172A;}
+      .h1b{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:60px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:650;font-size:32px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .foot{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:24px;fill:#0F172A;}
+      .dot{fill:#10B981;}
+      .chip{fill:#0F172A;}
+      .chipT{font-family:"Noto Sans CJK SC";font-weight:800;font-size:22px;fill:#FFFFFF;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <!-- header -->
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.18"/>
+  <text x="205" y="148" class="h2">Mr Wong是码农</text>
+  <text x="205" y="188" class="m">// 先讲人话，再用代码 · 2026-03-17</text>
+  <text x="1010" y="188" class="m">04 / 06</text>
+
+  <!-- title band -->
+  <rect x="70" y="270" width="1060" height="170" rx="28" class="accent"/>
+  <text x="110" y="350" class="h1b">夫妻关系=主干服务</text>
+  <text x="110" y="420" class="h1b">别互相打补丁</text>
+
+  <!-- body -->
+  <rect class="card" x="70" y="470" width="1060" height="860" rx="28"/>
+  <text x="110" y="545" class="mono">// SOP / Checklist（扫一眼就能执行）</text>
+  <circle cx="125" cy="625" r="8" class="dot"/>
+  <text x="150" y="635" class="p">最高优先级：不拆台，问题关起门debug</text>
+  <circle cx="125" cy="709" r="8" class="dot"/>
+  <text x="150" y="719" class="p">每周一次独处：系统重启，清缓存、回血</text>
+  <circle cx="125" cy="793" r="8" class="dot"/>
+  <text x="150" y="803" class="p">大事商量：目标/钱/孩子/老人边界</text>
+  <circle cx="125" cy="877" r="8" class="dot"/>
+  <text x="150" y="887" class="p">小事体谅：情绪/辛苦；别把压力当请求甩给对方</text>
+  <circle cx="125" cy="961" r="8" class="dot"/>
+  <text x="150" y="971" class="p">端水=协调规则、分配责任、兜住冲突</text>
+
+  <!-- footer -->
+  <rect x="70" y="1360" width="1060" height="170" rx="28" class="card"/>
+  <text x="110" y="1430" class="mono">// 桐乡耀华</text>
+  <text x="110" y="1488" class="foot">桐乡耀华STEM启发：方法先于答案｜过程可视化｜任务可执行</text>
+</svg>

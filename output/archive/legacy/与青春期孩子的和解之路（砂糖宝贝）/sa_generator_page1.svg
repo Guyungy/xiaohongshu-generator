@@ -1,0 +1,62 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#F7F3F0"/>
+  <defs>
+    <filter id="shadow1" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .sans{font-family:"Noto Sans CJK SC","Noto Sans CJK TC","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;}
+      .serif{font-family:"Noto Sans CJK SC","Noto Sans CJK TC","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;}
+    </style>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="70" y="190" width="1060" height="1220" rx="44" fill="#FFFFFF" filter="url(#shadow1)"/>
+
+  <!-- Header Tag -->
+  <rect x="70" y="100" width="360" height="66" rx="33" fill="#E6D5C3"/>
+  <text x="250" y="143" class="sans" font-weight="800" font-size="28" fill="#B45B3E" text-anchor="middle">亲子修复 · 青春期</text>
+
+  <!-- Title (left aligned, big) -->
+  <text x="140" y="290" class="serif" font-weight="900" font-size="66" fill="#333333">与青春期孩子</text>
+  <text x="140" y="370" class="serif" font-weight="900" font-size="84" fill="#B45B3E">和解之路</text>
+
+  <line x1="140" y1="420" x2="1060" y2="420" stroke="#B45B3E" stroke-width="3"/>
+
+  <!-- Intro (3-5 lines pain + guidance) -->
+  <text x="140" y="490" class="sans" font-size="34" fill="#444444">
+    <tspan x="140" dy="0">你以为在讲道理，他却像被点燃的火柴：</tspan>
+    <tspan x="140" dy="52">“别管我！”“你根本不懂！”门一摔，空气都在抖。</tspan>
+    <tspan x="140" dy="52">很多冲突不是孩子“变坏”，而是他在练习成为自己：</tspan>
+    <tspan x="140" dy="52">有棱角、有选择、也开始学担当。</tspan>
+    <tspan x="140" dy="52" fill="#B45B3E" font-weight="800">和解不是妥协，是学会修复与边界并存。</tspan>
+  </text>
+
+  <!-- Collage area (1+2 grid placeholders) -->
+  <g transform="translate(140,760)">
+    <rect x="0" y="0" width="920" height="520" rx="26" fill="#FFFBF5" stroke="#E9E2DC"/>
+    <!-- big photo placeholder -->
+    <rect x="24" y="24" width="560" height="472" rx="22" fill="#EDE7E1"/>
+    <text x="304" y="270" class="sans" font-size="30" fill="#8A8682" text-anchor="middle">拼图位 ①（横图/场景）</text>
+
+    <!-- two small placeholders -->
+    <rect x="604" y="24" width="292" height="226" rx="22" fill="#EDE7E1"/>
+    <rect x="604" y="270" width="292" height="226" rx="22" fill="#EDE7E1"/>
+    <text x="750" y="150" class="sans" font-size="26" fill="#8A8682" text-anchor="middle">拼图位 ②</text>
+    <text x="750" y="396" class="sans" font-size="26" fill="#8A8682" text-anchor="middle">拼图位 ③</text>
+
+    <!-- Yellow sticker -->
+    <rect x="46" y="52" width="168" height="54" rx="27" fill="#FFE14D"/>
+    <text x="130" y="88" class="sans" font-size="26" fill="#333333" font-weight="800" text-anchor="middle">冲突现场</text>
+
+    <!-- tiny note -->
+    <text x="44" y="500" class="sans" font-size="26" fill="#666666">
+      <tspan x="44" dy="0">🌿 小提醒：先把“赢”放下，</tspan>
+      <tspan x="44" dy="40">才有机会把“关系”捡回来。</tspan>
+    </text>
+  </g>
+
+  <!-- Footer -->
+  <text x="600" y="1545" class="sans" font-size="24" fill="#9A9A9A" text-anchor="middle">@砂糖宝贝 · Page 1 / 3</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <text x="110" y="150" class="h2">Mr Wong是码农</text>
+  <text x="110" y="190" class="m">// OpenClaw as a thinking supervisor</text>
+  <text x="1010" y="190" class="m">05 / 06</text>
+
+  <text x="90" y="320" class="h1">OpenClaw 不负责聪明</text>
+  <text x="90" y="385" class="m">它只负责：把你变清楚（清单化 + 验收化）</text>
+
+  <rect x="70" y="450" width="1060" height="640" rx="28" class="a"/>
+  <text x="110" y="525" class="mono">// 提示词模板（直接复制）</text>
+  <text x="110" y="600" class="p2">把下面这句抽象目标，改写成：</text>
+  <text x="110" y="660" class="p2">• 3 个具体场景（让我看见它长什么样）</text>
+  <text x="110" y="710" class="p2">• 7 天行动清单（每天 ≤20 分钟）</text>
+  <text x="110" y="760" class="p2">• 3 个验收标准（能打勾的那种）</text>
+  <text x="110" y="810" class="p2">• 3 个偷懒点 + 反制措施</text>
+  <text x="110" y="890" class="p2">抽象目标：______</text>
+  <text x="110" y="960" class="m">（写作/学习/运动/亲子沟通都能套）</text>
+
+  <rect x="70" y="1130" width="1060" height="300" rx="28" class="b"/>
+  <text x="110" y="1205" class="mono">// 我家三条家规（必须写在纸上）</text>
+  <text x="110" y="1275" class="p2">1）不输入隐私：姓名/班级/电话/地址一律不写</text>
+  <text x="110" y="1325" class="p2">2）工具是辅助：孩子要能说清楚“我选哪个/为什么”</text>
+  <text x="110" y="1385" class="tag">3）关键知识点二次确认：AI 是建议，不是权威。</text>
+</svg>

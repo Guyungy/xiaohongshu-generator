@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .x { fill: #FEE2E2; }
+      .y { fill: #DCFCE7; }
+      .z { fill: #E0F2FE; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 900; font-size: 62px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 30px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 24px; fill: #475569; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 800; font-size: 22px; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">家长陪跑：10 分钟就够</text>
+  <text x="110" y="210" class="muted">// 你不需要当老师，只要当“产品经理”</text>
+  <text x="1010" y="210" class="muted">06 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="470" rx="28" class="z"/>
+  <text x="110" y="370" class="mono">// 10 分钟陪跑流程</text>
+  <text x="110" y="440" class="p">1）60 秒：孩子说“我要做什么”</text>
+  <text x="110" y="500" class="p">2）120 秒：你帮他补 3 个约束（字数/格式/截止）</text>
+  <text x="110" y="560" class="p">3）180 秒：让 OpenClaw 先提 3 个澄清问题</text>
+  <text x="110" y="620" class="p">4）180 秒：按拆解清单选 1 步先做（启动）</text>
+  <text x="110" y="680" class="p">5）60 秒：验收三问（能做？不编？无隐私？）</text>
+
+  <rect x="70" y="800" width="520" height="430" rx="28" class="x"/>
+  <rect x="610" y="800" width="520" height="430" rx="28" class="y"/>
+
+  <text x="110" y="860" class="h2">别说这些（容易内耗）</text>
+  <text x="110" y="925" class="p">“你怎么又不会？”</text>
+  <text x="110" y="985" class="p">“快点写，别墨迹！”</text>
+  <text x="110" y="1045" class="p">“我帮你写算了。”</text>
+
+  <text x="650" y="860" class="h2">换成这 3 句（更有效）</text>
+  <text x="650" y="925" class="p">“你想要什么结果？”</text>
+  <text x="650" y="985" class="p">“拆成 5 步，你先选第 1 步。”</text>
+  <text x="650" y="1045" class="p">“你怎么验收它没瞎编？”</text>
+
+  <rect class="card" x="70" y="1270" width="1060" height="240" rx="28"/>
+  <text x="110" y="1345" class="mono">// 软植入一句</text>
+  <text x="110" y="1405" class="p">这种“过程可视化 + 任务拆解”的训练，STEM 体系很擅长。</text>
+  <text x="110" y="1465" class="muted">（我想到桐乡耀华那种：方法先于答案）</text>
+</svg>

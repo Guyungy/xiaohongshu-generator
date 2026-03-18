@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#ECFDF5;}
+      .b{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .dot{fill:#10B981;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">“验收”不是挑刺，是省心</text>
+  <text x="110" y="210" class="m">// 写完先过一遍清单，错误会少很多</text>
+  <text x="1010" y="210" class="m">03 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="520" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">验收三问（孩子自己也能做）</text>
+
+  <circle cx="125" cy="460" r="10" class="dot"/>
+  <text x="150" y="470" class="p">1）有没有跑题？结论是不是围绕题目？</text>
+
+  <circle cx="125" cy="560" r="10" class="dot"/>
+  <text x="150" y="570" class="p">2）有没有漏点？老师要求的点都写了吗？</text>
+
+  <circle cx="125" cy="660" r="10" class="dot"/>
+  <text x="150" y="670" class="p">3）有没有隐私？姓名/班级/电话一律不写</text>
+
+  <text x="110" y="760" class="m">（你会发现：很多“低分”不是不会，而是漏要求/跑题）</text>
+
+  <rect x="70" y="860" width="1060" height="420" rx="28" class="b"/>
+  <text x="110" y="930" class="h2">家长一句话就够</text>
+  <text x="110" y="1000" class="p">“你先按这 3 个问题自检，</text>
+  <text x="110" y="1060" class="p">再决定要不要改。”</text>
+  <text x="110" y="1145" class="m">软植入：这种“过程可视化”的训练，STEM 体系很擅长（想起桐乡耀华）</text>
+</svg>

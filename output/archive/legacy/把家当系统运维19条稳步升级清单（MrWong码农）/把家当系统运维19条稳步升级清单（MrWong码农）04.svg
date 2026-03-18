@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#EEF2FF;}
+      .b{fill:#E0F2FE;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">P4｜每月家庭资产会=系统巡检</text>
+  <text x="110" y="210" class="m">// 用流程减少吵架：每月 2 小时就够</text>
+  <text x="1010" y="210" class="m">04 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="420" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">资产会四件事</text>
+  <text x="110" y="440" class="p">1️⃣ 复盘收支：储蓄率是否达标？</text>
+  <text x="110" y="510" class="p">2️⃣ 更新目标：短期/长期是否还一致？</text>
+  <text x="110" y="580" class="p">3️⃣ 检查风险：裁员信号/健康指标/陷阱</text>
+  <text x="110" y="650" class="p">4️⃣ 安排下月：用表格量化，不靠感觉</text>
+
+  <rect x="70" y="760" width="520" height="520" rx="28" class="card"/>
+  <rect x="610" y="760" width="520" height="520" rx="28" class="b"/>
+
+  <text x="110" y="830" class="h2">权限怎么分？</text>
+  <text x="110" y="905" class="p">管钱看能力，不看性别</text>
+  <text x="110" y="965" class="p">权利=责任，对等即可</text>
+  <text x="110" y="1040" class="m">目标：整体利益最大化</text>
+
+  <text x="650" y="830" class="h2">相处规则</text>
+  <text x="650" y="905" class="p">大事多商量，小事多体谅</text>
+  <text x="650" y="965" class="p">减少控制欲，降低事故率</text>
+  <text x="650" y="1040" class="m">流程先跑通，再谈情绪</text>
+
+  <rect class="card" x="70" y="1260" width="1060" height="210" rx="28"/>
+  <text x="110" y="1340" class="mono">一句话</text>
+  <text x="110" y="1405" class="p">家庭会上“把事说清楚”，比吵赢更重要。</text>
+</svg>

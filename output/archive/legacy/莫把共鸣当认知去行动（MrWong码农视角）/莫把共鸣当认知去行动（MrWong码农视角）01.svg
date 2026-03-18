@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .d{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 认知=行动后的反馈，不是收藏的道理</text>
+  <text x="1010" y="190" class="m">01 / 06</text>
+  
+  <text x="90" y="320" class="h1">莫把共鸣当认知</text>
+  <text x="90" y="398" class="h1">去行动起来</text>
+  <text x="90" y="466" class="m">码农亲测：收藏一万条道理，不如做一次改变</text>
+  
+  <rect x="70" y="520" width="1060" height="840" rx="28" fill="#E0F2FE"/>
+  <text x="110" y="590" class="mono">// 先把这句话写进脑子</text>
+  <text x="110" y="660" class="p2">“行动前的感触，是共鸣。”</text>
+  <text x="110" y="712" class="p2">“行动后的感触，才叫认知。”</text>
+  <text x="110" y="776" class="p2">社交媒体让你很容易共鸣，但很少让你行动。</text>
+  <text x="110" y="832" class="p2">今天只做一件事：选一个动作，立刻开始。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">留言回 1/2/3：我给你配一套“最低阻力执行法”。</text>
+</svg>

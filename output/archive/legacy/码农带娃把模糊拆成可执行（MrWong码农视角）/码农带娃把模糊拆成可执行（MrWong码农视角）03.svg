@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:66px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:28px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+      .tag { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:18px; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 先讲人话，再用代码 · 亲子清晰训练</text>
+  <text x="1010" y="190" class="m">03 / 06</text>
+  
+  <text x="90" y="320" class="h1">把模糊拆成 3 个变量</text>
+  <text x="90" y="390" class="m">只要这 3 个说清楚，孩子就更稳</text>
+  
+  <rect x="70" y="500" width="1060" height="860" rx="28" fill="#FFF7ED"/>
+  <text x="110" y="570" class="mono">// 3 Variables (可抄)</text>
+  <text x="110" y="640" class="p2">① 目标：你要交付什么？（一句话写清）</text>
+  <text x="110" y="686" class="p2">② 标准：做到什么算完成？（可打勾的验收）</text>
+  <text x="110" y="732" class="p2">③ 下一步：现在先做哪一步？（≤10分钟能开始）</text>
+  <text x="110" y="788" class="p2">父母最容易犯的错：目标/标准/下一步都不说，只喊情绪词。</text>
+  <text x="110" y="844" class="p2">孩子最容易崩：不是不会，是不确定感把注意力拖垮。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">把“认真点”翻译成：先写哪一题、用几分钟、写完怎么检查。</text>
+</svg>

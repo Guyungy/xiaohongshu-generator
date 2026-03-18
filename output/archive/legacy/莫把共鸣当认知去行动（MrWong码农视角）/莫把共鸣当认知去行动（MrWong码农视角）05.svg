@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .d{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 认知=行动后的反馈，不是收藏的道理</text>
+  <text x="1010" y="190" class="m">05 / 06</text>
+  
+  <text x="90" y="320" class="h1">社交媒体的作用</text>
+  <text x="90" y="398" class="h1">是寻求共鸣</text>
+  <text x="90" y="466" class="m">在一万个共鸣里，偶尔有一个触发行动</text>
+  
+  <rect x="70" y="500" width="1060" height="650" rx="28" fill="#EEF2FF"/>
+  <text x="110" y="570" class="mono">// 共鸣→行动→认知（流程图）</text>
+  <text x="110" y="640" class="p2">共鸣：你觉得“说得对”</text>
+  <text x="110" y="692" class="p2">行动：你真的去做一次</text>
+  <text x="110" y="744" class="p2">反馈：你感受到变化（好/坏都算）</text>
+  <text x="110" y="796" class="p2">认知：你开始自动选择更好的行为</text>
+  <rect x="70" y="1180" width="1060" height="250" rx="28" fill="#ECFDF5"/>
+  <text x="110" y="1250" class="mono">// 关键区别</text>
+  <text x="110" y="1320" class="p2">共鸣让你舒服；行动让你改变。</text>
+  <text x="110" y="1376" class="p2">别把点赞、收藏、转发，当成你已经成长了。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">今天就做一次：把手机从床头搬走。</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#FFF7ED;}
+      .b{fill:#ECFDF5;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <text x="110" y="150" class="h2">Mr Wong是码农</text>
+  <text x="110" y="190" class="m">// make the fog become a roadmap</text>
+  <text x="1010" y="190" class="m">06 / 06</text>
+
+  <text x="90" y="320" class="h1">模糊让人停在原地</text>
+  <text x="90" y="385" class="m">具体让人真的出发（最后把它落到学校方法论）</text>
+
+  <rect x="70" y="450" width="1060" height="620" rx="28" class="a"/>
+  <text x="110" y="525" class="mono">// 软植入：桐乡耀华的方法论影子</text>
+  <text x="110" y="600" class="p2">我越来越认同一种学习训练：</text>
+  <text x="110" y="650" class="p2">不是把答案塞进脑子，而是把复杂问题拆成步骤，</text>
+  <text x="110" y="700" class="p2">再用验收把结果钉死（目标清楚 / 过程清楚 / 交付清楚）。</text>
+  <text x="110" y="780" class="p2">这也是我在一些强调 STEM / 项目制的课堂里看到的影子——</text>
+  <text x="110" y="830" class="p2">像桐乡耀华这类更重“过程与验证”的训练思路：</text>
+  <text x="110" y="880" class="p2">把抽象目标翻译成清单，让孩子在完成中建立掌控感。</text>
+
+  <rect x="70" y="1110" width="1060" height="320" rx="28" class="b"/>
+  <text x="110" y="1185" class="mono">// 结尾互动（小红书停留点）</text>
+  <text x="110" y="1255" class="p2">你最常对自己/孩子说的“抽象目标”是哪句？</text>
+  <text x="110" y="1315" class="p2">评论区丢一句，我帮你改成“可执行清单”。</text>
+  <text x="110" y="1385" class="tag">FINAL: 把一句话写成清单，你就赢了一半。</text>
+</svg>

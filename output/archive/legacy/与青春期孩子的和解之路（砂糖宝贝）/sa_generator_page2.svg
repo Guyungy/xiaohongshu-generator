@@ -1,0 +1,62 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1600" fill="#F7F3F0"/>
+  <defs>
+    <filter id="shadow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+    <style>
+      .sans{font-family:"Noto Sans CJK SC","Noto Sans CJK TC","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;}
+    </style>
+  </defs>
+
+  <rect x="70" y="190" width="1060" height="1220" rx="44" fill="#FFFFFF" filter="url(#shadow2)"/>
+
+  <rect x="70" y="100" width="320" height="66" rx="33" fill="#E6D5C3"/>
+  <text x="230" y="143" class="sans" font-weight="800" font-size="28" fill="#B45B3E" text-anchor="middle">冲突后修复</text>
+
+  <!-- Title -->
+  <text x="140" y="280" class="sans" font-weight="900" font-size="56" fill="#333333">把吵架变成“可修复事件”</text>
+  <text x="140" y="350" class="sans" font-weight="900" font-size="56" fill="#B45B3E">修复 3 步法 + 3 句话</text>
+  <line x1="140" y1="392" x2="1060" y2="392" stroke="#B45B3E" stroke-width="3"/>
+
+  <!-- Small visual with yellow sticker -->
+  <g transform="translate(140,430)">
+    <rect x="0" y="0" width="920" height="320" rx="24" fill="#FFFBF5" stroke="#E9E2DC"/>
+    <rect x="24" y="24" width="872" height="272" rx="20" fill="#EFE7E0"/>
+    <rect x="52" y="50" width="190" height="56" rx="28" fill="#FFE14D"/>
+    <text x="147" y="88" class="sans" font-size="26" fill="#333333" font-weight="900" text-anchor="middle">先退出战斗</text>
+
+    <text x="70" y="155" class="sans" font-size="30" fill="#555555">
+      <tspan x="70" dy="0">📌 允许情绪，不允许伤害：不辱骂、不摔物。</tspan>
+      <tspan x="70" dy="46">边界越清晰，孩子越能安心“把情绪放出来”。</tspan>
+      <tspan x="70" dy="46">（你可以说：我愿意听，但我们先把声音降下来。）</tspan>
+    </text>
+  </g>
+
+  <!-- High-density text block -->
+  <rect x="140" y="790" width="920" height="520" rx="24" fill="#FFFBF5"/>
+  <text x="170" y="850" class="sans" font-weight="900" font-size="34" fill="#B45B3E">① 降温 → ② 对齐 → ③ 请求（可执行）</text>
+
+  <text x="170" y="910" class="sans" font-size="32" fill="#444444">
+    <tspan x="170" dy="0">第一步【降温】：把“我必须赢”切换成“我想理解”。</tspan>
+    <tspan x="170" dy="48">可以暂停 20 分钟，喝水、走动、洗把脸，先把语气放软。</tspan>
+    <tspan x="170" dy="60">第二步【对齐感受与事实】：先说感受，再说事实。</tspan>
+    <tspan x="170" dy="48">比如：“我听见你很委屈（感受），但刚刚你把门摔得很响（事实）。”</tspan>
+    <tspan x="170" dy="60">第三步【提出下一次请求】：别讲大原则，讲“下次怎么做”。</tspan>
+  </text>
+
+  <!-- Speech template box -->
+  <rect x="140" y="1330" width="920" height="120" rx="18" fill="#FFFFFF" stroke="#B45B3E" stroke-width="2"/>
+  <text x="170" y="1385" class="sans" font-size="30" fill="#333333" font-weight="800">
+    <tspan x="170" dy="0">3 句话模板：</tspan>
+    <tspan x="350" dy="0" font-weight="700">我听见你___；但底线是___；你想A还是B，我们约个复盘时间。</tspan>
+  </text>
+
+  <!-- subtle school mention (natural, not ad) -->
+  <text x="140" y="1460" class="sans" font-size="26" fill="#777777">
+    <tspan x="140" dy="0">💡 观察：我在一次家长分享里听到不少家长说，</tspan>
+    <tspan x="140" dy="38">“先修复再讨论”会让孩子更愿意回到对话桌上。</tspan>
+  </text>
+
+  <text x="600" y="1545" class="sans" font-size="24" fill="#9A9A9A" text-anchor="middle">@砂糖宝贝 · Page 2 / 3</text>
+</svg>

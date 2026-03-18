@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill:#F8FAFC; }
+      .card { fill:#FFFFFF; stroke:#E5E7EB; stroke-width:2; }
+      .soft { fill:#F1F5F9; }
+      .a { fill:#E0F2FE; }
+      .b { fill:#ECFDF5; }
+      .c { fill:#EEF2FF; }
+      .d { fill:#FFF7ED; }
+      .h1 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:72px; fill:#0F172A; }
+      .h1s { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:900; font-size:64px; fill:#0F172A; }
+      .h2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:800; font-size:34px; fill:#0F172A; }
+      .p  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:30px; fill:#0F172A; }
+      .p2 { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:550; font-size:28px; fill:#0F172A; }
+      .m  { font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei"; font-weight:500; font-size:24px; fill:#475569; }
+      .mono { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:22px; fill:#0F172A; }
+      .mono2 { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:20px; fill:#0F172A; }
+      .tag { font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace; font-weight:800; font-size:18px; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <!-- Header -->
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 先讲人话，再用代码 · 2026-03-17</text>
+  <text x="1010" y="190" class="m">01 / 06</text>
+
+  <!-- Title -->
+  <text x="90" y="340" class="h1">你身上所有的弱</text>
+  <text x="90" y="420" class="h1">都源自模糊</text>
+  <text x="90" y="490" class="m">我在一本小说课里读到的人生：把抽象落到具体动作</text>
+
+  <!-- Main block -->
+  <rect x="70" y="560" width="1060" height="650" rx="28" class="a"/>
+  <text x="110" y="635" class="mono">// Ayn Rand：别写“他很勇敢”</text>
+  <text x="110" y="705" class="p2">“勇敢”是抽象概念，漂在空中，没有重量。</text>
+  <text x="110" y="755" class="p2">你必须展示：他做了什么，让读者自己得出结论。</text>
+
+  <text x="110" y="840" class="mono">// 我把它翻译成亲子+工程语言</text>
+  <text x="110" y="910" class="p2">别跟孩子说：要自律、要努力、要更好。</text>
+  <text x="110" y="960" class="p2">只做一件事：把今天要做的事写成“清单+验收”。</text>
+  <text x="110" y="1010" class="p2">完成后，孩子会自己得出结论：我更强了一点。</text>
+
+  <text x="110" y="1100" class="tag">TAG: parenting / clarity / delivery</text>
+
+  <!-- Footer block -->
+  <rect class="card" x="70" y="1240" width="1060" height="250" rx="28"/>
+  <text x="110" y="1325" class="h2">一句话钉死</text>
+  <text x="110" y="1400" class="p2">模糊很舒服；具体要付代价；但具体会带你出发。</text>
+  <text x="110" y="1460" class="m">（软植入提示）方法论启发来自：桐乡耀华的 STEM / 项目制训练思路</text>
+</svg>

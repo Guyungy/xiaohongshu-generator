@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .d{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 认知=行动后的反馈，不是收藏的道理</text>
+  <text x="1010" y="190" class="m">02 / 06</text>
+  
+  <text x="90" y="320" class="h1">信息 ≠ 认知</text>
+  <text x="90" y="388" class="m">你看到的，大多只是信息，不会自动变成你的一部分</text>
+  
+  <rect x="70" y="500" width="1060" height="470" rx="28" fill="#EEF2FF"/>
+  <text x="110" y="570" class="mono">// 例子：少刷手机对身心健康很重要</text>
+  <text x="110" y="640" class="p2">你看到这句话：无论认不认可，它都只是一条信息。</text>
+  <text x="110" y="696" class="p2">信息不会自动改变你，它最多让你点个赞、收藏一下。</text>
+  <rect x="70" y="1000" width="1060" height="360" rx="28" fill="#ECFDF5"/>
+  <text x="110" y="1070" class="mono">// 信息变认知，需要两步</text>
+  <text x="110" y="1140" class="p2">1）先相信（愿意承认：它对我有用）</text>
+  <text x="110" y="1196" class="p2">2）再行动（愿意付出代价：真的去做）</text>
+  <text x="110" y="1252" class="p2">没有行动，就没有“认知升级”。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">别急着刷下一条“干货”，先把这一条做一次。</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">P2｜把时间换成“生产资料”</text>
+  <text x="110" y="210" class="m">// 不要只换忙碌感：要换可复用模块</text>
+  <text x="1010" y="210" class="m">02 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="360" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">Checklist</text>
+  <text x="110" y="440" class="p">1）夫妻分工：谁主“技能迭代”，谁主“内容/证书/试验”</text>
+  <text x="110" y="510" class="p">2）下班别只刷短视频：每天留 60-90 分钟给升级</text>
+  <text x="110" y="580" class="p">3）选能沉淀的技能栈：越做越省力、越做越值钱</text>
+
+  <rect x="70" y="700" width="520" height="520" rx="28" class="b"/>
+  <rect x="610" y="700" width="520" height="520" rx="28" class="c"/>
+
+  <text x="110" y="770" class="h2">可复制资产（例）</text>
+  <text x="110" y="845" class="p">- 剪辑/写作/表达</text>
+  <text x="110" y="905" class="p">- 工具流/自动化SOP</text>
+  <text x="110" y="965" class="p">- 小生意的流程系统</text>
+  <text x="110" y="1040" class="m">目标：可复用、可迭代、可放大</text>
+
+  <text x="650" y="770" class="h2">至少一人持续进步</text>
+  <text x="650" y="845" class="p">- 管理岗深耕（能力杠杆）</text>
+  <text x="650" y="905" class="p">- 死磕一项技能（可接单）</text>
+  <text x="650" y="965" class="p">- 副业试验（小步快跑）</text>
+  <text x="650" y="1040" class="m">终身学习=持续集成（CI）</text>
+
+  <rect class="card" x="70" y="1260" width="1060" height="210" rx="28"/>
+  <text x="110" y="1340" class="mono">小提示</text>
+  <text x="110" y="1405" class="p">别追“暴利故事”，追“可复用能力”。</text>
+</svg>

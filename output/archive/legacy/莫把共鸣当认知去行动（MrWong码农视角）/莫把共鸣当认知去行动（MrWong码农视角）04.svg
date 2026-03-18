@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#E0F2FE;}
+      .b{fill:#EEF2FF;}
+      .c{fill:#ECFDF5;}
+      .d{fill:#FFF7ED;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:66px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:550;font-size:28px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+      .tag{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:18px;fill:#334155;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="170" rx="28"/>
+  <circle cx="135" cy="155" r="40" fill="#1D9BF0" opacity="0.16"/>
+  <text x="205" y="150" class="h2">Mr Wong是码农</text>
+  <text x="205" y="190" class="m">// 认知=行动后的反馈，不是收藏的道理</text>
+  <text x="1010" y="190" class="m">04 / 06</text>
+  
+  <text x="90" y="320" class="h1">睡前人机分离</text>
+  <text x="90" y="388" class="m">最笨，但最有效：不让自己和手机同床</text>
+  
+  <rect x="70" y="500" width="1060" height="860" rx="28" fill="#E0F2FE"/>
+  <text x="110" y="570" class="mono">// 最低成本实践（今天就能做）</text>
+  <text x="110" y="640" class="p2">把手机放远离床头 2 米以上（最好放客厅充电）。</text>
+  <text x="110" y="696" class="p2">睡前 30 分钟：不看信息流，只做“收尾动作”。</text>
+  <text x="110" y="752" class="p2">比如：洗漱/拉伸/准备明天衣物/写 3 行复盘。</text>
+  <text x="110" y="808" class="p2">你会发现：睡眠质量提升，是立刻可感知的反馈。</text>
+  
+
+  <rect class="card" x="70" y="1420" width="1060" height="120" rx="28"/>
+  <text x="110" y="1495" class="p2">行动后的反馈，才会变成你的认知。</text>
+</svg>

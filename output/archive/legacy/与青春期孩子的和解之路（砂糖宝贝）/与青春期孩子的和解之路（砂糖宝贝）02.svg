@@ -1,0 +1,62 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg{fill:#F7F3F0}
+      .ink{fill:#333333}
+      .accent{fill:#B45B3E}
+      .muted{fill:#6B6B6B}
+      .hl{fill:#FFE14D}
+      .tTitle{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:900;}
+      .tH2{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:800;}
+      .tBody{font-family:"Noto Sans CJK TC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial; font-weight:500;}
+      .tMono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; font-weight:700;}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="1600" class="bg"/>
+
+  <!-- Header -->
+  <text x="90" y="110" class="tMono muted" font-size="26">与青春期孩子的和解之路 · 内页</text>
+  <rect x="90" y="135" width="1020" height="3" class="accent" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="90" y="240" class="tTitle ink" font-size="82">修复关系的 3 步法</text>
+  <text x="90" y="315" class="tBody muted" font-size="34">先降温｜再对齐｜最后提出请求（先把关系捡起来）</text>
+
+  <!-- Small image placeholder with yellow sticker -->
+  <g transform="translate(90 360)">
+    <rect x="0" y="0" width="1020" height="340" rx="28" fill="#FFFFFF" opacity="0.9"/>
+    <rect x="36" y="28" width="140" height="52" rx="26" class="hl"/>
+    <text x="60" y="64" class="tMono ink" font-size="22">小氛围图</text>
+    <text x="220" y="74" class="tBody muted" font-size="28">建议：散步路灯 / 一杯温水 / 餐桌 / 纸条</text>
+  </g>
+
+  <!-- Deep text paragraphs -->
+  <g transform="translate(90 740)">
+    <text x="0" y="0" class="tBody ink" font-size="32">
+      <tspan x="0" dy="0">很多父母最难的是：明明想靠近，却在气头上把话说重了。</tspan>
+      <tspan x="0" dy="54">我后来学会一个顺序——先把身体从“战斗模式”退出来，</tspan>
+      <tspan x="0" dy="54">再谈对错、规则和解决方案。顺序对了，和解才会发生。</tspan>
+    </text>
+
+    <text x="0" y="220" class="tH2 ink" font-size="40">① 降温（让系统先退出战斗）</text>
+    <text x="0" y="280" class="tBody ink" font-size="32">暂停 20 分钟/1 小时：补水、洗脸、散步。不要在气头上“讲道理”。</text>
+
+    <text x="0" y="380" class="tH2 ink" font-size="40">② 对齐（只对齐感受与事实，不急着判对错）</text>
+    <text x="0" y="440" class="tBody ink" font-size="32">一句话复述对方：
+“我听到你是觉得___，我刚刚的方式让你很难受，对吗？”</text>
+
+    <text x="0" y="560" class="tH2 ink" font-size="40">③ 请求（给下一次一个可执行的约定）</text>
+    <text x="0" y="620" class="tBody ink" font-size="32">“下次我们都先停 10 分钟再继续谈；你愿意吗？”
+做到“比上次更好一点”，就已经在路上。</text>
+  </g>
+
+  <!-- Insight box -->
+  <g transform="translate(90 1400)">
+    <rect x="0" y="0" width="1020" height="140" rx="28" fill="#FFFFFF"/>
+    <text x="40" y="60" class="tTitle accent" font-size="44">“先修复连接，再解决问题；</text>
+    <text x="40" y="110" class="tTitle accent" font-size="44">连接断了，问题只会更难。”</text>
+  </g>
+
+  <text x="1080" y="1570" class="tMono muted" font-size="22">02/03</text>
+</svg>

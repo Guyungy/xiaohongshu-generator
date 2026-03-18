@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .b1 { fill: #E0F2FE; }
+      .b2 { fill: #EEF2FF; }
+      .b3 { fill: #ECFDF5; }
+      .b4 { fill: #FFF7ED; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 68px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 28px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 24px; fill: #475569; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 800; font-size: 22px; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <!-- Header -->
+  <rect class="card" x="70" y="70" width="1060" height="150" rx="28"/>
+  <text x="110" y="145" class="h2">孩子用 OpenClaw 的 3 个关键动作</text>
+  <text x="110" y="190" class="muted">// 工程师老爸拆解：提问结构 + 任务拆分 + 验收复盘</text>
+  <text x="1010" y="190" class="muted">02 / 03</text>
+
+  <!-- Blocks -->
+  <rect x="70" y="260" width="1060" height="300" rx="28" class="b1"/>
+  <rect x="70" y="585" width="1060" height="300" rx="28" class="b2"/>
+  <rect x="70" y="910" width="1060" height="300" rx="28" class="b3"/>
+  <rect x="70" y="1235" width="1060" height="270" rx="28" class="b4"/>
+
+  <!-- 1 -->
+  <text x="110" y="330" class="mono">1) Prompt = 需求文档</text>
+  <text x="110" y="390" class="p">目标：要什么结果  ·  约束：字数/格式/截止时间</text>
+  <text x="110" y="440" class="p">输入：我给你哪些材料  ·  输出：清单/步骤/模板/话术</text>
+  <text x="110" y="500" class="muted">爸爸提示：不清楚就先让 OpenClaw 反问 3 个澄清问题</text>
+
+  <!-- 2 -->
+  <text x="110" y="655" class="mono">2) 拆任务 = 拆工单</text>
+  <text x="110" y="715" class="p">把“大作业”拆成 5～7 条可验收的小任务</text>
+  <text x="110" y="765" class="p">顺序：先易后难 / 先关键后美化 / 先结构再内容</text>
+  <text x="110" y="825" class="muted">孩子会更有掌控感，焦虑会明显下降</text>
+
+  <!-- 3 -->
+  <text x="110" y="980" class="mono">3) 复盘 = 跑一次 CI</text>
+  <text x="110" y="1040" class="p">有没有漏项？有没有“看起来对但其实在猜”？</text>
+  <text x="110" y="1090" class="p">有没有隐私/敏感内容？引用/数据能不能自证？</text>
+  <text x="110" y="1150" class="muted">原则：输出再好看，也必须能被“验收”</text>
+
+  <!-- Safety rail -->
+  <text x="110" y="1305" class="mono">// 安全护栏（家规）</text>
+  <text x="110" y="1365" class="p">不给隐私（姓名/手机号/班级/地址） · 不让它替你做决定</text>
+  <text x="110" y="1415" class="p">任何结论都二次确认（尤其数据/引用）</text>
+</svg>

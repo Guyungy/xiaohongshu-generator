@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#FFF7ED;}
+      .b{fill:#E0F2FE;}
+      .c{fill:#ECFDF5;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:62px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">P3｜资金与风险：先保SLA</text>
+  <text x="110" y="210" class="m">// 先把家庭波动兜住，再谈性能优化</text>
+  <text x="1010" y="210" class="m">03 / 06</text>
+
+  <rect x="70" y="300" width="1060" height="360" rx="28" class="a"/>
+  <text x="110" y="370" class="mono">原则（不做具体投资建议）</text>
+  <text x="110" y="440" class="p">1）储蓄率尽量向 30% 附近靠拢：先保底，再加速</text>
+  <text x="110" y="510" class="p">2）高风险操作要“限流”：只在可承受范围内测试</text>
+  <text x="110" y="580" class="p">3）别被“暴利项目”拉进局：先做风控再行动</text>
+
+  <rect x="70" y="700" width="520" height="520" rx="28" class="b"/>
+  <rect x="610" y="700" width="520" height="520" rx="28" class="c"/>
+
+  <text x="110" y="770" class="h2">避险杠杆（了解即可）</text>
+  <text x="110" y="845" class="p">- 疾病类保障（防大波动）</text>
+  <text x="110" y="905" class="p">- 定期寿等（按需了解）</text>
+  <text x="110" y="980" class="m">目标：避免“因意外/疾病”把家庭打回原点</text>
+
+  <text x="650" y="770" class="h2">警惕伪资产</text>
+  <text x="650" y="845" class="p">- 冲动消费换的“面子”</text>
+  <text x="650" y="905" class="p">- 不能产生现金流/能力的囤货</text>
+  <text x="650" y="965" class="p">- 只会占用注意力的“收藏”</text>
+  <text x="650" y="1040" class="m">钱优先换：技能/系统/长期能力</text>
+
+  <rect class="card" x="70" y="1260" width="1060" height="210" rx="28"/>
+  <text x="110" y="1340" class="mono">一句话</text>
+  <text x="110" y="1405" class="p">先把风险波动压住，家庭才跑得稳。</text>
+</svg>

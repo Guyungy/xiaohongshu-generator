@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg{fill:#F8FAFC;}
+      .card{fill:#FFFFFF;stroke:#E5E7EB;stroke-width:2;}
+      .a{fill:#EEF2FF;}
+      .b{fill:#ECFDF5;}
+      .h1{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:900;font-size:60px;fill:#0F172A;}
+      .h2{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:800;font-size:34px;fill:#0F172A;}
+      .p{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:30px;fill:#0F172A;}
+      .m{font-family:"Noto Sans CJK SC","WenQuanYi Zen Hei";font-weight:500;font-size:24px;fill:#475569;}
+      .mono{font-family:"Noto Sans Mono CJK SC","Noto Sans CJK SC",monospace;font-weight:800;font-size:22px;fill:#0F172A;}
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">拆解示例：一篇小作文</text>
+  <text x="110" y="210" class="m">// 目标：孩子能一步一步推进</text>
+  <text x="1010" y="210" class="m">05 / 06</text>
+
+  <rect x="70" y="300" width="520" height="380" rx="28" class="a"/>
+  <rect x="610" y="300" width="520" height="380" rx="28" class="b"/>
+
+  <text x="110" y="360" class="mono">需求（4行）</text>
+  <text x="110" y="430" class="p">题目：写一篇小作文</text>
+  <text x="110" y="490" class="p">字数：500-800 字</text>
+  <text x="110" y="550" class="p">必须包含：2 个例子</text>
+  <text x="110" y="610" class="p">截止：今晚 9 点前</text>
+
+  <text x="650" y="360" class="mono">让 OpenClaw 给</text>
+  <text x="650" y="430" class="p">步骤清单（5-7步）</text>
+  <text x="650" y="490" class="p">每步检查点（别跑题）</text>
+  <text x="650" y="550" class="p">开头/结尾模板（可套用）</text>
+  <text x="650" y="610" class="m">别要“长篇大道理”，要“能做”</text>
+
+  <rect class="card" x="70" y="730" width="1060" height="550" rx="28"/>
+  <text x="110" y="810" class="h2">一步一步做（打勾就行）</text>
+  <text x="110" y="890" class="p">1）列 3 个要点（我想表达什么）</text>
+  <text x="110" y="950" class="p">2）找 2 个例子（每个例子一句解释）</text>
+  <text x="110" y="1010" class="p">3）写开头（30-60字）</text>
+  <text x="110" y="1070" class="p">4）写主体（两段，每段一个例子）</text>
+  <text x="110" y="1130" class="p">5）写结尾（总结+收获）</text>
+  <text x="110" y="1210" class="m">最后验收：跑题/漏点/隐私</text>
+</svg>

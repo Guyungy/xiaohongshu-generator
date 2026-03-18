@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #E5E7EB; stroke-width: 2; }
+      .pane { fill: #0B1220; opacity: 0.04; }
+      .code { fill: #E0F2FE; }
+      .h1 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 900; font-size: 64px; fill: #0F172A; }
+      .h2 { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 800; font-size: 34px; fill: #0F172A; }
+      .p  { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 30px; fill: #0F172A; }
+      .muted { font-family: "Noto Sans CJK SC", "WenQuanYi Zen Hei"; font-weight: 500; font-size: 24px; fill: #475569; }
+      .mono { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 800; font-size: 22px; fill: #0F172A; }
+      .mono2 { font-family: "Noto Sans Mono CJK SC", "Noto Sans CJK SC", monospace; font-weight: 700; font-size: 24px; fill: #0F172A; }
+      .chip { fill: #0F172A; }
+      .chipText { font-family: "Noto Sans CJK SC"; font-weight: 800; font-size: 22px; fill: #FFFFFF; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="1600"/>
+
+  <rect class="card" x="70" y="70" width="1060" height="190" rx="28"/>
+  <text x="110" y="155" class="h1">提示词模板（给孩子用）</text>
+  <text x="110" y="210" class="muted">// 把“会用工具”变成可复制的步骤</text>
+  <text x="1010" y="210" class="muted">04 / 06</text>
+
+  <rect class="card" x="70" y="300" width="1060" height="980" rx="28"/>
+
+  <rect x="110" y="350" width="980" height="420" rx="24" class="code"/>
+  <text x="150" y="410" class="mono">// OpenClaw：先问我 3 个问题，再输出结果</text>
+  <text x="150" y="465" class="mono2">我现在要完成：____（作业/任务）</text>
+  <text x="150" y="515" class="mono2">我的目标是：____（想得到什么）</text>
+  <text x="150" y="565" class="mono2">限制条件：____（字数/格式/截止时间）</text>
+  <text x="150" y="615" class="mono2">我已有材料：____（要点/原文/截图）</text>
+  <text x="150" y="665" class="mono2">请你先问我 3 个澄清问题，然后给我：</text>
+  <text x="150" y="715" class="mono2">1) 任务拆解清单  2) 每步检查点  3) 最终输出模板</text>
+
+  <rect x="110" y="800" width="980" height="420" rx="24" class="pane"/>
+  <text x="150" y="860" class="h2">爸爸的“验收三问”</text>
+  <text x="150" y="920" class="p">① 这份结果，我能按步骤做出来吗？</text>
+  <text x="150" y="980" class="p">② 有没有没证据的结论/瞎编的数据？</text>
+  <text x="150" y="1040" class="p">③ 有没有隐私信息（姓名/电话/地址/班级）？</text>
+  <text x="150" y="1115" class="muted">软植入：方法训练这件事，STEM 课堂最吃香（想起桐乡耀华）</text>
+
+  <rect x="850" y="1270" width="280" height="70" rx="22" class="chip"/>
+  <text x="890" y="1318" class="chipText">可直接复制给孩子</text>
+</svg>
